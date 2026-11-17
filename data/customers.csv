@@ -1,0 +1,3596 @@
+customer_id,signup_date,concern,channel,quiz_completed
+C00001,2026-01-01,dark spots,paid social,yes
+C00002,2026-01-01,dark spots,paid search,yes
+C00003,2026-01-01,dark spots,paid search,no
+C00004,2026-01-01,dark spots,organic,yes
+C00005,2026-01-01,sensitivity,paid social,yes
+C00006,2026-01-01,breakouts,paid search,no
+C00007,2026-01-01,sensitivity,paid search,no
+C00008,2026-01-01,sensitivity,quiz organic,yes
+C00009,2026-01-01,breakouts,paid social,no
+C00010,2026-01-01,dark spots,organic,yes
+C00011,2026-01-01,fine lines,organic,no
+C00012,2026-01-01,breakouts,paid social,yes
+C00013,2026-01-01,sensitivity,paid social,no
+C00014,2026-01-01,fine lines,paid social,yes
+C00015,2026-01-01,breakouts,paid search,no
+C00016,2026-01-01,dark spots,quiz organic,yes
+C00017,2026-01-01,breakouts,paid search,yes
+C00018,2026-01-01,sensitivity,quiz organic,yes
+C00019,2026-01-01,sensitivity,organic,yes
+C00020,2026-01-01,dark spots,quiz organic,yes
+C00021,2026-01-01,dark spots,quiz organic,yes
+C00022,2026-01-01,fine lines,paid social,no
+C00023,2026-01-01,dark spots,paid search,no
+C00024,2026-01-01,sensitivity,paid social,yes
+C00025,2026-01-02,fine lines,paid social,no
+C00026,2026-01-02,fine lines,quiz organic,yes
+C00027,2026-01-02,sensitivity,paid search,no
+C00028,2026-01-02,breakouts,paid social,yes
+C00029,2026-01-02,fine lines,paid search,yes
+C00030,2026-01-02,sensitivity,paid social,yes
+C00031,2026-01-02,breakouts,paid social,no
+C00032,2026-01-02,breakouts,paid search,no
+C00033,2026-01-02,dark spots,paid social,no
+C00034,2026-01-02,breakouts,paid social,yes
+C00035,2026-01-02,dark spots,paid search,no
+C00036,2026-01-02,dark spots,quiz organic,yes
+C00037,2026-01-02,breakouts,quiz organic,yes
+C00038,2026-01-02,breakouts,paid social,no
+C00039,2026-01-02,breakouts,paid social,yes
+C00040,2026-01-02,dark spots,organic,yes
+C00041,2026-01-02,fine lines,paid social,no
+C00042,2026-01-02,fine lines,paid search,no
+C00043,2026-01-02,dark spots,organic,yes
+C00044,2026-01-02,sensitivity,paid social,no
+C00045,2026-01-02,sensitivity,paid search,no
+C00046,2026-01-02,dark spots,paid social,yes
+C00047,2026-01-02,dark spots,quiz organic,yes
+C00048,2026-01-02,dark spots,organic,no
+C00049,2026-01-02,dark spots,organic,yes
+C00050,2026-01-02,sensitivity,paid social,no
+C00051,2026-01-03,dark spots,organic,no
+C00052,2026-01-03,fine lines,organic,yes
+C00053,2026-01-03,breakouts,paid search,yes
+C00054,2026-01-03,fine lines,paid search,no
+C00055,2026-01-03,sensitivity,quiz organic,yes
+C00056,2026-01-03,sensitivity,paid social,yes
+C00057,2026-01-03,breakouts,quiz organic,yes
+C00058,2026-01-03,fine lines,quiz organic,yes
+C00059,2026-01-03,breakouts,paid social,no
+C00060,2026-01-03,fine lines,paid social,no
+C00061,2026-01-03,breakouts,paid social,no
+C00062,2026-01-03,fine lines,paid search,yes
+C00063,2026-01-03,sensitivity,organic,yes
+C00064,2026-01-03,dark spots,paid social,no
+C00065,2026-01-04,dark spots,paid social,yes
+C00066,2026-01-04,dark spots,paid search,no
+C00067,2026-01-04,dark spots,paid search,no
+C00068,2026-01-04,fine lines,paid search,yes
+C00069,2026-01-04,dark spots,organic,yes
+C00070,2026-01-04,breakouts,organic,no
+C00071,2026-01-04,breakouts,organic,no
+C00072,2026-01-04,sensitivity,paid social,yes
+C00073,2026-01-04,breakouts,paid search,no
+C00074,2026-01-04,fine lines,organic,yes
+C00075,2026-01-04,dark spots,quiz organic,yes
+C00076,2026-01-04,fine lines,quiz organic,yes
+C00077,2026-01-04,breakouts,organic,no
+C00078,2026-01-04,fine lines,organic,yes
+C00079,2026-01-04,dark spots,organic,yes
+C00080,2026-01-04,breakouts,paid social,yes
+C00081,2026-01-04,breakouts,organic,no
+C00082,2026-01-04,breakouts,organic,no
+C00083,2026-01-05,breakouts,quiz organic,yes
+C00084,2026-01-05,sensitivity,organic,no
+C00085,2026-01-05,breakouts,organic,yes
+C00086,2026-01-05,sensitivity,paid social,no
+C00087,2026-01-05,breakouts,organic,no
+C00088,2026-01-05,breakouts,paid search,yes
+C00089,2026-01-05,dark spots,quiz organic,yes
+C00090,2026-01-05,sensitivity,organic,no
+C00091,2026-01-05,fine lines,paid search,yes
+C00092,2026-01-05,breakouts,organic,no
+C00093,2026-01-05,dark spots,quiz organic,yes
+C00094,2026-01-05,dark spots,organic,yes
+C00095,2026-01-05,breakouts,paid social,no
+C00096,2026-01-05,breakouts,paid social,yes
+C00097,2026-01-05,sensitivity,paid social,yes
+C00098,2026-01-05,fine lines,quiz organic,yes
+C00099,2026-01-05,fine lines,paid search,yes
+C00100,2026-01-05,dark spots,organic,yes
+C00101,2026-01-05,sensitivity,paid search,no
+C00102,2026-01-05,fine lines,paid social,no
+C00103,2026-01-05,dark spots,organic,no
+C00104,2026-01-05,sensitivity,paid social,no
+C00105,2026-01-06,dark spots,paid search,yes
+C00106,2026-01-06,fine lines,paid search,no
+C00107,2026-01-06,breakouts,paid search,no
+C00108,2026-01-06,dark spots,paid social,no
+C00109,2026-01-06,breakouts,paid social,no
+C00110,2026-01-06,sensitivity,organic,yes
+C00111,2026-01-06,sensitivity,paid search,no
+C00112,2026-01-06,breakouts,paid search,no
+C00113,2026-01-06,breakouts,paid search,yes
+C00114,2026-01-06,fine lines,paid social,no
+C00115,2026-01-06,breakouts,quiz organic,yes
+C00116,2026-01-06,sensitivity,paid social,no
+C00117,2026-01-06,fine lines,paid social,no
+C00118,2026-01-06,sensitivity,quiz organic,yes
+C00119,2026-01-06,dark spots,organic,yes
+C00120,2026-01-06,sensitivity,organic,yes
+C00121,2026-01-06,dark spots,paid search,no
+C00122,2026-01-06,breakouts,paid social,yes
+C00123,2026-01-06,dark spots,paid social,no
+C00124,2026-01-06,breakouts,organic,no
+C00125,2026-01-06,breakouts,quiz organic,yes
+C00126,2026-01-07,sensitivity,paid search,yes
+C00127,2026-01-07,sensitivity,organic,yes
+C00128,2026-01-07,dark spots,paid search,no
+C00129,2026-01-07,breakouts,paid social,yes
+C00130,2026-01-07,fine lines,paid search,no
+C00131,2026-01-07,fine lines,paid social,yes
+C00132,2026-01-07,sensitivity,paid search,no
+C00133,2026-01-07,sensitivity,paid search,no
+C00134,2026-01-07,breakouts,organic,no
+C00135,2026-01-07,dark spots,quiz organic,yes
+C00136,2026-01-07,fine lines,paid search,no
+C00137,2026-01-07,breakouts,quiz organic,yes
+C00138,2026-01-07,fine lines,paid social,no
+C00139,2026-01-07,dark spots,paid search,yes
+C00140,2026-01-07,breakouts,quiz organic,yes
+C00141,2026-01-07,dark spots,paid social,yes
+C00142,2026-01-07,dark spots,paid social,no
+C00143,2026-01-07,breakouts,paid social,no
+C00144,2026-01-07,dark spots,paid search,yes
+C00145,2026-01-07,breakouts,quiz organic,yes
+C00146,2026-01-08,sensitivity,paid search,no
+C00147,2026-01-08,fine lines,paid search,no
+C00148,2026-01-08,dark spots,paid social,no
+C00149,2026-01-08,sensitivity,quiz organic,yes
+C00150,2026-01-08,breakouts,quiz organic,yes
+C00151,2026-01-08,sensitivity,paid search,no
+C00152,2026-01-08,fine lines,paid search,yes
+C00153,2026-01-08,breakouts,paid search,no
+C00154,2026-01-08,breakouts,quiz organic,yes
+C00155,2026-01-08,sensitivity,quiz organic,yes
+C00156,2026-01-08,breakouts,paid social,yes
+C00157,2026-01-08,dark spots,paid search,no
+C00158,2026-01-08,dark spots,quiz organic,yes
+C00159,2026-01-08,breakouts,quiz organic,yes
+C00160,2026-01-08,breakouts,quiz organic,yes
+C00161,2026-01-08,sensitivity,quiz organic,yes
+C00162,2026-01-08,dark spots,organic,no
+C00163,2026-01-08,sensitivity,quiz organic,yes
+C00164,2026-01-08,sensitivity,paid search,yes
+C00165,2026-01-08,fine lines,paid social,yes
+C00166,2026-01-08,fine lines,paid search,no
+C00167,2026-01-08,breakouts,paid social,yes
+C00168,2026-01-08,fine lines,paid social,no
+C00169,2026-01-08,breakouts,quiz organic,yes
+C00170,2026-01-08,breakouts,paid social,yes
+C00171,2026-01-09,breakouts,paid social,no
+C00172,2026-01-09,dark spots,quiz organic,yes
+C00173,2026-01-09,sensitivity,organic,yes
+C00174,2026-01-09,fine lines,organic,no
+C00175,2026-01-09,sensitivity,organic,yes
+C00176,2026-01-09,fine lines,paid social,no
+C00177,2026-01-09,fine lines,paid social,no
+C00178,2026-01-09,sensitivity,quiz organic,yes
+C00179,2026-01-09,breakouts,quiz organic,yes
+C00180,2026-01-09,dark spots,paid search,no
+C00181,2026-01-09,sensitivity,paid social,yes
+C00182,2026-01-09,sensitivity,quiz organic,yes
+C00183,2026-01-09,breakouts,quiz organic,yes
+C00184,2026-01-09,fine lines,paid social,yes
+C00185,2026-01-09,fine lines,paid search,yes
+C00186,2026-01-09,breakouts,paid search,no
+C00187,2026-01-09,breakouts,organic,no
+C00188,2026-01-09,fine lines,paid search,no
+C00189,2026-01-09,sensitivity,paid social,yes
+C00190,2026-01-09,breakouts,paid social,yes
+C00191,2026-01-09,dark spots,organic,yes
+C00192,2026-01-09,dark spots,quiz organic,yes
+C00193,2026-01-09,fine lines,paid social,yes
+C00194,2026-01-09,sensitivity,organic,yes
+C00195,2026-01-10,sensitivity,paid social,yes
+C00196,2026-01-10,dark spots,organic,no
+C00197,2026-01-10,dark spots,paid search,yes
+C00198,2026-01-10,sensitivity,paid search,no
+C00199,2026-01-10,breakouts,paid search,yes
+C00200,2026-01-10,dark spots,paid social,yes
+C00201,2026-01-10,sensitivity,paid search,no
+C00202,2026-01-10,breakouts,paid social,no
+C00203,2026-01-10,fine lines,paid search,no
+C00204,2026-01-10,breakouts,paid search,yes
+C00205,2026-01-10,sensitivity,quiz organic,yes
+C00206,2026-01-10,dark spots,quiz organic,yes
+C00207,2026-01-10,sensitivity,quiz organic,yes
+C00208,2026-01-10,sensitivity,organic,yes
+C00209,2026-01-10,breakouts,quiz organic,yes
+C00210,2026-01-10,sensitivity,paid search,no
+C00211,2026-01-10,fine lines,quiz organic,yes
+C00212,2026-01-11,sensitivity,paid search,no
+C00213,2026-01-11,dark spots,organic,no
+C00214,2026-01-11,sensitivity,quiz organic,yes
+C00215,2026-01-11,breakouts,paid social,no
+C00216,2026-01-11,breakouts,paid search,yes
+C00217,2026-01-11,dark spots,quiz organic,yes
+C00218,2026-01-11,dark spots,organic,yes
+C00219,2026-01-11,breakouts,paid search,yes
+C00220,2026-01-11,breakouts,paid search,yes
+C00221,2026-01-11,dark spots,paid social,yes
+C00222,2026-01-11,sensitivity,paid social,yes
+C00223,2026-01-11,fine lines,paid search,no
+C00224,2026-01-11,sensitivity,paid social,no
+C00225,2026-01-11,dark spots,quiz organic,yes
+C00226,2026-01-11,breakouts,paid social,yes
+C00227,2026-01-12,sensitivity,paid social,no
+C00228,2026-01-12,dark spots,paid search,yes
+C00229,2026-01-12,fine lines,paid social,no
+C00230,2026-01-12,fine lines,paid social,yes
+C00231,2026-01-12,dark spots,paid social,no
+C00232,2026-01-12,breakouts,organic,no
+C00233,2026-01-12,sensitivity,quiz organic,yes
+C00234,2026-01-12,sensitivity,organic,no
+C00235,2026-01-12,dark spots,paid search,yes
+C00236,2026-01-12,dark spots,organic,no
+C00237,2026-01-12,dark spots,paid search,no
+C00238,2026-01-12,dark spots,paid search,no
+C00239,2026-01-12,dark spots,paid search,yes
+C00240,2026-01-12,breakouts,paid search,no
+C00241,2026-01-12,breakouts,paid search,yes
+C00242,2026-01-12,sensitivity,paid social,yes
+C00243,2026-01-12,fine lines,paid social,no
+C00244,2026-01-12,breakouts,paid social,no
+C00245,2026-01-12,sensitivity,quiz organic,yes
+C00246,2026-01-12,dark spots,organic,yes
+C00247,2026-01-12,sensitivity,quiz organic,yes
+C00248,2026-01-12,sensitivity,quiz organic,yes
+C00249,2026-01-12,dark spots,organic,no
+C00250,2026-01-12,fine lines,paid social,no
+C00251,2026-01-12,fine lines,organic,yes
+C00252,2026-01-13,sensitivity,organic,no
+C00253,2026-01-13,breakouts,quiz organic,yes
+C00254,2026-01-13,breakouts,paid search,yes
+C00255,2026-01-13,fine lines,quiz organic,yes
+C00256,2026-01-13,breakouts,quiz organic,yes
+C00257,2026-01-13,sensitivity,paid social,yes
+C00258,2026-01-13,breakouts,paid social,no
+C00259,2026-01-13,dark spots,paid search,yes
+C00260,2026-01-13,dark spots,paid social,yes
+C00261,2026-01-13,sensitivity,quiz organic,yes
+C00262,2026-01-13,breakouts,paid search,yes
+C00263,2026-01-13,fine lines,paid search,no
+C00264,2026-01-13,dark spots,paid social,yes
+C00265,2026-01-13,dark spots,quiz organic,yes
+C00266,2026-01-13,fine lines,organic,yes
+C00267,2026-01-13,breakouts,paid social,no
+C00268,2026-01-13,dark spots,paid search,no
+C00269,2026-01-13,sensitivity,organic,yes
+C00270,2026-01-13,dark spots,organic,no
+C00271,2026-01-13,sensitivity,quiz organic,yes
+C00272,2026-01-13,breakouts,quiz organic,yes
+C00273,2026-01-14,breakouts,paid social,yes
+C00274,2026-01-14,sensitivity,quiz organic,yes
+C00275,2026-01-14,breakouts,paid social,no
+C00276,2026-01-14,dark spots,quiz organic,yes
+C00277,2026-01-14,sensitivity,paid search,yes
+C00278,2026-01-14,sensitivity,quiz organic,yes
+C00279,2026-01-14,sensitivity,quiz organic,yes
+C00280,2026-01-14,fine lines,paid search,yes
+C00281,2026-01-14,sensitivity,paid search,no
+C00282,2026-01-14,breakouts,paid social,no
+C00283,2026-01-14,sensitivity,organic,no
+C00284,2026-01-14,breakouts,paid search,no
+C00285,2026-01-14,fine lines,quiz organic,yes
+C00286,2026-01-14,fine lines,paid social,no
+C00287,2026-01-14,fine lines,organic,no
+C00288,2026-01-14,fine lines,paid search,yes
+C00289,2026-01-14,fine lines,paid search,yes
+C00290,2026-01-14,fine lines,quiz organic,yes
+C00291,2026-01-14,breakouts,paid social,yes
+C00292,2026-01-14,breakouts,quiz organic,yes
+C00293,2026-01-14,sensitivity,organic,no
+C00294,2026-01-14,fine lines,organic,no
+C00295,2026-01-14,fine lines,paid social,no
+C00296,2026-01-14,breakouts,quiz organic,yes
+C00297,2026-01-14,dark spots,paid social,yes
+C00298,2026-01-14,breakouts,organic,no
+C00299,2026-01-15,dark spots,paid search,no
+C00300,2026-01-15,fine lines,organic,yes
+C00301,2026-01-15,dark spots,paid search,yes
+C00302,2026-01-15,fine lines,paid social,no
+C00303,2026-01-15,sensitivity,paid social,no
+C00304,2026-01-15,dark spots,paid search,yes
+C00305,2026-01-15,sensitivity,quiz organic,yes
+C00306,2026-01-15,dark spots,paid social,no
+C00307,2026-01-15,breakouts,organic,yes
+C00308,2026-01-15,sensitivity,paid search,no
+C00309,2026-01-15,fine lines,paid search,no
+C00310,2026-01-15,sensitivity,quiz organic,yes
+C00311,2026-01-15,sensitivity,quiz organic,yes
+C00312,2026-01-15,dark spots,paid social,no
+C00313,2026-01-15,dark spots,paid social,no
+C00314,2026-01-15,sensitivity,paid social,yes
+C00315,2026-01-15,sensitivity,paid search,yes
+C00316,2026-01-15,fine lines,paid social,yes
+C00317,2026-01-15,breakouts,paid social,yes
+C00318,2026-01-15,sensitivity,organic,no
+C00319,2026-01-15,sensitivity,paid search,yes
+C00320,2026-01-15,sensitivity,quiz organic,yes
+C00321,2026-01-15,fine lines,quiz organic,yes
+C00322,2026-01-15,sensitivity,paid search,yes
+C00323,2026-01-16,dark spots,paid social,yes
+C00324,2026-01-16,breakouts,paid social,no
+C00325,2026-01-16,sensitivity,paid social,no
+C00326,2026-01-16,breakouts,organic,yes
+C00327,2026-01-16,breakouts,paid search,no
+C00328,2026-01-16,dark spots,paid search,yes
+C00329,2026-01-16,fine lines,organic,no
+C00330,2026-01-16,breakouts,paid social,no
+C00331,2026-01-16,dark spots,paid social,yes
+C00332,2026-01-16,breakouts,quiz organic,yes
+C00333,2026-01-16,sensitivity,quiz organic,yes
+C00334,2026-01-16,sensitivity,paid search,no
+C00335,2026-01-16,sensitivity,organic,yes
+C00336,2026-01-16,fine lines,quiz organic,yes
+C00337,2026-01-16,fine lines,organic,no
+C00338,2026-01-16,sensitivity,paid social,no
+C00339,2026-01-16,breakouts,quiz organic,yes
+C00340,2026-01-16,sensitivity,paid social,no
+C00341,2026-01-16,sensitivity,organic,yes
+C00342,2026-01-16,fine lines,paid social,no
+C00343,2026-01-17,fine lines,organic,yes
+C00344,2026-01-17,dark spots,organic,yes
+C00345,2026-01-17,fine lines,paid search,no
+C00346,2026-01-17,fine lines,organic,yes
+C00347,2026-01-17,dark spots,organic,yes
+C00348,2026-01-17,dark spots,quiz organic,yes
+C00349,2026-01-17,fine lines,quiz organic,yes
+C00350,2026-01-17,breakouts,paid social,no
+C00351,2026-01-17,dark spots,quiz organic,yes
+C00352,2026-01-17,breakouts,quiz organic,yes
+C00353,2026-01-17,sensitivity,paid social,yes
+C00354,2026-01-17,sensitivity,organic,yes
+C00355,2026-01-17,fine lines,paid social,no
+C00356,2026-01-17,sensitivity,paid social,no
+C00357,2026-01-17,sensitivity,quiz organic,yes
+C00358,2026-01-17,breakouts,organic,no
+C00359,2026-01-17,dark spots,paid social,yes
+C00360,2026-01-17,breakouts,paid social,yes
+C00361,2026-01-17,sensitivity,organic,no
+C00362,2026-01-17,fine lines,paid search,no
+C00363,2026-01-17,breakouts,organic,no
+C00364,2026-01-17,dark spots,paid search,no
+C00365,2026-01-18,dark spots,quiz organic,yes
+C00366,2026-01-18,sensitivity,quiz organic,yes
+C00367,2026-01-18,breakouts,paid social,no
+C00368,2026-01-18,breakouts,paid search,yes
+C00369,2026-01-18,dark spots,paid search,no
+C00370,2026-01-18,dark spots,paid search,no
+C00371,2026-01-18,breakouts,paid social,yes
+C00372,2026-01-18,breakouts,paid search,no
+C00373,2026-01-18,breakouts,paid search,no
+C00374,2026-01-18,sensitivity,paid social,no
+C00375,2026-01-18,dark spots,quiz organic,yes
+C00376,2026-01-18,breakouts,paid search,no
+C00377,2026-01-18,sensitivity,paid social,no
+C00378,2026-01-18,dark spots,paid social,yes
+C00379,2026-01-18,dark spots,paid social,yes
+C00380,2026-01-19,dark spots,paid social,no
+C00381,2026-01-19,sensitivity,paid search,no
+C00382,2026-01-19,fine lines,paid search,yes
+C00383,2026-01-19,fine lines,organic,yes
+C00384,2026-01-19,breakouts,organic,yes
+C00385,2026-01-19,breakouts,paid social,yes
+C00386,2026-01-19,breakouts,quiz organic,yes
+C00387,2026-01-19,sensitivity,organic,no
+C00388,2026-01-19,breakouts,organic,no
+C00389,2026-01-19,fine lines,paid search,no
+C00390,2026-01-19,dark spots,paid social,yes
+C00391,2026-01-19,breakouts,quiz organic,yes
+C00392,2026-01-19,breakouts,quiz organic,yes
+C00393,2026-01-19,breakouts,paid search,no
+C00394,2026-01-19,breakouts,paid search,no
+C00395,2026-01-19,sensitivity,quiz organic,yes
+C00396,2026-01-19,fine lines,paid social,no
+C00397,2026-01-19,sensitivity,paid social,yes
+C00398,2026-01-19,breakouts,paid search,no
+C00399,2026-01-19,breakouts,quiz organic,yes
+C00400,2026-01-19,fine lines,organic,yes
+C00401,2026-01-19,fine lines,quiz organic,yes
+C00402,2026-01-19,dark spots,paid search,no
+C00403,2026-01-19,dark spots,organic,yes
+C00404,2026-01-19,fine lines,paid search,yes
+C00405,2026-01-19,breakouts,organic,yes
+C00406,2026-01-20,sensitivity,paid social,no
+C00407,2026-01-20,fine lines,paid social,yes
+C00408,2026-01-20,sensitivity,quiz organic,yes
+C00409,2026-01-20,sensitivity,quiz organic,yes
+C00410,2026-01-20,dark spots,organic,no
+C00411,2026-01-20,breakouts,paid social,yes
+C00412,2026-01-20,breakouts,organic,yes
+C00413,2026-01-20,dark spots,paid social,no
+C00414,2026-01-20,sensitivity,paid social,yes
+C00415,2026-01-20,dark spots,paid social,no
+C00416,2026-01-20,fine lines,organic,no
+C00417,2026-01-20,breakouts,organic,no
+C00418,2026-01-20,dark spots,paid search,no
+C00419,2026-01-20,dark spots,paid social,no
+C00420,2026-01-20,sensitivity,organic,no
+C00421,2026-01-20,breakouts,paid search,no
+C00422,2026-01-20,fine lines,organic,yes
+C00423,2026-01-20,fine lines,organic,yes
+C00424,2026-01-21,breakouts,paid search,yes
+C00425,2026-01-21,breakouts,paid search,no
+C00426,2026-01-21,dark spots,paid search,no
+C00427,2026-01-21,dark spots,organic,no
+C00428,2026-01-21,breakouts,paid social,yes
+C00429,2026-01-21,fine lines,paid search,yes
+C00430,2026-01-21,breakouts,paid search,yes
+C00431,2026-01-21,breakouts,paid social,no
+C00432,2026-01-21,fine lines,paid social,no
+C00433,2026-01-21,fine lines,quiz organic,yes
+C00434,2026-01-21,fine lines,paid social,yes
+C00435,2026-01-21,fine lines,organic,no
+C00436,2026-01-21,fine lines,paid search,yes
+C00437,2026-01-21,breakouts,organic,yes
+C00438,2026-01-21,fine lines,organic,no
+C00439,2026-01-21,breakouts,paid search,no
+C00440,2026-01-21,breakouts,paid search,no
+C00441,2026-01-21,dark spots,paid social,yes
+C00442,2026-01-22,breakouts,quiz organic,yes
+C00443,2026-01-22,dark spots,paid social,yes
+C00444,2026-01-22,fine lines,paid search,yes
+C00445,2026-01-22,fine lines,paid social,yes
+C00446,2026-01-22,dark spots,paid social,no
+C00447,2026-01-22,breakouts,organic,no
+C00448,2026-01-22,dark spots,paid social,no
+C00449,2026-01-22,dark spots,organic,yes
+C00450,2026-01-22,sensitivity,paid search,no
+C00451,2026-01-22,fine lines,paid social,no
+C00452,2026-01-22,fine lines,paid search,yes
+C00453,2026-01-22,sensitivity,organic,no
+C00454,2026-01-22,fine lines,paid search,yes
+C00455,2026-01-22,breakouts,paid search,no
+C00456,2026-01-22,dark spots,paid social,no
+C00457,2026-01-22,sensitivity,quiz organic,yes
+C00458,2026-01-22,sensitivity,paid social,yes
+C00459,2026-01-22,breakouts,paid search,yes
+C00460,2026-01-22,fine lines,paid search,no
+C00461,2026-01-22,breakouts,organic,no
+C00462,2026-01-22,fine lines,quiz organic,yes
+C00463,2026-01-22,breakouts,paid search,no
+C00464,2026-01-22,fine lines,paid social,yes
+C00465,2026-01-22,sensitivity,paid social,no
+C00466,2026-01-23,dark spots,paid search,yes
+C00467,2026-01-23,dark spots,organic,yes
+C00468,2026-01-23,fine lines,paid social,no
+C00469,2026-01-23,dark spots,organic,yes
+C00470,2026-01-23,sensitivity,quiz organic,yes
+C00471,2026-01-23,fine lines,organic,no
+C00472,2026-01-23,sensitivity,paid search,yes
+C00473,2026-01-23,dark spots,paid social,no
+C00474,2026-01-23,fine lines,organic,yes
+C00475,2026-01-23,fine lines,organic,no
+C00476,2026-01-23,sensitivity,organic,yes
+C00477,2026-01-23,dark spots,paid search,no
+C00478,2026-01-23,breakouts,quiz organic,yes
+C00479,2026-01-23,dark spots,organic,no
+C00480,2026-01-23,breakouts,paid social,yes
+C00481,2026-01-23,sensitivity,paid social,no
+C00482,2026-01-23,sensitivity,quiz organic,yes
+C00483,2026-01-23,breakouts,paid social,no
+C00484,2026-01-23,breakouts,paid social,no
+C00485,2026-01-23,fine lines,quiz organic,yes
+C00486,2026-01-23,sensitivity,organic,no
+C00487,2026-01-23,fine lines,paid search,yes
+C00488,2026-01-24,fine lines,paid search,no
+C00489,2026-01-24,breakouts,organic,no
+C00490,2026-01-24,dark spots,paid social,yes
+C00491,2026-01-24,fine lines,organic,no
+C00492,2026-01-24,fine lines,paid search,no
+C00493,2026-01-24,breakouts,quiz organic,yes
+C00494,2026-01-24,dark spots,paid search,yes
+C00495,2026-01-24,dark spots,paid social,no
+C00496,2026-01-24,sensitivity,paid social,no
+C00497,2026-01-24,dark spots,organic,no
+C00498,2026-01-24,fine lines,paid search,no
+C00499,2026-01-24,sensitivity,quiz organic,yes
+C00500,2026-01-24,breakouts,paid search,no
+C00501,2026-01-24,dark spots,paid social,yes
+C00502,2026-01-24,dark spots,quiz organic,yes
+C00503,2026-01-25,breakouts,organic,yes
+C00504,2026-01-25,sensitivity,paid social,yes
+C00505,2026-01-25,fine lines,paid search,yes
+C00506,2026-01-25,dark spots,paid social,yes
+C00507,2026-01-25,breakouts,paid social,no
+C00508,2026-01-25,fine lines,paid social,no
+C00509,2026-01-25,sensitivity,paid social,yes
+C00510,2026-01-25,dark spots,paid social,yes
+C00511,2026-01-25,breakouts,paid search,yes
+C00512,2026-01-25,sensitivity,paid social,no
+C00513,2026-01-25,dark spots,paid social,no
+C00514,2026-01-25,fine lines,paid social,yes
+C00515,2026-01-25,breakouts,paid social,yes
+C00516,2026-01-25,dark spots,paid search,no
+C00517,2026-01-25,dark spots,quiz organic,yes
+C00518,2026-01-25,sensitivity,organic,yes
+C00519,2026-01-25,sensitivity,paid social,no
+C00520,2026-01-25,breakouts,paid search,no
+C00521,2026-01-25,fine lines,paid social,no
+C00522,2026-01-25,dark spots,quiz organic,yes
+C00523,2026-01-26,sensitivity,paid social,no
+C00524,2026-01-26,dark spots,quiz organic,yes
+C00525,2026-01-26,dark spots,quiz organic,yes
+C00526,2026-01-26,sensitivity,paid search,no
+C00527,2026-01-26,breakouts,paid social,no
+C00528,2026-01-26,fine lines,paid social,no
+C00529,2026-01-26,sensitivity,paid social,no
+C00530,2026-01-26,dark spots,paid social,yes
+C00531,2026-01-26,fine lines,paid search,no
+C00532,2026-01-26,dark spots,paid social,no
+C00533,2026-01-26,sensitivity,paid search,yes
+C00534,2026-01-26,fine lines,paid social,yes
+C00535,2026-01-26,fine lines,paid social,yes
+C00536,2026-01-26,fine lines,paid social,no
+C00537,2026-01-26,dark spots,paid search,yes
+C00538,2026-01-26,breakouts,quiz organic,yes
+C00539,2026-01-26,sensitivity,paid social,no
+C00540,2026-01-26,breakouts,quiz organic,yes
+C00541,2026-01-26,sensitivity,paid social,yes
+C00542,2026-01-26,dark spots,organic,no
+C00543,2026-01-26,breakouts,paid social,yes
+C00544,2026-01-26,fine lines,organic,no
+C00545,2026-01-26,sensitivity,paid search,no
+C00546,2026-01-26,sensitivity,paid search,yes
+C00547,2026-01-26,sensitivity,paid social,no
+C00548,2026-01-27,fine lines,paid social,no
+C00549,2026-01-27,dark spots,organic,no
+C00550,2026-01-27,breakouts,paid search,no
+C00551,2026-01-27,sensitivity,quiz organic,yes
+C00552,2026-01-27,fine lines,paid search,yes
+C00553,2026-01-27,breakouts,paid search,yes
+C00554,2026-01-27,fine lines,paid social,no
+C00555,2026-01-27,fine lines,paid social,yes
+C00556,2026-01-27,dark spots,paid social,no
+C00557,2026-01-27,sensitivity,quiz organic,yes
+C00558,2026-01-27,breakouts,paid search,yes
+C00559,2026-01-27,breakouts,organic,no
+C00560,2026-01-27,sensitivity,paid social,no
+C00561,2026-01-27,sensitivity,paid social,no
+C00562,2026-01-27,breakouts,quiz organic,yes
+C00563,2026-01-27,fine lines,organic,no
+C00564,2026-01-27,breakouts,paid social,no
+C00565,2026-01-28,dark spots,quiz organic,yes
+C00566,2026-01-28,sensitivity,paid search,yes
+C00567,2026-01-28,sensitivity,organic,no
+C00568,2026-01-28,breakouts,quiz organic,yes
+C00569,2026-01-28,breakouts,paid search,yes
+C00570,2026-01-28,fine lines,paid social,yes
+C00571,2026-01-28,dark spots,paid social,yes
+C00572,2026-01-28,dark spots,paid social,no
+C00573,2026-01-28,breakouts,quiz organic,yes
+C00574,2026-01-28,fine lines,paid social,yes
+C00575,2026-01-28,sensitivity,organic,yes
+C00576,2026-01-28,breakouts,paid social,yes
+C00577,2026-01-28,breakouts,paid social,yes
+C00578,2026-01-28,dark spots,paid search,yes
+C00579,2026-01-28,sensitivity,paid social,no
+C00580,2026-01-28,sensitivity,paid social,yes
+C00581,2026-01-29,dark spots,paid social,yes
+C00582,2026-01-29,fine lines,paid search,no
+C00583,2026-01-29,breakouts,paid search,yes
+C00584,2026-01-29,dark spots,paid search,no
+C00585,2026-01-29,fine lines,paid social,no
+C00586,2026-01-29,fine lines,quiz organic,yes
+C00587,2026-01-29,breakouts,paid social,no
+C00588,2026-01-29,sensitivity,quiz organic,yes
+C00589,2026-01-29,sensitivity,quiz organic,yes
+C00590,2026-01-29,dark spots,organic,no
+C00591,2026-01-29,dark spots,quiz organic,yes
+C00592,2026-01-29,sensitivity,quiz organic,yes
+C00593,2026-01-29,breakouts,paid social,yes
+C00594,2026-01-29,breakouts,paid social,no
+C00595,2026-01-29,breakouts,quiz organic,yes
+C00596,2026-01-29,breakouts,quiz organic,yes
+C00597,2026-01-30,fine lines,paid social,no
+C00598,2026-01-30,dark spots,paid social,yes
+C00599,2026-01-30,sensitivity,quiz organic,yes
+C00600,2026-01-30,breakouts,paid social,no
+C00601,2026-01-30,fine lines,quiz organic,yes
+C00602,2026-01-30,sensitivity,organic,yes
+C00603,2026-01-30,dark spots,organic,yes
+C00604,2026-01-30,breakouts,paid search,yes
+C00605,2026-01-30,dark spots,paid social,yes
+C00606,2026-01-30,fine lines,quiz organic,yes
+C00607,2026-01-30,sensitivity,organic,no
+C00608,2026-01-30,dark spots,paid search,yes
+C00609,2026-01-30,fine lines,paid social,no
+C00610,2026-01-30,sensitivity,paid search,yes
+C00611,2026-01-30,breakouts,paid search,yes
+C00612,2026-01-30,sensitivity,paid search,no
+C00613,2026-01-30,breakouts,paid social,no
+C00614,2026-01-31,sensitivity,paid social,no
+C00615,2026-01-31,breakouts,organic,no
+C00616,2026-01-31,sensitivity,paid social,yes
+C00617,2026-01-31,fine lines,paid social,no
+C00618,2026-01-31,breakouts,quiz organic,yes
+C00619,2026-01-31,fine lines,quiz organic,yes
+C00620,2026-01-31,sensitivity,organic,no
+C00621,2026-01-31,sensitivity,organic,yes
+C00622,2026-01-31,breakouts,organic,yes
+C00623,2026-01-31,dark spots,paid search,no
+C00624,2026-01-31,dark spots,paid search,yes
+C00625,2026-01-31,sensitivity,paid search,no
+C00626,2026-01-31,sensitivity,paid search,no
+C00627,2026-01-31,sensitivity,quiz organic,yes
+C00628,2026-01-31,sensitivity,organic,yes
+C00629,2026-01-31,fine lines,paid search,yes
+C00630,2026-01-31,fine lines,organic,no
+C00631,2026-01-31,breakouts,paid social,no
+C00632,2026-02-01,fine lines,paid social,yes
+C00633,2026-02-01,dark spots,paid search,no
+C00634,2026-02-01,sensitivity,quiz organic,yes
+C00635,2026-02-01,sensitivity,paid search,no
+C00636,2026-02-01,breakouts,paid search,yes
+C00637,2026-02-01,breakouts,paid social,yes
+C00638,2026-02-01,fine lines,paid social,no
+C00639,2026-02-01,dark spots,paid search,yes
+C00640,2026-02-01,dark spots,organic,yes
+C00641,2026-02-01,breakouts,organic,yes
+C00642,2026-02-01,sensitivity,organic,no
+C00643,2026-02-01,dark spots,paid social,no
+C00644,2026-02-01,sensitivity,quiz organic,yes
+C00645,2026-02-01,dark spots,paid search,no
+C00646,2026-02-01,fine lines,paid social,no
+C00647,2026-02-01,breakouts,paid social,yes
+C00648,2026-02-01,dark spots,quiz organic,yes
+C00649,2026-02-01,sensitivity,paid social,yes
+C00650,2026-02-01,sensitivity,paid search,no
+C00651,2026-02-02,fine lines,paid social,no
+C00652,2026-02-02,sensitivity,paid social,yes
+C00653,2026-02-02,breakouts,organic,no
+C00654,2026-02-02,fine lines,paid social,no
+C00655,2026-02-02,breakouts,paid social,yes
+C00656,2026-02-02,fine lines,paid search,no
+C00657,2026-02-02,dark spots,paid social,yes
+C00658,2026-02-02,fine lines,quiz organic,yes
+C00659,2026-02-02,dark spots,paid search,no
+C00660,2026-02-02,breakouts,paid social,no
+C00661,2026-02-02,dark spots,organic,yes
+C00662,2026-02-02,fine lines,paid social,no
+C00663,2026-02-02,dark spots,paid search,no
+C00664,2026-02-02,dark spots,paid search,no
+C00665,2026-02-02,breakouts,paid social,no
+C00666,2026-02-02,dark spots,quiz organic,yes
+C00667,2026-02-03,sensitivity,quiz organic,yes
+C00668,2026-02-03,breakouts,quiz organic,yes
+C00669,2026-02-03,sensitivity,paid search,no
+C00670,2026-02-03,breakouts,paid social,no
+C00671,2026-02-03,sensitivity,paid search,yes
+C00672,2026-02-03,breakouts,paid social,no
+C00673,2026-02-03,dark spots,quiz organic,yes
+C00674,2026-02-03,fine lines,organic,yes
+C00675,2026-02-03,dark spots,organic,no
+C00676,2026-02-03,fine lines,quiz organic,yes
+C00677,2026-02-03,breakouts,quiz organic,yes
+C00678,2026-02-03,fine lines,organic,yes
+C00679,2026-02-03,sensitivity,paid search,yes
+C00680,2026-02-03,fine lines,paid social,no
+C00681,2026-02-03,fine lines,paid social,no
+C00682,2026-02-03,sensitivity,organic,no
+C00683,2026-02-03,sensitivity,quiz organic,yes
+C00684,2026-02-03,fine lines,paid search,no
+C00685,2026-02-03,sensitivity,paid search,no
+C00686,2026-02-03,sensitivity,quiz organic,yes
+C00687,2026-02-03,fine lines,paid social,yes
+C00688,2026-02-03,sensitivity,organic,yes
+C00689,2026-02-03,fine lines,organic,yes
+C00690,2026-02-03,fine lines,organic,no
+C00691,2026-02-04,sensitivity,organic,yes
+C00692,2026-02-04,dark spots,paid social,yes
+C00693,2026-02-04,breakouts,quiz organic,yes
+C00694,2026-02-04,sensitivity,organic,no
+C00695,2026-02-04,fine lines,paid social,yes
+C00696,2026-02-04,dark spots,paid search,yes
+C00697,2026-02-04,dark spots,paid social,no
+C00698,2026-02-04,sensitivity,paid search,no
+C00699,2026-02-04,sensitivity,paid search,no
+C00700,2026-02-04,sensitivity,paid search,no
+C00701,2026-02-04,fine lines,paid search,no
+C00702,2026-02-04,fine lines,organic,yes
+C00703,2026-02-04,breakouts,quiz organic,yes
+C00704,2026-02-04,dark spots,paid social,yes
+C00705,2026-02-04,fine lines,quiz organic,yes
+C00706,2026-02-04,sensitivity,paid social,no
+C00707,2026-02-04,breakouts,paid search,yes
+C00708,2026-02-04,fine lines,quiz organic,yes
+C00709,2026-02-04,dark spots,paid social,no
+C00710,2026-02-04,dark spots,paid social,no
+C00711,2026-02-04,breakouts,organic,no
+C00712,2026-02-04,dark spots,paid social,yes
+C00713,2026-02-04,fine lines,quiz organic,yes
+C00714,2026-02-04,breakouts,paid search,yes
+C00715,2026-02-04,dark spots,organic,no
+C00716,2026-02-04,sensitivity,organic,yes
+C00717,2026-02-05,fine lines,paid social,yes
+C00718,2026-02-05,fine lines,paid social,no
+C00719,2026-02-05,sensitivity,quiz organic,yes
+C00720,2026-02-05,fine lines,paid social,yes
+C00721,2026-02-05,dark spots,paid social,no
+C00722,2026-02-05,fine lines,paid social,yes
+C00723,2026-02-05,dark spots,quiz organic,yes
+C00724,2026-02-05,breakouts,organic,yes
+C00725,2026-02-05,breakouts,quiz organic,yes
+C00726,2026-02-05,fine lines,paid social,no
+C00727,2026-02-05,sensitivity,organic,yes
+C00728,2026-02-05,breakouts,paid social,yes
+C00729,2026-02-05,breakouts,paid social,yes
+C00730,2026-02-05,sensitivity,organic,no
+C00731,2026-02-05,dark spots,quiz organic,yes
+C00732,2026-02-05,dark spots,organic,no
+C00733,2026-02-06,breakouts,organic,yes
+C00734,2026-02-06,breakouts,organic,yes
+C00735,2026-02-06,sensitivity,paid social,no
+C00736,2026-02-06,dark spots,organic,no
+C00737,2026-02-06,fine lines,organic,yes
+C00738,2026-02-06,fine lines,organic,no
+C00739,2026-02-06,sensitivity,paid search,yes
+C00740,2026-02-06,sensitivity,paid search,no
+C00741,2026-02-06,sensitivity,quiz organic,yes
+C00742,2026-02-06,fine lines,paid search,yes
+C00743,2026-02-06,dark spots,paid search,yes
+C00744,2026-02-06,sensitivity,quiz organic,yes
+C00745,2026-02-06,dark spots,paid search,yes
+C00746,2026-02-06,sensitivity,paid social,yes
+C00747,2026-02-06,dark spots,organic,yes
+C00748,2026-02-06,breakouts,paid search,no
+C00749,2026-02-06,fine lines,paid social,no
+C00750,2026-02-06,fine lines,paid search,yes
+C00751,2026-02-06,sensitivity,quiz organic,yes
+C00752,2026-02-06,breakouts,quiz organic,yes
+C00753,2026-02-06,fine lines,organic,no
+C00754,2026-02-06,sensitivity,paid social,no
+C00755,2026-02-06,dark spots,paid social,yes
+C00756,2026-02-07,breakouts,quiz organic,yes
+C00757,2026-02-07,dark spots,paid social,no
+C00758,2026-02-07,dark spots,quiz organic,yes
+C00759,2026-02-07,breakouts,paid search,yes
+C00760,2026-02-07,breakouts,paid search,no
+C00761,2026-02-07,dark spots,paid search,yes
+C00762,2026-02-07,dark spots,paid social,no
+C00763,2026-02-07,dark spots,paid search,yes
+C00764,2026-02-07,sensitivity,paid search,yes
+C00765,2026-02-07,sensitivity,quiz organic,yes
+C00766,2026-02-07,breakouts,organic,yes
+C00767,2026-02-07,sensitivity,paid search,no
+C00768,2026-02-07,breakouts,organic,no
+C00769,2026-02-07,breakouts,organic,no
+C00770,2026-02-07,sensitivity,quiz organic,yes
+C00771,2026-02-07,dark spots,paid social,no
+C00772,2026-02-07,fine lines,paid search,no
+C00773,2026-02-07,sensitivity,paid social,yes
+C00774,2026-02-07,sensitivity,organic,no
+C00775,2026-02-07,breakouts,paid search,yes
+C00776,2026-02-07,sensitivity,paid social,no
+C00777,2026-02-07,fine lines,organic,yes
+C00778,2026-02-08,sensitivity,organic,yes
+C00779,2026-02-08,dark spots,organic,yes
+C00780,2026-02-08,sensitivity,paid social,no
+C00781,2026-02-08,breakouts,quiz organic,yes
+C00782,2026-02-08,dark spots,paid search,yes
+C00783,2026-02-08,sensitivity,quiz organic,yes
+C00784,2026-02-08,breakouts,quiz organic,yes
+C00785,2026-02-08,sensitivity,quiz organic,yes
+C00786,2026-02-08,dark spots,paid search,yes
+C00787,2026-02-08,fine lines,organic,yes
+C00788,2026-02-08,dark spots,organic,yes
+C00789,2026-02-08,sensitivity,paid social,no
+C00790,2026-02-08,fine lines,paid search,yes
+C00791,2026-02-08,fine lines,paid social,no
+C00792,2026-02-08,dark spots,organic,no
+C00793,2026-02-09,dark spots,quiz organic,yes
+C00794,2026-02-09,breakouts,paid social,no
+C00795,2026-02-09,breakouts,paid search,no
+C00796,2026-02-09,breakouts,quiz organic,yes
+C00797,2026-02-09,dark spots,paid social,yes
+C00798,2026-02-09,fine lines,paid search,yes
+C00799,2026-02-09,sensitivity,paid social,yes
+C00800,2026-02-09,sensitivity,quiz organic,yes
+C00801,2026-02-09,fine lines,quiz organic,yes
+C00802,2026-02-09,sensitivity,quiz organic,yes
+C00803,2026-02-09,fine lines,paid social,no
+C00804,2026-02-09,fine lines,paid search,yes
+C00805,2026-02-09,sensitivity,organic,yes
+C00806,2026-02-09,breakouts,paid social,yes
+C00807,2026-02-09,dark spots,paid search,yes
+C00808,2026-02-09,sensitivity,paid social,yes
+C00809,2026-02-09,fine lines,paid search,no
+C00810,2026-02-09,sensitivity,paid search,no
+C00811,2026-02-09,dark spots,paid search,yes
+C00812,2026-02-09,sensitivity,paid search,no
+C00813,2026-02-09,dark spots,paid social,yes
+C00814,2026-02-09,sensitivity,organic,yes
+C00815,2026-02-10,breakouts,paid search,yes
+C00816,2026-02-10,sensitivity,quiz organic,yes
+C00817,2026-02-10,dark spots,paid social,no
+C00818,2026-02-10,dark spots,paid social,no
+C00819,2026-02-10,breakouts,paid social,yes
+C00820,2026-02-10,fine lines,paid search,yes
+C00821,2026-02-10,sensitivity,quiz organic,yes
+C00822,2026-02-10,sensitivity,paid search,yes
+C00823,2026-02-10,breakouts,organic,no
+C00824,2026-02-10,sensitivity,quiz organic,yes
+C00825,2026-02-10,sensitivity,paid search,yes
+C00826,2026-02-10,fine lines,paid social,no
+C00827,2026-02-10,breakouts,paid social,no
+C00828,2026-02-10,dark spots,paid search,yes
+C00829,2026-02-10,fine lines,paid social,no
+C00830,2026-02-10,fine lines,paid search,no
+C00831,2026-02-10,sensitivity,paid social,no
+C00832,2026-02-10,sensitivity,paid social,no
+C00833,2026-02-10,breakouts,paid social,yes
+C00834,2026-02-11,dark spots,paid social,yes
+C00835,2026-02-11,breakouts,paid social,yes
+C00836,2026-02-11,sensitivity,paid search,no
+C00837,2026-02-11,fine lines,paid social,no
+C00838,2026-02-11,fine lines,quiz organic,yes
+C00839,2026-02-11,dark spots,paid social,no
+C00840,2026-02-11,breakouts,paid social,no
+C00841,2026-02-11,dark spots,paid search,no
+C00842,2026-02-11,sensitivity,quiz organic,yes
+C00843,2026-02-11,dark spots,paid social,no
+C00844,2026-02-11,fine lines,quiz organic,yes
+C00845,2026-02-11,dark spots,paid social,yes
+C00846,2026-02-11,dark spots,quiz organic,yes
+C00847,2026-02-11,fine lines,paid search,yes
+C00848,2026-02-11,sensitivity,quiz organic,yes
+C00849,2026-02-11,dark spots,paid search,yes
+C00850,2026-02-12,sensitivity,quiz organic,yes
+C00851,2026-02-12,fine lines,paid social,yes
+C00852,2026-02-12,breakouts,paid social,yes
+C00853,2026-02-12,sensitivity,quiz organic,yes
+C00854,2026-02-12,fine lines,paid social,yes
+C00855,2026-02-12,sensitivity,paid search,no
+C00856,2026-02-12,dark spots,organic,yes
+C00857,2026-02-12,breakouts,paid social,no
+C00858,2026-02-12,sensitivity,paid social,no
+C00859,2026-02-12,fine lines,paid social,yes
+C00860,2026-02-12,dark spots,paid search,no
+C00861,2026-02-12,sensitivity,paid social,yes
+C00862,2026-02-12,dark spots,paid search,no
+C00863,2026-02-12,breakouts,quiz organic,yes
+C00864,2026-02-12,dark spots,organic,no
+C00865,2026-02-12,dark spots,paid social,yes
+C00866,2026-02-12,fine lines,paid search,no
+C00867,2026-02-12,sensitivity,organic,no
+C00868,2026-02-12,sensitivity,organic,no
+C00869,2026-02-12,sensitivity,paid search,no
+C00870,2026-02-12,sensitivity,organic,no
+C00871,2026-02-12,sensitivity,paid search,no
+C00872,2026-02-13,dark spots,paid search,no
+C00873,2026-02-13,fine lines,paid social,yes
+C00874,2026-02-13,sensitivity,quiz organic,yes
+C00875,2026-02-13,fine lines,paid social,no
+C00876,2026-02-13,fine lines,paid social,no
+C00877,2026-02-13,fine lines,organic,no
+C00878,2026-02-13,dark spots,paid search,yes
+C00879,2026-02-13,dark spots,organic,no
+C00880,2026-02-13,breakouts,paid search,no
+C00881,2026-02-13,dark spots,organic,no
+C00882,2026-02-13,sensitivity,paid search,yes
+C00883,2026-02-13,breakouts,quiz organic,yes
+C00884,2026-02-13,dark spots,paid social,yes
+C00885,2026-02-13,dark spots,paid search,yes
+C00886,2026-02-13,fine lines,organic,no
+C00887,2026-02-13,fine lines,paid search,no
+C00888,2026-02-13,sensitivity,organic,no
+C00889,2026-02-13,sensitivity,paid social,yes
+C00890,2026-02-13,sensitivity,organic,no
+C00891,2026-02-13,fine lines,paid social,yes
+C00892,2026-02-13,dark spots,organic,yes
+C00893,2026-02-13,dark spots,paid social,no
+C00894,2026-02-13,fine lines,paid social,no
+C00895,2026-02-14,fine lines,organic,no
+C00896,2026-02-14,dark spots,paid social,yes
+C00897,2026-02-14,sensitivity,paid social,no
+C00898,2026-02-14,sensitivity,organic,no
+C00899,2026-02-14,breakouts,paid social,yes
+C00900,2026-02-14,dark spots,paid social,no
+C00901,2026-02-14,dark spots,paid social,no
+C00902,2026-02-14,fine lines,paid social,no
+C00903,2026-02-14,dark spots,organic,no
+C00904,2026-02-14,dark spots,quiz organic,yes
+C00905,2026-02-14,fine lines,paid social,yes
+C00906,2026-02-14,fine lines,paid search,no
+C00907,2026-02-14,fine lines,paid social,yes
+C00908,2026-02-14,fine lines,paid social,no
+C00909,2026-02-14,fine lines,paid social,no
+C00910,2026-02-14,fine lines,organic,no
+C00911,2026-02-14,sensitivity,paid social,yes
+C00912,2026-02-14,sensitivity,organic,no
+C00913,2026-02-14,breakouts,paid social,no
+C00914,2026-02-14,fine lines,quiz organic,yes
+C00915,2026-02-14,breakouts,organic,yes
+C00916,2026-02-14,fine lines,organic,yes
+C00917,2026-02-14,breakouts,organic,no
+C00918,2026-02-14,dark spots,organic,no
+C00919,2026-02-14,dark spots,paid search,no
+C00920,2026-02-15,dark spots,paid search,no
+C00921,2026-02-15,sensitivity,organic,yes
+C00922,2026-02-15,dark spots,organic,no
+C00923,2026-02-15,dark spots,organic,yes
+C00924,2026-02-15,fine lines,paid search,yes
+C00925,2026-02-15,fine lines,quiz organic,yes
+C00926,2026-02-15,fine lines,organic,yes
+C00927,2026-02-15,sensitivity,paid social,no
+C00928,2026-02-15,fine lines,paid search,yes
+C00929,2026-02-15,fine lines,paid social,yes
+C00930,2026-02-15,breakouts,paid social,yes
+C00931,2026-02-15,dark spots,organic,yes
+C00932,2026-02-15,dark spots,organic,no
+C00933,2026-02-15,breakouts,paid search,yes
+C00934,2026-02-15,fine lines,paid social,yes
+C00935,2026-02-15,sensitivity,paid social,yes
+C00936,2026-02-15,fine lines,organic,no
+C00937,2026-02-15,fine lines,quiz organic,yes
+C00938,2026-02-15,sensitivity,paid social,no
+C00939,2026-02-15,dark spots,paid social,yes
+C00940,2026-02-16,fine lines,organic,yes
+C00941,2026-02-16,dark spots,paid search,no
+C00942,2026-02-16,sensitivity,paid search,no
+C00943,2026-02-16,sensitivity,quiz organic,yes
+C00944,2026-02-16,breakouts,paid search,yes
+C00945,2026-02-16,fine lines,paid social,yes
+C00946,2026-02-16,breakouts,paid search,yes
+C00947,2026-02-16,dark spots,organic,no
+C00948,2026-02-16,sensitivity,paid search,yes
+C00949,2026-02-16,sensitivity,paid search,no
+C00950,2026-02-16,fine lines,paid social,yes
+C00951,2026-02-16,dark spots,organic,no
+C00952,2026-02-16,sensitivity,paid search,no
+C00953,2026-02-16,sensitivity,paid search,yes
+C00954,2026-02-16,fine lines,paid social,yes
+C00955,2026-02-16,fine lines,paid search,yes
+C00956,2026-02-16,sensitivity,organic,yes
+C00957,2026-02-17,fine lines,paid search,no
+C00958,2026-02-17,fine lines,paid social,no
+C00959,2026-02-17,breakouts,paid search,no
+C00960,2026-02-17,sensitivity,organic,yes
+C00961,2026-02-17,fine lines,paid social,yes
+C00962,2026-02-17,dark spots,paid social,no
+C00963,2026-02-17,dark spots,paid social,no
+C00964,2026-02-17,sensitivity,paid social,no
+C00965,2026-02-17,sensitivity,paid search,no
+C00966,2026-02-17,dark spots,quiz organic,yes
+C00967,2026-02-17,sensitivity,paid social,no
+C00968,2026-02-17,fine lines,paid social,no
+C00969,2026-02-17,fine lines,paid social,no
+C00970,2026-02-17,dark spots,paid search,yes
+C00971,2026-02-17,breakouts,organic,yes
+C00972,2026-02-17,dark spots,quiz organic,yes
+C00973,2026-02-17,fine lines,paid social,no
+C00974,2026-02-17,breakouts,paid search,no
+C00975,2026-02-17,sensitivity,quiz organic,yes
+C00976,2026-02-17,sensitivity,organic,no
+C00977,2026-02-17,breakouts,paid search,yes
+C00978,2026-02-18,dark spots,paid search,no
+C00979,2026-02-18,dark spots,organic,no
+C00980,2026-02-18,fine lines,quiz organic,yes
+C00981,2026-02-18,breakouts,paid search,yes
+C00982,2026-02-18,breakouts,paid social,no
+C00983,2026-02-18,breakouts,paid social,no
+C00984,2026-02-18,breakouts,paid social,no
+C00985,2026-02-18,fine lines,quiz organic,yes
+C00986,2026-02-18,dark spots,organic,no
+C00987,2026-02-18,fine lines,paid social,no
+C00988,2026-02-18,sensitivity,quiz organic,yes
+C00989,2026-02-18,sensitivity,quiz organic,yes
+C00990,2026-02-18,breakouts,quiz organic,yes
+C00991,2026-02-18,dark spots,organic,no
+C00992,2026-02-18,dark spots,paid social,no
+C00993,2026-02-18,breakouts,paid search,no
+C00994,2026-02-19,breakouts,paid social,no
+C00995,2026-02-19,fine lines,organic,no
+C00996,2026-02-19,dark spots,paid social,no
+C00997,2026-02-19,breakouts,organic,no
+C00998,2026-02-19,breakouts,paid search,yes
+C00999,2026-02-19,fine lines,organic,yes
+C01000,2026-02-19,dark spots,quiz organic,yes
+C01001,2026-02-19,dark spots,paid search,no
+C01002,2026-02-19,sensitivity,paid search,yes
+C01003,2026-02-19,dark spots,organic,no
+C01004,2026-02-19,sensitivity,paid search,yes
+C01005,2026-02-19,sensitivity,paid search,no
+C01006,2026-02-19,sensitivity,organic,no
+C01007,2026-02-19,fine lines,paid search,no
+C01008,2026-02-19,dark spots,paid social,yes
+C01009,2026-02-19,sensitivity,paid social,no
+C01010,2026-02-19,dark spots,organic,no
+C01011,2026-02-19,sensitivity,quiz organic,yes
+C01012,2026-02-19,breakouts,paid social,no
+C01013,2026-02-20,fine lines,quiz organic,yes
+C01014,2026-02-20,breakouts,organic,yes
+C01015,2026-02-20,dark spots,organic,no
+C01016,2026-02-20,breakouts,paid search,no
+C01017,2026-02-20,fine lines,paid search,no
+C01018,2026-02-20,breakouts,paid search,yes
+C01019,2026-02-20,dark spots,quiz organic,yes
+C01020,2026-02-20,breakouts,organic,no
+C01021,2026-02-20,dark spots,paid social,no
+C01022,2026-02-20,fine lines,organic,no
+C01023,2026-02-20,fine lines,paid social,yes
+C01024,2026-02-20,breakouts,paid social,yes
+C01025,2026-02-20,dark spots,paid social,yes
+C01026,2026-02-20,fine lines,quiz organic,yes
+C01027,2026-02-20,dark spots,paid social,no
+C01028,2026-02-20,fine lines,quiz organic,yes
+C01029,2026-02-21,breakouts,quiz organic,yes
+C01030,2026-02-21,sensitivity,paid social,no
+C01031,2026-02-21,breakouts,paid social,yes
+C01032,2026-02-21,fine lines,organic,yes
+C01033,2026-02-21,dark spots,quiz organic,yes
+C01034,2026-02-21,sensitivity,organic,yes
+C01035,2026-02-21,dark spots,quiz organic,yes
+C01036,2026-02-21,breakouts,paid search,no
+C01037,2026-02-21,breakouts,paid search,no
+C01038,2026-02-21,breakouts,paid social,no
+C01039,2026-02-21,dark spots,paid search,no
+C01040,2026-02-21,sensitivity,organic,yes
+C01041,2026-02-21,fine lines,paid social,yes
+C01042,2026-02-21,breakouts,paid social,no
+C01043,2026-02-21,fine lines,paid search,yes
+C01044,2026-02-22,breakouts,quiz organic,yes
+C01045,2026-02-22,sensitivity,organic,yes
+C01046,2026-02-22,breakouts,quiz organic,yes
+C01047,2026-02-22,fine lines,quiz organic,yes
+C01048,2026-02-22,dark spots,paid search,no
+C01049,2026-02-22,fine lines,paid social,no
+C01050,2026-02-22,dark spots,paid search,yes
+C01051,2026-02-22,dark spots,paid social,no
+C01052,2026-02-22,breakouts,paid social,no
+C01053,2026-02-22,fine lines,paid social,yes
+C01054,2026-02-22,sensitivity,paid search,yes
+C01055,2026-02-22,breakouts,organic,yes
+C01056,2026-02-22,sensitivity,paid search,no
+C01057,2026-02-22,fine lines,paid social,yes
+C01058,2026-02-22,dark spots,paid search,no
+C01059,2026-02-22,dark spots,paid search,yes
+C01060,2026-02-22,sensitivity,quiz organic,yes
+C01061,2026-02-22,breakouts,organic,no
+C01062,2026-02-22,fine lines,organic,no
+C01063,2026-02-22,dark spots,organic,yes
+C01064,2026-02-22,dark spots,quiz organic,yes
+C01065,2026-02-22,breakouts,paid search,yes
+C01066,2026-02-22,sensitivity,paid search,no
+C01067,2026-02-22,dark spots,paid social,yes
+C01068,2026-02-22,dark spots,paid search,no
+C01069,2026-02-22,breakouts,paid search,no
+C01070,2026-02-23,fine lines,paid social,yes
+C01071,2026-02-23,breakouts,paid search,no
+C01072,2026-02-23,fine lines,organic,no
+C01073,2026-02-23,dark spots,paid search,no
+C01074,2026-02-23,sensitivity,paid social,yes
+C01075,2026-02-23,fine lines,quiz organic,yes
+C01076,2026-02-23,breakouts,organic,no
+C01077,2026-02-23,breakouts,paid search,yes
+C01078,2026-02-23,breakouts,quiz organic,yes
+C01079,2026-02-23,dark spots,paid social,no
+C01080,2026-02-23,dark spots,quiz organic,yes
+C01081,2026-02-23,sensitivity,organic,no
+C01082,2026-02-23,breakouts,quiz organic,yes
+C01083,2026-02-23,breakouts,organic,no
+C01084,2026-02-23,fine lines,organic,yes
+C01085,2026-02-23,dark spots,paid search,no
+C01086,2026-02-23,dark spots,paid search,yes
+C01087,2026-02-23,fine lines,quiz organic,yes
+C01088,2026-02-24,fine lines,organic,no
+C01089,2026-02-24,breakouts,paid social,yes
+C01090,2026-02-24,dark spots,paid search,no
+C01091,2026-02-24,breakouts,organic,no
+C01092,2026-02-24,dark spots,paid social,no
+C01093,2026-02-24,fine lines,paid social,no
+C01094,2026-02-24,fine lines,paid search,no
+C01095,2026-02-24,sensitivity,paid search,no
+C01096,2026-02-24,breakouts,paid search,no
+C01097,2026-02-24,fine lines,quiz organic,yes
+C01098,2026-02-24,sensitivity,paid search,no
+C01099,2026-02-24,breakouts,paid social,yes
+C01100,2026-02-24,sensitivity,quiz organic,yes
+C01101,2026-02-24,fine lines,organic,yes
+C01102,2026-02-24,fine lines,paid social,yes
+C01103,2026-02-24,breakouts,paid social,yes
+C01104,2026-02-24,fine lines,paid search,no
+C01105,2026-02-24,dark spots,paid search,no
+C01106,2026-02-24,sensitivity,paid social,no
+C01107,2026-02-24,sensitivity,paid search,yes
+C01108,2026-02-24,fine lines,organic,no
+C01109,2026-02-25,fine lines,organic,yes
+C01110,2026-02-25,fine lines,paid search,yes
+C01111,2026-02-25,fine lines,organic,no
+C01112,2026-02-25,breakouts,organic,no
+C01113,2026-02-25,dark spots,quiz organic,yes
+C01114,2026-02-25,sensitivity,paid social,yes
+C01115,2026-02-25,dark spots,paid social,no
+C01116,2026-02-25,breakouts,organic,yes
+C01117,2026-02-25,fine lines,paid social,no
+C01118,2026-02-25,dark spots,quiz organic,yes
+C01119,2026-02-25,sensitivity,paid search,no
+C01120,2026-02-25,fine lines,paid social,no
+C01121,2026-02-25,sensitivity,quiz organic,yes
+C01122,2026-02-25,breakouts,paid social,no
+C01123,2026-02-26,breakouts,paid social,no
+C01124,2026-02-26,fine lines,paid social,no
+C01125,2026-02-26,sensitivity,paid search,no
+C01126,2026-02-26,breakouts,quiz organic,yes
+C01127,2026-02-26,sensitivity,paid social,yes
+C01128,2026-02-26,fine lines,paid search,yes
+C01129,2026-02-26,sensitivity,paid social,yes
+C01130,2026-02-26,fine lines,organic,no
+C01131,2026-02-26,sensitivity,quiz organic,yes
+C01132,2026-02-26,sensitivity,paid social,no
+C01133,2026-02-26,breakouts,paid search,no
+C01134,2026-02-26,fine lines,quiz organic,yes
+C01135,2026-02-26,dark spots,paid search,no
+C01136,2026-02-26,dark spots,paid search,yes
+C01137,2026-02-26,sensitivity,paid social,yes
+C01138,2026-02-26,fine lines,organic,yes
+C01139,2026-02-26,breakouts,organic,no
+C01140,2026-02-26,breakouts,paid social,yes
+C01141,2026-02-26,dark spots,paid search,no
+C01142,2026-02-26,dark spots,organic,no
+C01143,2026-02-26,sensitivity,paid social,yes
+C01144,2026-02-26,fine lines,quiz organic,yes
+C01145,2026-02-26,dark spots,paid social,no
+C01146,2026-02-26,fine lines,quiz organic,yes
+C01147,2026-02-27,dark spots,quiz organic,yes
+C01148,2026-02-27,breakouts,paid search,no
+C01149,2026-02-27,fine lines,quiz organic,yes
+C01150,2026-02-27,fine lines,paid search,no
+C01151,2026-02-27,fine lines,paid search,yes
+C01152,2026-02-27,dark spots,paid social,yes
+C01153,2026-02-27,sensitivity,organic,no
+C01154,2026-02-27,breakouts,paid social,yes
+C01155,2026-02-27,sensitivity,paid social,no
+C01156,2026-02-27,dark spots,paid social,yes
+C01157,2026-02-27,fine lines,paid social,no
+C01158,2026-02-27,breakouts,paid social,no
+C01159,2026-02-27,sensitivity,organic,no
+C01160,2026-02-27,breakouts,quiz organic,yes
+C01161,2026-02-28,breakouts,paid search,no
+C01162,2026-02-28,dark spots,quiz organic,yes
+C01163,2026-02-28,sensitivity,paid social,no
+C01164,2026-02-28,breakouts,organic,yes
+C01165,2026-02-28,sensitivity,paid search,no
+C01166,2026-02-28,dark spots,paid search,yes
+C01167,2026-02-28,dark spots,paid social,no
+C01168,2026-02-28,fine lines,paid search,yes
+C01169,2026-02-28,dark spots,paid search,no
+C01170,2026-02-28,breakouts,paid search,no
+C01171,2026-02-28,breakouts,organic,yes
+C01172,2026-02-28,fine lines,quiz organic,yes
+C01173,2026-02-28,dark spots,organic,no
+C01174,2026-02-28,sensitivity,paid search,yes
+C01175,2026-02-28,sensitivity,paid search,no
+C01176,2026-02-28,sensitivity,paid social,no
+C01177,2026-02-28,breakouts,paid search,no
+C01178,2026-02-28,dark spots,quiz organic,yes
+C01179,2026-03-01,dark spots,organic,yes
+C01180,2026-03-01,sensitivity,paid social,yes
+C01181,2026-03-01,dark spots,quiz organic,yes
+C01182,2026-03-01,breakouts,quiz organic,yes
+C01183,2026-03-01,dark spots,paid search,yes
+C01184,2026-03-01,breakouts,paid social,no
+C01185,2026-03-01,sensitivity,paid social,yes
+C01186,2026-03-01,fine lines,quiz organic,yes
+C01187,2026-03-01,fine lines,paid search,yes
+C01188,2026-03-01,breakouts,paid social,no
+C01189,2026-03-01,breakouts,quiz organic,yes
+C01190,2026-03-01,fine lines,paid social,no
+C01191,2026-03-01,breakouts,paid social,no
+C01192,2026-03-01,breakouts,paid social,yes
+C01193,2026-03-01,fine lines,paid search,yes
+C01194,2026-03-01,sensitivity,paid search,no
+C01195,2026-03-01,dark spots,paid social,yes
+C01196,2026-03-01,sensitivity,organic,yes
+C01197,2026-03-01,breakouts,organic,yes
+C01198,2026-03-01,breakouts,quiz organic,yes
+C01199,2026-03-01,breakouts,quiz organic,yes
+C01200,2026-03-02,dark spots,paid search,no
+C01201,2026-03-02,sensitivity,paid search,yes
+C01202,2026-03-02,sensitivity,paid social,no
+C01203,2026-03-02,fine lines,quiz organic,yes
+C01204,2026-03-02,fine lines,quiz organic,yes
+C01205,2026-03-02,sensitivity,organic,yes
+C01206,2026-03-02,fine lines,quiz organic,yes
+C01207,2026-03-02,sensitivity,paid search,yes
+C01208,2026-03-02,dark spots,quiz organic,yes
+C01209,2026-03-02,fine lines,paid social,yes
+C01210,2026-03-02,dark spots,paid search,yes
+C01211,2026-03-02,sensitivity,paid social,no
+C01212,2026-03-02,sensitivity,quiz organic,yes
+C01213,2026-03-02,dark spots,quiz organic,yes
+C01214,2026-03-02,breakouts,quiz organic,yes
+C01215,2026-03-02,dark spots,quiz organic,yes
+C01216,2026-03-02,sensitivity,paid search,no
+C01217,2026-03-02,dark spots,organic,yes
+C01218,2026-03-02,dark spots,paid search,no
+C01219,2026-03-02,fine lines,paid social,no
+C01220,2026-03-02,fine lines,quiz organic,yes
+C01221,2026-03-02,sensitivity,paid search,no
+C01222,2026-03-03,sensitivity,organic,yes
+C01223,2026-03-03,fine lines,paid social,yes
+C01224,2026-03-03,fine lines,quiz organic,yes
+C01225,2026-03-03,dark spots,paid search,yes
+C01226,2026-03-03,sensitivity,paid social,no
+C01227,2026-03-03,breakouts,quiz organic,yes
+C01228,2026-03-03,sensitivity,paid social,no
+C01229,2026-03-03,fine lines,quiz organic,yes
+C01230,2026-03-03,breakouts,paid social,no
+C01231,2026-03-03,fine lines,organic,no
+C01232,2026-03-03,breakouts,paid social,no
+C01233,2026-03-03,breakouts,organic,no
+C01234,2026-03-03,sensitivity,paid social,no
+C01235,2026-03-03,breakouts,quiz organic,yes
+C01236,2026-03-03,dark spots,paid social,no
+C01237,2026-03-03,sensitivity,paid social,no
+C01238,2026-03-03,fine lines,paid search,no
+C01239,2026-03-03,breakouts,paid social,yes
+C01240,2026-03-03,sensitivity,organic,no
+C01241,2026-03-03,sensitivity,paid search,yes
+C01242,2026-03-03,breakouts,organic,yes
+C01243,2026-03-03,breakouts,paid social,yes
+C01244,2026-03-03,sensitivity,paid social,no
+C01245,2026-03-04,dark spots,paid search,no
+C01246,2026-03-04,dark spots,quiz organic,yes
+C01247,2026-03-04,sensitivity,paid social,yes
+C01248,2026-03-04,dark spots,paid search,no
+C01249,2026-03-04,sensitivity,paid social,no
+C01250,2026-03-04,dark spots,quiz organic,yes
+C01251,2026-03-04,breakouts,paid search,no
+C01252,2026-03-04,breakouts,paid social,no
+C01253,2026-03-04,fine lines,paid social,yes
+C01254,2026-03-04,breakouts,paid social,yes
+C01255,2026-03-04,breakouts,paid social,no
+C01256,2026-03-04,sensitivity,organic,no
+C01257,2026-03-04,breakouts,organic,no
+C01258,2026-03-04,sensitivity,organic,no
+C01259,2026-03-04,breakouts,paid search,no
+C01260,2026-03-04,sensitivity,organic,yes
+C01261,2026-03-04,fine lines,organic,no
+C01262,2026-03-04,dark spots,paid social,yes
+C01263,2026-03-04,fine lines,quiz organic,yes
+C01264,2026-03-04,sensitivity,paid search,no
+C01265,2026-03-04,breakouts,paid search,no
+C01266,2026-03-05,sensitivity,paid search,no
+C01267,2026-03-05,breakouts,paid social,yes
+C01268,2026-03-05,breakouts,organic,yes
+C01269,2026-03-05,dark spots,organic,no
+C01270,2026-03-05,breakouts,paid social,yes
+C01271,2026-03-05,breakouts,paid social,no
+C01272,2026-03-05,breakouts,quiz organic,yes
+C01273,2026-03-05,fine lines,paid social,yes
+C01274,2026-03-05,fine lines,paid search,yes
+C01275,2026-03-05,fine lines,paid social,no
+C01276,2026-03-05,dark spots,paid social,yes
+C01277,2026-03-05,breakouts,paid social,yes
+C01278,2026-03-05,breakouts,paid social,yes
+C01279,2026-03-05,breakouts,quiz organic,yes
+C01280,2026-03-05,sensitivity,paid social,yes
+C01281,2026-03-05,breakouts,paid social,yes
+C01282,2026-03-05,dark spots,paid social,no
+C01283,2026-03-05,sensitivity,paid search,yes
+C01284,2026-03-05,breakouts,paid social,yes
+C01285,2026-03-06,breakouts,paid social,yes
+C01286,2026-03-06,sensitivity,organic,no
+C01287,2026-03-06,sensitivity,organic,yes
+C01288,2026-03-06,dark spots,organic,no
+C01289,2026-03-06,dark spots,paid search,yes
+C01290,2026-03-06,dark spots,paid social,yes
+C01291,2026-03-06,breakouts,paid social,yes
+C01292,2026-03-06,fine lines,quiz organic,yes
+C01293,2026-03-06,dark spots,organic,no
+C01294,2026-03-06,dark spots,quiz organic,yes
+C01295,2026-03-06,dark spots,quiz organic,yes
+C01296,2026-03-06,dark spots,quiz organic,yes
+C01297,2026-03-06,breakouts,organic,yes
+C01298,2026-03-06,fine lines,paid search,yes
+C01299,2026-03-06,fine lines,paid social,yes
+C01300,2026-03-06,breakouts,organic,yes
+C01301,2026-03-06,breakouts,quiz organic,yes
+C01302,2026-03-06,dark spots,paid search,no
+C01303,2026-03-06,dark spots,paid social,yes
+C01304,2026-03-07,fine lines,quiz organic,yes
+C01305,2026-03-07,sensitivity,paid search,no
+C01306,2026-03-07,sensitivity,quiz organic,yes
+C01307,2026-03-07,fine lines,organic,yes
+C01308,2026-03-07,breakouts,organic,no
+C01309,2026-03-07,dark spots,paid social,yes
+C01310,2026-03-07,fine lines,paid search,no
+C01311,2026-03-07,sensitivity,paid search,no
+C01312,2026-03-07,sensitivity,paid social,no
+C01313,2026-03-07,dark spots,organic,no
+C01314,2026-03-07,dark spots,paid social,no
+C01315,2026-03-07,dark spots,paid search,no
+C01316,2026-03-07,fine lines,paid search,yes
+C01317,2026-03-07,fine lines,organic,no
+C01318,2026-03-08,fine lines,quiz organic,yes
+C01319,2026-03-08,breakouts,paid social,yes
+C01320,2026-03-08,breakouts,paid social,no
+C01321,2026-03-08,breakouts,quiz organic,yes
+C01322,2026-03-08,breakouts,organic,no
+C01323,2026-03-08,fine lines,paid search,no
+C01324,2026-03-08,dark spots,organic,no
+C01325,2026-03-08,sensitivity,quiz organic,yes
+C01326,2026-03-08,dark spots,paid social,no
+C01327,2026-03-08,sensitivity,paid social,yes
+C01328,2026-03-08,fine lines,paid social,no
+C01329,2026-03-08,sensitivity,paid social,no
+C01330,2026-03-08,dark spots,paid search,no
+C01331,2026-03-08,breakouts,paid search,no
+C01332,2026-03-08,breakouts,organic,no
+C01333,2026-03-08,dark spots,organic,no
+C01334,2026-03-08,dark spots,quiz organic,yes
+C01335,2026-03-08,dark spots,quiz organic,yes
+C01336,2026-03-08,sensitivity,paid search,yes
+C01337,2026-03-08,dark spots,quiz organic,yes
+C01338,2026-03-08,dark spots,paid social,no
+C01339,2026-03-08,fine lines,paid social,no
+C01340,2026-03-08,sensitivity,paid search,yes
+C01341,2026-03-09,sensitivity,paid search,yes
+C01342,2026-03-09,sensitivity,paid social,yes
+C01343,2026-03-09,breakouts,organic,yes
+C01344,2026-03-09,breakouts,paid social,yes
+C01345,2026-03-09,fine lines,organic,no
+C01346,2026-03-09,breakouts,quiz organic,yes
+C01347,2026-03-09,breakouts,paid social,yes
+C01348,2026-03-09,dark spots,paid social,no
+C01349,2026-03-09,fine lines,paid social,yes
+C01350,2026-03-09,fine lines,organic,yes
+C01351,2026-03-09,breakouts,quiz organic,yes
+C01352,2026-03-09,sensitivity,organic,yes
+C01353,2026-03-09,sensitivity,paid search,no
+C01354,2026-03-09,sensitivity,paid social,no
+C01355,2026-03-10,sensitivity,quiz organic,yes
+C01356,2026-03-10,sensitivity,quiz organic,yes
+C01357,2026-03-10,breakouts,paid social,no
+C01358,2026-03-10,sensitivity,paid social,no
+C01359,2026-03-10,dark spots,organic,yes
+C01360,2026-03-10,breakouts,paid search,no
+C01361,2026-03-10,breakouts,organic,yes
+C01362,2026-03-10,sensitivity,paid search,no
+C01363,2026-03-10,dark spots,paid search,no
+C01364,2026-03-10,sensitivity,paid social,no
+C01365,2026-03-10,fine lines,paid social,no
+C01366,2026-03-10,fine lines,paid social,no
+C01367,2026-03-10,breakouts,paid social,yes
+C01368,2026-03-10,fine lines,paid social,yes
+C01369,2026-03-10,fine lines,quiz organic,yes
+C01370,2026-03-10,sensitivity,organic,no
+C01371,2026-03-11,dark spots,quiz organic,yes
+C01372,2026-03-11,breakouts,paid social,no
+C01373,2026-03-11,fine lines,paid social,no
+C01374,2026-03-11,dark spots,quiz organic,yes
+C01375,2026-03-11,fine lines,quiz organic,yes
+C01376,2026-03-11,sensitivity,paid social,no
+C01377,2026-03-11,dark spots,paid search,no
+C01378,2026-03-11,dark spots,paid search,no
+C01379,2026-03-11,fine lines,quiz organic,yes
+C01380,2026-03-11,dark spots,organic,no
+C01381,2026-03-11,dark spots,paid search,no
+C01382,2026-03-11,dark spots,quiz organic,yes
+C01383,2026-03-11,dark spots,organic,no
+C01384,2026-03-11,dark spots,organic,yes
+C01385,2026-03-11,dark spots,paid search,no
+C01386,2026-03-11,dark spots,paid social,no
+C01387,2026-03-11,sensitivity,paid search,yes
+C01388,2026-03-11,fine lines,quiz organic,yes
+C01389,2026-03-11,sensitivity,paid search,no
+C01390,2026-03-11,sensitivity,paid search,no
+C01391,2026-03-11,fine lines,paid social,yes
+C01392,2026-03-11,fine lines,paid social,no
+C01393,2026-03-11,breakouts,paid social,no
+C01394,2026-03-11,breakouts,organic,no
+C01395,2026-03-12,sensitivity,paid search,yes
+C01396,2026-03-12,dark spots,paid search,no
+C01397,2026-03-12,breakouts,organic,yes
+C01398,2026-03-12,sensitivity,quiz organic,yes
+C01399,2026-03-12,dark spots,paid search,no
+C01400,2026-03-12,sensitivity,paid social,yes
+C01401,2026-03-12,sensitivity,organic,yes
+C01402,2026-03-12,sensitivity,quiz organic,yes
+C01403,2026-03-12,breakouts,organic,no
+C01404,2026-03-12,breakouts,paid social,no
+C01405,2026-03-12,breakouts,quiz organic,yes
+C01406,2026-03-12,fine lines,organic,yes
+C01407,2026-03-12,fine lines,quiz organic,yes
+C01408,2026-03-12,sensitivity,organic,yes
+C01409,2026-03-12,fine lines,quiz organic,yes
+C01410,2026-03-12,fine lines,organic,no
+C01411,2026-03-12,fine lines,paid search,no
+C01412,2026-03-12,breakouts,paid search,yes
+C01413,2026-03-12,breakouts,organic,no
+C01414,2026-03-13,dark spots,paid social,no
+C01415,2026-03-13,breakouts,paid search,no
+C01416,2026-03-13,fine lines,organic,yes
+C01417,2026-03-13,sensitivity,paid search,no
+C01418,2026-03-13,sensitivity,paid social,yes
+C01419,2026-03-13,dark spots,paid social,no
+C01420,2026-03-13,dark spots,paid social,yes
+C01421,2026-03-13,sensitivity,organic,no
+C01422,2026-03-13,sensitivity,paid social,yes
+C01423,2026-03-13,breakouts,quiz organic,yes
+C01424,2026-03-13,dark spots,paid search,no
+C01425,2026-03-13,fine lines,paid search,no
+C01426,2026-03-13,breakouts,paid social,yes
+C01427,2026-03-13,breakouts,paid social,yes
+C01428,2026-03-13,sensitivity,quiz organic,yes
+C01429,2026-03-13,sensitivity,paid social,yes
+C01430,2026-03-13,sensitivity,paid search,no
+C01431,2026-03-13,sensitivity,paid search,no
+C01432,2026-03-13,breakouts,quiz organic,yes
+C01433,2026-03-13,breakouts,paid social,yes
+C01434,2026-03-13,sensitivity,paid social,yes
+C01435,2026-03-13,dark spots,paid social,yes
+C01436,2026-03-13,dark spots,paid search,yes
+C01437,2026-03-13,breakouts,paid search,no
+C01438,2026-03-13,dark spots,paid search,no
+C01439,2026-03-13,sensitivity,paid search,no
+C01440,2026-03-14,fine lines,paid search,no
+C01441,2026-03-14,fine lines,paid search,no
+C01442,2026-03-14,breakouts,paid search,no
+C01443,2026-03-14,sensitivity,paid search,no
+C01444,2026-03-14,breakouts,paid search,no
+C01445,2026-03-14,breakouts,organic,yes
+C01446,2026-03-14,dark spots,organic,no
+C01447,2026-03-14,dark spots,quiz organic,yes
+C01448,2026-03-14,sensitivity,paid search,yes
+C01449,2026-03-14,dark spots,paid social,no
+C01450,2026-03-14,breakouts,paid social,yes
+C01451,2026-03-14,breakouts,paid search,yes
+C01452,2026-03-14,breakouts,paid social,no
+C01453,2026-03-14,fine lines,paid social,no
+C01454,2026-03-14,fine lines,paid search,yes
+C01455,2026-03-14,fine lines,paid search,yes
+C01456,2026-03-14,dark spots,paid search,yes
+C01457,2026-03-14,breakouts,organic,no
+C01458,2026-03-15,dark spots,paid social,yes
+C01459,2026-03-15,fine lines,organic,yes
+C01460,2026-03-15,sensitivity,paid search,yes
+C01461,2026-03-15,breakouts,paid social,yes
+C01462,2026-03-15,dark spots,paid search,no
+C01463,2026-03-15,sensitivity,paid social,no
+C01464,2026-03-15,breakouts,quiz organic,yes
+C01465,2026-03-15,fine lines,paid social,yes
+C01466,2026-03-15,breakouts,organic,no
+C01467,2026-03-15,sensitivity,quiz organic,yes
+C01468,2026-03-15,breakouts,paid search,no
+C01469,2026-03-15,dark spots,paid social,no
+C01470,2026-03-15,dark spots,paid social,yes
+C01471,2026-03-15,fine lines,organic,yes
+C01472,2026-03-16,sensitivity,paid social,yes
+C01473,2026-03-16,sensitivity,organic,yes
+C01474,2026-03-16,fine lines,quiz organic,yes
+C01475,2026-03-16,fine lines,paid search,yes
+C01476,2026-03-16,fine lines,quiz organic,yes
+C01477,2026-03-16,fine lines,paid social,yes
+C01478,2026-03-16,fine lines,organic,yes
+C01479,2026-03-16,fine lines,paid social,no
+C01480,2026-03-16,breakouts,paid search,no
+C01481,2026-03-16,breakouts,organic,no
+C01482,2026-03-16,dark spots,organic,no
+C01483,2026-03-16,breakouts,paid social,yes
+C01484,2026-03-16,sensitivity,paid social,no
+C01485,2026-03-16,dark spots,quiz organic,yes
+C01486,2026-03-16,breakouts,quiz organic,yes
+C01487,2026-03-16,dark spots,paid search,yes
+C01488,2026-03-16,breakouts,quiz organic,yes
+C01489,2026-03-16,sensitivity,paid search,no
+C01490,2026-03-16,breakouts,quiz organic,yes
+C01491,2026-03-16,sensitivity,organic,no
+C01492,2026-03-16,sensitivity,organic,no
+C01493,2026-03-17,fine lines,paid social,no
+C01494,2026-03-17,breakouts,organic,no
+C01495,2026-03-17,breakouts,paid social,yes
+C01496,2026-03-17,breakouts,paid search,no
+C01497,2026-03-17,dark spots,paid social,no
+C01498,2026-03-17,sensitivity,organic,no
+C01499,2026-03-17,dark spots,paid social,no
+C01500,2026-03-17,fine lines,paid social,yes
+C01501,2026-03-17,dark spots,paid search,no
+C01502,2026-03-17,fine lines,quiz organic,yes
+C01503,2026-03-17,breakouts,paid search,no
+C01504,2026-03-17,dark spots,paid social,yes
+C01505,2026-03-17,fine lines,paid search,no
+C01506,2026-03-17,dark spots,organic,no
+C01507,2026-03-17,dark spots,paid search,no
+C01508,2026-03-17,sensitivity,organic,yes
+C01509,2026-03-17,sensitivity,organic,yes
+C01510,2026-03-17,sensitivity,quiz organic,yes
+C01511,2026-03-17,breakouts,organic,no
+C01512,2026-03-17,sensitivity,quiz organic,yes
+C01513,2026-03-17,breakouts,paid search,no
+C01514,2026-03-17,sensitivity,paid social,yes
+C01515,2026-03-17,sensitivity,organic,yes
+C01516,2026-03-18,dark spots,paid social,no
+C01517,2026-03-18,dark spots,organic,yes
+C01518,2026-03-18,dark spots,paid social,no
+C01519,2026-03-18,breakouts,paid social,yes
+C01520,2026-03-18,fine lines,paid social,yes
+C01521,2026-03-18,dark spots,paid search,no
+C01522,2026-03-18,breakouts,organic,yes
+C01523,2026-03-18,dark spots,organic,no
+C01524,2026-03-18,sensitivity,quiz organic,yes
+C01525,2026-03-18,dark spots,organic,yes
+C01526,2026-03-18,breakouts,organic,no
+C01527,2026-03-18,fine lines,paid social,yes
+C01528,2026-03-18,fine lines,organic,yes
+C01529,2026-03-18,breakouts,paid search,yes
+C01530,2026-03-18,breakouts,quiz organic,yes
+C01531,2026-03-18,fine lines,paid search,no
+C01532,2026-03-18,breakouts,paid social,no
+C01533,2026-03-18,breakouts,paid social,yes
+C01534,2026-03-18,dark spots,paid search,yes
+C01535,2026-03-18,fine lines,paid search,no
+C01536,2026-03-18,sensitivity,paid social,no
+C01537,2026-03-18,fine lines,organic,yes
+C01538,2026-03-18,sensitivity,quiz organic,yes
+C01539,2026-03-18,dark spots,paid search,yes
+C01540,2026-03-18,breakouts,paid search,no
+C01541,2026-03-18,fine lines,organic,no
+C01542,2026-03-19,dark spots,quiz organic,yes
+C01543,2026-03-19,fine lines,paid search,yes
+C01544,2026-03-19,fine lines,paid social,no
+C01545,2026-03-19,fine lines,paid search,no
+C01546,2026-03-19,breakouts,paid social,yes
+C01547,2026-03-19,breakouts,quiz organic,yes
+C01548,2026-03-19,breakouts,paid search,no
+C01549,2026-03-19,breakouts,organic,no
+C01550,2026-03-19,breakouts,paid social,no
+C01551,2026-03-19,fine lines,paid social,no
+C01552,2026-03-19,fine lines,paid search,no
+C01553,2026-03-19,dark spots,organic,no
+C01554,2026-03-19,breakouts,paid social,no
+C01555,2026-03-19,dark spots,organic,yes
+C01556,2026-03-19,dark spots,paid search,no
+C01557,2026-03-19,fine lines,organic,yes
+C01558,2026-03-19,dark spots,quiz organic,yes
+C01559,2026-03-19,dark spots,paid social,yes
+C01560,2026-03-19,sensitivity,organic,yes
+C01561,2026-03-19,sensitivity,organic,no
+C01562,2026-03-19,dark spots,paid social,yes
+C01563,2026-03-19,fine lines,organic,yes
+C01564,2026-03-19,sensitivity,paid social,no
+C01565,2026-03-19,sensitivity,organic,no
+C01566,2026-03-19,sensitivity,quiz organic,yes
+C01567,2026-03-19,fine lines,paid search,yes
+C01568,2026-03-20,fine lines,paid social,yes
+C01569,2026-03-20,dark spots,paid social,yes
+C01570,2026-03-20,fine lines,quiz organic,yes
+C01571,2026-03-20,breakouts,quiz organic,yes
+C01572,2026-03-20,dark spots,paid social,no
+C01573,2026-03-20,breakouts,paid social,yes
+C01574,2026-03-20,dark spots,paid social,no
+C01575,2026-03-20,breakouts,paid search,yes
+C01576,2026-03-20,fine lines,organic,yes
+C01577,2026-03-20,fine lines,organic,yes
+C01578,2026-03-20,sensitivity,organic,no
+C01579,2026-03-20,fine lines,paid social,no
+C01580,2026-03-20,dark spots,paid social,yes
+C01581,2026-03-20,dark spots,organic,no
+C01582,2026-03-21,fine lines,paid search,no
+C01583,2026-03-21,dark spots,paid search,no
+C01584,2026-03-21,breakouts,organic,no
+C01585,2026-03-21,dark spots,organic,no
+C01586,2026-03-21,fine lines,paid social,yes
+C01587,2026-03-21,dark spots,paid search,yes
+C01588,2026-03-21,dark spots,paid social,no
+C01589,2026-03-21,breakouts,paid social,yes
+C01590,2026-03-21,dark spots,quiz organic,yes
+C01591,2026-03-21,dark spots,paid search,no
+C01592,2026-03-21,dark spots,paid social,no
+C01593,2026-03-21,dark spots,paid search,no
+C01594,2026-03-21,dark spots,paid social,no
+C01595,2026-03-21,sensitivity,paid search,no
+C01596,2026-03-21,breakouts,paid social,yes
+C01597,2026-03-21,fine lines,paid social,yes
+C01598,2026-03-21,fine lines,quiz organic,yes
+C01599,2026-03-21,dark spots,paid search,no
+C01600,2026-03-21,sensitivity,organic,no
+C01601,2026-03-21,breakouts,paid social,no
+C01602,2026-03-22,fine lines,paid social,no
+C01603,2026-03-22,dark spots,paid search,yes
+C01604,2026-03-22,fine lines,organic,no
+C01605,2026-03-22,dark spots,quiz organic,yes
+C01606,2026-03-22,dark spots,organic,no
+C01607,2026-03-22,fine lines,paid social,yes
+C01608,2026-03-22,fine lines,paid search,no
+C01609,2026-03-22,breakouts,paid search,no
+C01610,2026-03-22,breakouts,organic,yes
+C01611,2026-03-22,sensitivity,organic,yes
+C01612,2026-03-22,sensitivity,paid social,no
+C01613,2026-03-22,breakouts,paid search,yes
+C01614,2026-03-22,fine lines,paid social,no
+C01615,2026-03-22,sensitivity,paid social,yes
+C01616,2026-03-22,dark spots,paid social,no
+C01617,2026-03-22,fine lines,organic,no
+C01618,2026-03-22,sensitivity,paid social,no
+C01619,2026-03-22,fine lines,paid social,yes
+C01620,2026-03-22,sensitivity,paid search,no
+C01621,2026-03-22,dark spots,paid social,yes
+C01622,2026-03-22,fine lines,organic,yes
+C01623,2026-03-22,dark spots,paid social,no
+C01624,2026-03-22,breakouts,organic,yes
+C01625,2026-03-22,dark spots,quiz organic,yes
+C01626,2026-03-22,sensitivity,paid social,yes
+C01627,2026-03-22,fine lines,paid social,no
+C01628,2026-03-23,fine lines,paid social,no
+C01629,2026-03-23,dark spots,organic,no
+C01630,2026-03-23,sensitivity,organic,yes
+C01631,2026-03-23,dark spots,quiz organic,yes
+C01632,2026-03-23,fine lines,paid social,yes
+C01633,2026-03-23,dark spots,organic,no
+C01634,2026-03-23,fine lines,quiz organic,yes
+C01635,2026-03-23,breakouts,paid social,yes
+C01636,2026-03-23,fine lines,paid search,no
+C01637,2026-03-23,fine lines,organic,yes
+C01638,2026-03-23,breakouts,organic,yes
+C01639,2026-03-23,breakouts,quiz organic,yes
+C01640,2026-03-23,dark spots,organic,yes
+C01641,2026-03-23,dark spots,paid social,no
+C01642,2026-03-23,dark spots,organic,yes
+C01643,2026-03-23,sensitivity,quiz organic,yes
+C01644,2026-03-23,breakouts,quiz organic,yes
+C01645,2026-03-23,fine lines,paid social,no
+C01646,2026-03-24,dark spots,paid search,no
+C01647,2026-03-24,dark spots,paid social,yes
+C01648,2026-03-24,dark spots,paid search,no
+C01649,2026-03-24,sensitivity,paid search,no
+C01650,2026-03-24,dark spots,quiz organic,yes
+C01651,2026-03-24,fine lines,organic,yes
+C01652,2026-03-24,dark spots,paid social,no
+C01653,2026-03-24,dark spots,quiz organic,yes
+C01654,2026-03-24,fine lines,paid social,yes
+C01655,2026-03-24,breakouts,quiz organic,yes
+C01656,2026-03-24,sensitivity,paid social,yes
+C01657,2026-03-24,sensitivity,paid social,yes
+C01658,2026-03-24,fine lines,paid search,no
+C01659,2026-03-24,fine lines,paid search,no
+C01660,2026-03-24,fine lines,organic,yes
+C01661,2026-03-24,dark spots,paid search,no
+C01662,2026-03-24,sensitivity,paid search,no
+C01663,2026-03-24,breakouts,paid social,no
+C01664,2026-03-25,fine lines,paid search,yes
+C01665,2026-03-25,dark spots,paid search,no
+C01666,2026-03-25,fine lines,paid social,yes
+C01667,2026-03-25,fine lines,organic,no
+C01668,2026-03-25,sensitivity,paid search,no
+C01669,2026-03-25,dark spots,paid social,yes
+C01670,2026-03-25,dark spots,paid search,yes
+C01671,2026-03-25,sensitivity,quiz organic,yes
+C01672,2026-03-25,breakouts,quiz organic,yes
+C01673,2026-03-25,breakouts,quiz organic,yes
+C01674,2026-03-25,dark spots,paid social,yes
+C01675,2026-03-25,dark spots,quiz organic,yes
+C01676,2026-03-25,breakouts,paid social,no
+C01677,2026-03-25,sensitivity,organic,no
+C01678,2026-03-25,dark spots,paid social,no
+C01679,2026-03-25,dark spots,paid social,yes
+C01680,2026-03-25,sensitivity,paid social,yes
+C01681,2026-03-25,breakouts,paid search,yes
+C01682,2026-03-25,dark spots,paid social,no
+C01683,2026-03-25,fine lines,paid social,no
+C01684,2026-03-25,dark spots,paid social,yes
+C01685,2026-03-25,dark spots,quiz organic,yes
+C01686,2026-03-25,fine lines,organic,yes
+C01687,2026-03-25,sensitivity,paid search,yes
+C01688,2026-03-25,breakouts,paid social,no
+C01689,2026-03-26,breakouts,paid social,yes
+C01690,2026-03-26,breakouts,paid social,no
+C01691,2026-03-26,sensitivity,paid search,yes
+C01692,2026-03-26,breakouts,quiz organic,yes
+C01693,2026-03-26,fine lines,quiz organic,yes
+C01694,2026-03-26,sensitivity,quiz organic,yes
+C01695,2026-03-26,fine lines,paid search,no
+C01696,2026-03-26,breakouts,paid social,no
+C01697,2026-03-26,dark spots,organic,yes
+C01698,2026-03-26,fine lines,paid search,no
+C01699,2026-03-26,dark spots,paid social,no
+C01700,2026-03-26,dark spots,paid social,no
+C01701,2026-03-26,breakouts,paid social,yes
+C01702,2026-03-26,breakouts,paid social,no
+C01703,2026-03-26,fine lines,quiz organic,yes
+C01704,2026-03-26,dark spots,quiz organic,yes
+C01705,2026-03-27,fine lines,paid social,no
+C01706,2026-03-27,sensitivity,paid social,yes
+C01707,2026-03-27,dark spots,paid social,no
+C01708,2026-03-27,sensitivity,paid social,yes
+C01709,2026-03-27,sensitivity,paid social,yes
+C01710,2026-03-27,fine lines,quiz organic,yes
+C01711,2026-03-27,breakouts,quiz organic,yes
+C01712,2026-03-27,fine lines,paid social,no
+C01713,2026-03-27,breakouts,quiz organic,yes
+C01714,2026-03-27,dark spots,quiz organic,yes
+C01715,2026-03-27,breakouts,organic,no
+C01716,2026-03-27,fine lines,paid search,no
+C01717,2026-03-27,sensitivity,paid social,yes
+C01718,2026-03-27,sensitivity,quiz organic,yes
+C01719,2026-03-27,dark spots,organic,no
+C01720,2026-03-27,breakouts,paid search,no
+C01721,2026-03-27,breakouts,paid search,no
+C01722,2026-03-27,sensitivity,quiz organic,yes
+C01723,2026-03-27,sensitivity,organic,no
+C01724,2026-03-27,dark spots,paid social,yes
+C01725,2026-03-27,dark spots,organic,no
+C01726,2026-03-28,fine lines,paid social,no
+C01727,2026-03-28,sensitivity,quiz organic,yes
+C01728,2026-03-28,breakouts,paid social,yes
+C01729,2026-03-28,sensitivity,paid social,no
+C01730,2026-03-28,dark spots,quiz organic,yes
+C01731,2026-03-28,sensitivity,paid social,no
+C01732,2026-03-28,breakouts,quiz organic,yes
+C01733,2026-03-28,fine lines,quiz organic,yes
+C01734,2026-03-28,breakouts,quiz organic,yes
+C01735,2026-03-28,dark spots,organic,yes
+C01736,2026-03-28,breakouts,quiz organic,yes
+C01737,2026-03-28,sensitivity,paid social,yes
+C01738,2026-03-28,fine lines,paid social,no
+C01739,2026-03-28,fine lines,quiz organic,yes
+C01740,2026-03-28,fine lines,paid social,no
+C01741,2026-03-28,fine lines,organic,no
+C01742,2026-03-28,fine lines,organic,no
+C01743,2026-03-28,dark spots,paid social,yes
+C01744,2026-03-28,fine lines,paid search,no
+C01745,2026-03-28,dark spots,paid social,yes
+C01746,2026-03-29,fine lines,paid social,yes
+C01747,2026-03-29,dark spots,paid social,yes
+C01748,2026-03-29,dark spots,paid social,no
+C01749,2026-03-29,fine lines,paid social,yes
+C01750,2026-03-29,fine lines,paid social,no
+C01751,2026-03-29,breakouts,organic,no
+C01752,2026-03-29,fine lines,organic,no
+C01753,2026-03-29,sensitivity,paid social,yes
+C01754,2026-03-29,breakouts,paid search,no
+C01755,2026-03-29,breakouts,paid search,no
+C01756,2026-03-29,dark spots,paid search,no
+C01757,2026-03-29,sensitivity,paid search,yes
+C01758,2026-03-29,fine lines,paid search,yes
+C01759,2026-03-29,sensitivity,organic,no
+C01760,2026-03-29,sensitivity,quiz organic,yes
+C01761,2026-03-29,fine lines,paid social,yes
+C01762,2026-03-29,dark spots,paid search,no
+C01763,2026-03-29,sensitivity,paid social,yes
+C01764,2026-03-29,dark spots,paid search,no
+C01765,2026-03-29,dark spots,quiz organic,yes
+C01766,2026-03-29,breakouts,paid social,no
+C01767,2026-03-30,breakouts,organic,yes
+C01768,2026-03-30,breakouts,organic,yes
+C01769,2026-03-30,dark spots,quiz organic,yes
+C01770,2026-03-30,dark spots,paid social,no
+C01771,2026-03-30,fine lines,paid social,yes
+C01772,2026-03-30,dark spots,paid social,no
+C01773,2026-03-30,dark spots,paid social,no
+C01774,2026-03-30,fine lines,paid search,yes
+C01775,2026-03-30,breakouts,organic,no
+C01776,2026-03-30,sensitivity,paid social,no
+C01777,2026-03-30,sensitivity,organic,yes
+C01778,2026-03-30,fine lines,organic,yes
+C01779,2026-03-30,breakouts,paid social,yes
+C01780,2026-03-30,sensitivity,organic,yes
+C01781,2026-03-30,fine lines,paid social,yes
+C01782,2026-03-31,fine lines,organic,yes
+C01783,2026-03-31,sensitivity,quiz organic,yes
+C01784,2026-03-31,dark spots,paid social,no
+C01785,2026-03-31,breakouts,paid search,yes
+C01786,2026-03-31,breakouts,paid search,yes
+C01787,2026-03-31,breakouts,organic,yes
+C01788,2026-03-31,sensitivity,paid search,no
+C01789,2026-03-31,fine lines,quiz organic,yes
+C01790,2026-03-31,dark spots,paid search,yes
+C01791,2026-03-31,breakouts,paid search,yes
+C01792,2026-03-31,sensitivity,paid search,yes
+C01793,2026-03-31,sensitivity,organic,yes
+C01794,2026-03-31,breakouts,organic,no
+C01795,2026-03-31,fine lines,paid social,no
+C01796,2026-03-31,breakouts,paid social,yes
+C01797,2026-03-31,dark spots,paid search,no
+C01798,2026-03-31,fine lines,paid search,yes
+C01799,2026-03-31,sensitivity,quiz organic,yes
+C01800,2026-03-31,dark spots,paid social,no
+C01801,2026-03-31,sensitivity,organic,yes
+C01802,2026-03-31,sensitivity,organic,no
+C01803,2026-03-31,breakouts,paid social,no
+C01804,2026-04-01,fine lines,paid search,yes
+C01805,2026-04-01,breakouts,paid search,no
+C01806,2026-04-01,dark spots,quiz organic,yes
+C01807,2026-04-01,breakouts,quiz organic,yes
+C01808,2026-04-01,sensitivity,paid search,yes
+C01809,2026-04-01,sensitivity,quiz organic,yes
+C01810,2026-04-01,sensitivity,paid social,no
+C01811,2026-04-01,breakouts,organic,no
+C01812,2026-04-01,fine lines,paid social,yes
+C01813,2026-04-01,dark spots,paid social,yes
+C01814,2026-04-01,dark spots,paid social,yes
+C01815,2026-04-01,fine lines,quiz organic,yes
+C01816,2026-04-01,dark spots,paid social,yes
+C01817,2026-04-01,breakouts,paid search,no
+C01818,2026-04-01,sensitivity,paid social,yes
+C01819,2026-04-01,fine lines,organic,yes
+C01820,2026-04-01,sensitivity,paid social,yes
+C01821,2026-04-01,fine lines,paid search,no
+C01822,2026-04-01,sensitivity,paid search,yes
+C01823,2026-04-01,dark spots,quiz organic,yes
+C01824,2026-04-01,sensitivity,organic,no
+C01825,2026-04-01,sensitivity,paid social,no
+C01826,2026-04-01,breakouts,quiz organic,yes
+C01827,2026-04-01,dark spots,paid social,yes
+C01828,2026-04-02,breakouts,organic,no
+C01829,2026-04-02,dark spots,organic,no
+C01830,2026-04-02,fine lines,paid social,no
+C01831,2026-04-02,dark spots,quiz organic,yes
+C01832,2026-04-02,dark spots,paid search,yes
+C01833,2026-04-02,breakouts,paid search,no
+C01834,2026-04-02,fine lines,quiz organic,yes
+C01835,2026-04-02,breakouts,quiz organic,yes
+C01836,2026-04-02,dark spots,paid social,no
+C01837,2026-04-02,breakouts,paid search,yes
+C01838,2026-04-02,sensitivity,organic,yes
+C01839,2026-04-02,fine lines,paid social,no
+C01840,2026-04-02,breakouts,paid social,no
+C01841,2026-04-02,breakouts,paid social,no
+C01842,2026-04-02,fine lines,paid social,no
+C01843,2026-04-02,sensitivity,paid search,no
+C01844,2026-04-02,sensitivity,quiz organic,yes
+C01845,2026-04-02,breakouts,paid search,no
+C01846,2026-04-03,sensitivity,paid social,yes
+C01847,2026-04-03,dark spots,paid social,no
+C01848,2026-04-03,dark spots,paid search,no
+C01849,2026-04-03,fine lines,paid social,no
+C01850,2026-04-03,dark spots,organic,yes
+C01851,2026-04-03,dark spots,quiz organic,yes
+C01852,2026-04-03,breakouts,paid social,no
+C01853,2026-04-03,sensitivity,paid social,no
+C01854,2026-04-03,fine lines,paid social,yes
+C01855,2026-04-03,dark spots,paid search,yes
+C01856,2026-04-03,breakouts,paid social,yes
+C01857,2026-04-03,sensitivity,organic,no
+C01858,2026-04-03,breakouts,organic,no
+C01859,2026-04-03,dark spots,paid search,yes
+C01860,2026-04-03,sensitivity,paid search,yes
+C01861,2026-04-03,fine lines,quiz organic,yes
+C01862,2026-04-03,breakouts,organic,no
+C01863,2026-04-03,sensitivity,organic,yes
+C01864,2026-04-03,sensitivity,quiz organic,yes
+C01865,2026-04-03,fine lines,paid search,no
+C01866,2026-04-03,dark spots,paid social,yes
+C01867,2026-04-03,dark spots,quiz organic,yes
+C01868,2026-04-04,fine lines,organic,yes
+C01869,2026-04-04,fine lines,paid social,yes
+C01870,2026-04-04,breakouts,organic,no
+C01871,2026-04-04,breakouts,organic,no
+C01872,2026-04-04,sensitivity,paid search,yes
+C01873,2026-04-04,fine lines,paid search,no
+C01874,2026-04-04,dark spots,quiz organic,yes
+C01875,2026-04-04,dark spots,paid social,yes
+C01876,2026-04-04,sensitivity,organic,no
+C01877,2026-04-04,dark spots,organic,yes
+C01878,2026-04-04,sensitivity,quiz organic,yes
+C01879,2026-04-04,sensitivity,quiz organic,yes
+C01880,2026-04-04,sensitivity,paid social,no
+C01881,2026-04-04,breakouts,organic,no
+C01882,2026-04-04,fine lines,quiz organic,yes
+C01883,2026-04-04,sensitivity,organic,no
+C01884,2026-04-04,breakouts,organic,no
+C01885,2026-04-04,dark spots,paid social,no
+C01886,2026-04-04,dark spots,paid social,no
+C01887,2026-04-04,breakouts,paid search,yes
+C01888,2026-04-04,dark spots,organic,yes
+C01889,2026-04-05,sensitivity,quiz organic,yes
+C01890,2026-04-05,fine lines,organic,yes
+C01891,2026-04-05,breakouts,organic,no
+C01892,2026-04-05,breakouts,quiz organic,yes
+C01893,2026-04-05,sensitivity,paid social,yes
+C01894,2026-04-05,fine lines,quiz organic,yes
+C01895,2026-04-05,sensitivity,paid social,yes
+C01896,2026-04-05,sensitivity,paid search,no
+C01897,2026-04-05,dark spots,paid social,no
+C01898,2026-04-05,fine lines,paid search,yes
+C01899,2026-04-05,sensitivity,paid search,no
+C01900,2026-04-05,dark spots,paid social,no
+C01901,2026-04-05,fine lines,paid social,no
+C01902,2026-04-05,fine lines,organic,yes
+C01903,2026-04-05,fine lines,organic,no
+C01904,2026-04-05,sensitivity,quiz organic,yes
+C01905,2026-04-05,sensitivity,paid search,yes
+C01906,2026-04-05,breakouts,paid social,yes
+C01907,2026-04-05,breakouts,paid social,yes
+C01908,2026-04-05,sensitivity,paid social,yes
+C01909,2026-04-05,sensitivity,organic,yes
+C01910,2026-04-05,dark spots,paid social,yes
+C01911,2026-04-05,sensitivity,quiz organic,yes
+C01912,2026-04-06,fine lines,paid search,no
+C01913,2026-04-06,fine lines,paid search,no
+C01914,2026-04-06,dark spots,quiz organic,yes
+C01915,2026-04-06,breakouts,paid social,yes
+C01916,2026-04-06,sensitivity,paid social,no
+C01917,2026-04-06,dark spots,organic,yes
+C01918,2026-04-06,dark spots,quiz organic,yes
+C01919,2026-04-06,breakouts,organic,yes
+C01920,2026-04-06,fine lines,organic,yes
+C01921,2026-04-06,sensitivity,paid social,yes
+C01922,2026-04-06,breakouts,organic,no
+C01923,2026-04-06,dark spots,paid social,yes
+C01924,2026-04-06,breakouts,organic,yes
+C01925,2026-04-06,fine lines,quiz organic,yes
+C01926,2026-04-06,breakouts,quiz organic,yes
+C01927,2026-04-06,sensitivity,paid social,no
+C01928,2026-04-06,dark spots,quiz organic,yes
+C01929,2026-04-06,sensitivity,quiz organic,yes
+C01930,2026-04-06,breakouts,paid social,no
+C01931,2026-04-06,dark spots,paid social,yes
+C01932,2026-04-06,breakouts,paid search,yes
+C01933,2026-04-06,dark spots,paid social,no
+C01934,2026-04-06,breakouts,paid social,yes
+C01935,2026-04-06,dark spots,quiz organic,yes
+C01936,2026-04-07,breakouts,paid search,no
+C01937,2026-04-07,sensitivity,paid social,yes
+C01938,2026-04-07,dark spots,quiz organic,yes
+C01939,2026-04-07,fine lines,paid social,no
+C01940,2026-04-07,fine lines,paid social,no
+C01941,2026-04-07,breakouts,organic,no
+C01942,2026-04-07,dark spots,paid search,yes
+C01943,2026-04-07,sensitivity,organic,yes
+C01944,2026-04-07,sensitivity,paid social,yes
+C01945,2026-04-07,dark spots,organic,yes
+C01946,2026-04-07,sensitivity,paid social,no
+C01947,2026-04-07,dark spots,paid social,no
+C01948,2026-04-07,fine lines,paid search,yes
+C01949,2026-04-07,fine lines,paid social,yes
+C01950,2026-04-07,sensitivity,organic,no
+C01951,2026-04-07,fine lines,quiz organic,yes
+C01952,2026-04-07,breakouts,paid search,no
+C01953,2026-04-08,dark spots,paid social,no
+C01954,2026-04-08,breakouts,quiz organic,yes
+C01955,2026-04-08,dark spots,paid social,no
+C01956,2026-04-08,breakouts,quiz organic,yes
+C01957,2026-04-08,fine lines,paid social,yes
+C01958,2026-04-08,breakouts,paid social,no
+C01959,2026-04-08,breakouts,quiz organic,yes
+C01960,2026-04-08,fine lines,paid social,no
+C01961,2026-04-08,fine lines,paid search,no
+C01962,2026-04-08,sensitivity,paid social,no
+C01963,2026-04-08,sensitivity,quiz organic,yes
+C01964,2026-04-08,dark spots,paid search,yes
+C01965,2026-04-08,breakouts,quiz organic,yes
+C01966,2026-04-08,sensitivity,paid social,yes
+C01967,2026-04-08,dark spots,quiz organic,yes
+C01968,2026-04-08,breakouts,organic,yes
+C01969,2026-04-08,fine lines,paid social,no
+C01970,2026-04-08,sensitivity,quiz organic,yes
+C01971,2026-04-09,breakouts,paid social,no
+C01972,2026-04-09,dark spots,organic,no
+C01973,2026-04-09,sensitivity,organic,yes
+C01974,2026-04-09,sensitivity,quiz organic,yes
+C01975,2026-04-09,breakouts,paid search,no
+C01976,2026-04-09,fine lines,paid search,no
+C01977,2026-04-09,dark spots,paid search,no
+C01978,2026-04-09,breakouts,paid search,no
+C01979,2026-04-09,dark spots,paid search,yes
+C01980,2026-04-09,dark spots,paid social,no
+C01981,2026-04-09,fine lines,paid social,no
+C01982,2026-04-09,fine lines,paid social,no
+C01983,2026-04-09,sensitivity,organic,no
+C01984,2026-04-09,sensitivity,quiz organic,yes
+C01985,2026-04-09,breakouts,paid search,no
+C01986,2026-04-09,dark spots,paid search,no
+C01987,2026-04-09,fine lines,paid social,no
+C01988,2026-04-09,breakouts,paid social,no
+C01989,2026-04-09,breakouts,paid search,yes
+C01990,2026-04-09,sensitivity,organic,yes
+C01991,2026-04-09,sensitivity,paid search,yes
+C01992,2026-04-09,fine lines,paid social,no
+C01993,2026-04-09,dark spots,quiz organic,yes
+C01994,2026-04-09,fine lines,organic,no
+C01995,2026-04-09,breakouts,paid search,yes
+C01996,2026-04-10,dark spots,quiz organic,yes
+C01997,2026-04-10,breakouts,paid search,yes
+C01998,2026-04-10,fine lines,paid social,yes
+C01999,2026-04-10,fine lines,organic,no
+C02000,2026-04-10,breakouts,paid social,yes
+C02001,2026-04-10,fine lines,paid social,no
+C02002,2026-04-10,dark spots,paid social,no
+C02003,2026-04-10,sensitivity,paid search,yes
+C02004,2026-04-10,sensitivity,paid social,no
+C02005,2026-04-10,fine lines,quiz organic,yes
+C02006,2026-04-10,fine lines,quiz organic,yes
+C02007,2026-04-10,sensitivity,organic,no
+C02008,2026-04-10,breakouts,organic,yes
+C02009,2026-04-10,fine lines,paid search,yes
+C02010,2026-04-10,fine lines,paid social,yes
+C02011,2026-04-10,sensitivity,paid search,yes
+C02012,2026-04-10,breakouts,paid search,no
+C02013,2026-04-10,dark spots,quiz organic,yes
+C02014,2026-04-10,breakouts,paid search,no
+C02015,2026-04-11,dark spots,paid social,yes
+C02016,2026-04-11,fine lines,paid social,no
+C02017,2026-04-11,dark spots,paid social,no
+C02018,2026-04-11,dark spots,paid social,no
+C02019,2026-04-11,fine lines,quiz organic,yes
+C02020,2026-04-11,dark spots,quiz organic,yes
+C02021,2026-04-11,dark spots,paid social,no
+C02022,2026-04-11,dark spots,paid social,yes
+C02023,2026-04-11,breakouts,paid social,no
+C02024,2026-04-11,dark spots,paid social,no
+C02025,2026-04-11,breakouts,paid social,no
+C02026,2026-04-11,sensitivity,paid search,no
+C02027,2026-04-11,fine lines,organic,no
+C02028,2026-04-11,sensitivity,quiz organic,yes
+C02029,2026-04-11,fine lines,organic,no
+C02030,2026-04-11,sensitivity,paid social,yes
+C02031,2026-04-11,fine lines,paid social,yes
+C02032,2026-04-11,breakouts,paid search,yes
+C02033,2026-04-11,fine lines,paid social,no
+C02034,2026-04-11,fine lines,quiz organic,yes
+C02035,2026-04-11,sensitivity,paid social,no
+C02036,2026-04-11,sensitivity,paid social,no
+C02037,2026-04-11,dark spots,quiz organic,yes
+C02038,2026-04-11,breakouts,paid social,no
+C02039,2026-04-11,sensitivity,organic,no
+C02040,2026-04-11,sensitivity,organic,yes
+C02041,2026-04-12,dark spots,paid search,no
+C02042,2026-04-12,breakouts,paid search,yes
+C02043,2026-04-12,breakouts,organic,yes
+C02044,2026-04-12,dark spots,paid search,no
+C02045,2026-04-12,fine lines,quiz organic,yes
+C02046,2026-04-12,fine lines,quiz organic,yes
+C02047,2026-04-12,dark spots,quiz organic,yes
+C02048,2026-04-12,sensitivity,paid search,yes
+C02049,2026-04-12,fine lines,paid social,yes
+C02050,2026-04-12,dark spots,organic,yes
+C02051,2026-04-12,dark spots,paid search,yes
+C02052,2026-04-12,fine lines,quiz organic,yes
+C02053,2026-04-12,fine lines,organic,yes
+C02054,2026-04-12,fine lines,paid search,yes
+C02055,2026-04-12,breakouts,paid search,no
+C02056,2026-04-12,dark spots,paid social,no
+C02057,2026-04-12,dark spots,organic,no
+C02058,2026-04-12,fine lines,paid search,yes
+C02059,2026-04-12,breakouts,organic,yes
+C02060,2026-04-12,breakouts,paid social,no
+C02061,2026-04-12,dark spots,paid search,yes
+C02062,2026-04-12,dark spots,paid social,yes
+C02063,2026-04-12,dark spots,paid search,no
+C02064,2026-04-12,sensitivity,paid search,no
+C02065,2026-04-12,breakouts,paid search,no
+C02066,2026-04-12,sensitivity,paid social,yes
+C02067,2026-04-13,dark spots,paid social,yes
+C02068,2026-04-13,fine lines,paid search,no
+C02069,2026-04-13,breakouts,paid social,yes
+C02070,2026-04-13,sensitivity,paid search,no
+C02071,2026-04-13,sensitivity,paid search,yes
+C02072,2026-04-13,dark spots,paid search,yes
+C02073,2026-04-13,fine lines,organic,no
+C02074,2026-04-13,fine lines,quiz organic,yes
+C02075,2026-04-13,breakouts,paid social,yes
+C02076,2026-04-13,dark spots,paid search,no
+C02077,2026-04-13,sensitivity,paid search,yes
+C02078,2026-04-13,dark spots,quiz organic,yes
+C02079,2026-04-13,sensitivity,organic,no
+C02080,2026-04-13,dark spots,paid search,no
+C02081,2026-04-13,fine lines,paid social,no
+C02082,2026-04-13,sensitivity,paid social,yes
+C02083,2026-04-13,fine lines,paid social,no
+C02084,2026-04-13,dark spots,paid social,yes
+C02085,2026-04-13,sensitivity,organic,no
+C02086,2026-04-13,sensitivity,paid search,no
+C02087,2026-04-13,breakouts,paid social,no
+C02088,2026-04-13,fine lines,organic,yes
+C02089,2026-04-13,dark spots,organic,no
+C02090,2026-04-13,sensitivity,organic,no
+C02091,2026-04-14,breakouts,paid search,no
+C02092,2026-04-14,breakouts,quiz organic,yes
+C02093,2026-04-14,dark spots,paid social,yes
+C02094,2026-04-14,fine lines,quiz organic,yes
+C02095,2026-04-14,breakouts,paid search,yes
+C02096,2026-04-14,sensitivity,paid social,yes
+C02097,2026-04-14,sensitivity,paid search,no
+C02098,2026-04-14,breakouts,paid social,no
+C02099,2026-04-14,breakouts,paid social,no
+C02100,2026-04-14,fine lines,organic,yes
+C02101,2026-04-14,dark spots,organic,yes
+C02102,2026-04-14,breakouts,quiz organic,yes
+C02103,2026-04-14,breakouts,organic,no
+C02104,2026-04-14,breakouts,paid search,no
+C02105,2026-04-14,fine lines,paid social,no
+C02106,2026-04-14,dark spots,paid social,no
+C02107,2026-04-14,fine lines,organic,no
+C02108,2026-04-14,fine lines,paid social,no
+C02109,2026-04-14,breakouts,quiz organic,yes
+C02110,2026-04-15,breakouts,quiz organic,yes
+C02111,2026-04-15,dark spots,paid search,no
+C02112,2026-04-15,dark spots,paid search,no
+C02113,2026-04-15,breakouts,organic,yes
+C02114,2026-04-15,dark spots,organic,yes
+C02115,2026-04-15,fine lines,paid social,yes
+C02116,2026-04-15,breakouts,organic,no
+C02117,2026-04-15,sensitivity,organic,no
+C02118,2026-04-15,fine lines,paid social,yes
+C02119,2026-04-15,sensitivity,organic,yes
+C02120,2026-04-15,sensitivity,paid search,yes
+C02121,2026-04-15,fine lines,paid social,yes
+C02122,2026-04-15,dark spots,quiz organic,yes
+C02123,2026-04-15,breakouts,paid search,no
+C02124,2026-04-15,sensitivity,paid search,yes
+C02125,2026-04-16,breakouts,paid social,no
+C02126,2026-04-16,sensitivity,paid social,yes
+C02127,2026-04-16,dark spots,organic,yes
+C02128,2026-04-16,dark spots,quiz organic,yes
+C02129,2026-04-16,fine lines,organic,yes
+C02130,2026-04-16,sensitivity,paid search,yes
+C02131,2026-04-16,dark spots,quiz organic,yes
+C02132,2026-04-16,fine lines,paid social,no
+C02133,2026-04-16,fine lines,paid social,no
+C02134,2026-04-16,sensitivity,paid search,yes
+C02135,2026-04-16,dark spots,quiz organic,yes
+C02136,2026-04-16,fine lines,paid social,no
+C02137,2026-04-16,dark spots,paid social,no
+C02138,2026-04-16,dark spots,paid search,yes
+C02139,2026-04-16,sensitivity,paid search,no
+C02140,2026-04-16,fine lines,paid search,no
+C02141,2026-04-16,sensitivity,organic,no
+C02142,2026-04-16,sensitivity,quiz organic,yes
+C02143,2026-04-16,fine lines,paid social,no
+C02144,2026-04-16,dark spots,quiz organic,yes
+C02145,2026-04-16,sensitivity,quiz organic,yes
+C02146,2026-04-16,fine lines,paid social,yes
+C02147,2026-04-17,sensitivity,organic,no
+C02148,2026-04-17,fine lines,paid social,no
+C02149,2026-04-17,dark spots,organic,no
+C02150,2026-04-17,sensitivity,paid social,no
+C02151,2026-04-17,fine lines,paid social,no
+C02152,2026-04-17,breakouts,organic,yes
+C02153,2026-04-17,sensitivity,paid search,yes
+C02154,2026-04-17,sensitivity,paid search,yes
+C02155,2026-04-17,breakouts,paid search,no
+C02156,2026-04-17,dark spots,quiz organic,yes
+C02157,2026-04-17,sensitivity,paid social,yes
+C02158,2026-04-17,sensitivity,paid search,no
+C02159,2026-04-17,breakouts,quiz organic,yes
+C02160,2026-04-17,sensitivity,organic,no
+C02161,2026-04-17,dark spots,organic,yes
+C02162,2026-04-17,fine lines,paid social,no
+C02163,2026-04-17,sensitivity,paid search,yes
+C02164,2026-04-17,dark spots,paid social,no
+C02165,2026-04-17,fine lines,paid search,yes
+C02166,2026-04-17,sensitivity,paid search,no
+C02167,2026-04-17,sensitivity,quiz organic,yes
+C02168,2026-04-18,fine lines,paid social,no
+C02169,2026-04-18,sensitivity,paid social,no
+C02170,2026-04-18,breakouts,paid search,no
+C02171,2026-04-18,dark spots,quiz organic,yes
+C02172,2026-04-18,sensitivity,organic,no
+C02173,2026-04-18,dark spots,paid search,no
+C02174,2026-04-18,dark spots,paid search,no
+C02175,2026-04-18,breakouts,quiz organic,yes
+C02176,2026-04-18,fine lines,organic,yes
+C02177,2026-04-18,breakouts,quiz organic,yes
+C02178,2026-04-18,dark spots,paid social,yes
+C02179,2026-04-18,sensitivity,paid search,no
+C02180,2026-04-18,sensitivity,quiz organic,yes
+C02181,2026-04-18,fine lines,organic,yes
+C02182,2026-04-18,dark spots,organic,no
+C02183,2026-04-18,fine lines,paid social,yes
+C02184,2026-04-18,dark spots,paid social,no
+C02185,2026-04-18,breakouts,paid social,no
+C02186,2026-04-18,breakouts,paid social,no
+C02187,2026-04-18,dark spots,paid social,yes
+C02188,2026-04-18,sensitivity,organic,yes
+C02189,2026-04-18,sensitivity,paid search,no
+C02190,2026-04-18,breakouts,quiz organic,yes
+C02191,2026-04-18,sensitivity,quiz organic,yes
+C02192,2026-04-18,sensitivity,paid social,no
+C02193,2026-04-19,dark spots,quiz organic,yes
+C02194,2026-04-19,sensitivity,paid social,no
+C02195,2026-04-19,fine lines,paid social,no
+C02196,2026-04-19,fine lines,quiz organic,yes
+C02197,2026-04-19,breakouts,paid social,no
+C02198,2026-04-19,fine lines,paid search,no
+C02199,2026-04-19,sensitivity,quiz organic,yes
+C02200,2026-04-19,dark spots,paid social,no
+C02201,2026-04-19,breakouts,paid social,yes
+C02202,2026-04-19,fine lines,paid social,yes
+C02203,2026-04-19,dark spots,paid social,no
+C02204,2026-04-19,breakouts,paid social,no
+C02205,2026-04-19,sensitivity,paid social,no
+C02206,2026-04-19,dark spots,paid search,no
+C02207,2026-04-19,fine lines,paid social,yes
+C02208,2026-04-19,dark spots,paid social,yes
+C02209,2026-04-19,sensitivity,organic,yes
+C02210,2026-04-19,dark spots,organic,no
+C02211,2026-04-19,fine lines,paid social,no
+C02212,2026-04-19,breakouts,paid search,yes
+C02213,2026-04-19,breakouts,paid search,yes
+C02214,2026-04-20,sensitivity,organic,no
+C02215,2026-04-20,fine lines,paid social,no
+C02216,2026-04-20,dark spots,organic,yes
+C02217,2026-04-20,dark spots,quiz organic,yes
+C02218,2026-04-20,breakouts,quiz organic,yes
+C02219,2026-04-20,fine lines,quiz organic,yes
+C02220,2026-04-20,dark spots,quiz organic,yes
+C02221,2026-04-20,fine lines,organic,yes
+C02222,2026-04-20,fine lines,paid search,no
+C02223,2026-04-20,fine lines,organic,no
+C02224,2026-04-20,fine lines,organic,no
+C02225,2026-04-20,fine lines,paid search,no
+C02226,2026-04-20,breakouts,paid social,no
+C02227,2026-04-20,breakouts,paid social,no
+C02228,2026-04-20,sensitivity,paid social,no
+C02229,2026-04-21,fine lines,organic,no
+C02230,2026-04-21,breakouts,paid search,yes
+C02231,2026-04-21,breakouts,paid social,no
+C02232,2026-04-21,sensitivity,organic,yes
+C02233,2026-04-21,dark spots,organic,no
+C02234,2026-04-21,dark spots,paid search,no
+C02235,2026-04-21,sensitivity,quiz organic,yes
+C02236,2026-04-21,breakouts,paid search,yes
+C02237,2026-04-21,breakouts,organic,yes
+C02238,2026-04-21,sensitivity,paid social,no
+C02239,2026-04-21,breakouts,paid search,no
+C02240,2026-04-21,sensitivity,paid search,no
+C02241,2026-04-21,breakouts,paid social,no
+C02242,2026-04-21,dark spots,quiz organic,yes
+C02243,2026-04-21,breakouts,organic,no
+C02244,2026-04-21,dark spots,paid search,yes
+C02245,2026-04-21,breakouts,quiz organic,yes
+C02246,2026-04-21,breakouts,paid search,no
+C02247,2026-04-21,breakouts,organic,yes
+C02248,2026-04-21,breakouts,quiz organic,yes
+C02249,2026-04-21,sensitivity,paid search,no
+C02250,2026-04-22,breakouts,organic,yes
+C02251,2026-04-22,fine lines,paid social,no
+C02252,2026-04-22,fine lines,quiz organic,yes
+C02253,2026-04-22,fine lines,paid social,yes
+C02254,2026-04-22,breakouts,organic,no
+C02255,2026-04-22,breakouts,paid search,no
+C02256,2026-04-22,fine lines,paid social,yes
+C02257,2026-04-22,sensitivity,organic,no
+C02258,2026-04-22,fine lines,paid social,no
+C02259,2026-04-22,sensitivity,paid social,yes
+C02260,2026-04-22,sensitivity,organic,no
+C02261,2026-04-22,dark spots,paid social,yes
+C02262,2026-04-22,fine lines,paid social,yes
+C02263,2026-04-22,dark spots,quiz organic,yes
+C02264,2026-04-22,fine lines,paid search,no
+C02265,2026-04-22,breakouts,organic,no
+C02266,2026-04-22,sensitivity,paid search,yes
+C02267,2026-04-22,fine lines,paid social,no
+C02268,2026-04-23,fine lines,paid social,no
+C02269,2026-04-23,sensitivity,paid social,no
+C02270,2026-04-23,fine lines,paid search,no
+C02271,2026-04-23,breakouts,paid search,yes
+C02272,2026-04-23,dark spots,quiz organic,yes
+C02273,2026-04-23,dark spots,organic,yes
+C02274,2026-04-23,dark spots,organic,no
+C02275,2026-04-23,breakouts,paid social,no
+C02276,2026-04-23,sensitivity,paid social,no
+C02277,2026-04-23,sensitivity,quiz organic,yes
+C02278,2026-04-23,dark spots,organic,no
+C02279,2026-04-23,fine lines,quiz organic,yes
+C02280,2026-04-23,fine lines,paid social,no
+C02281,2026-04-23,breakouts,quiz organic,yes
+C02282,2026-04-23,sensitivity,paid social,yes
+C02283,2026-04-23,sensitivity,paid search,yes
+C02284,2026-04-23,sensitivity,paid search,yes
+C02285,2026-04-23,dark spots,quiz organic,yes
+C02286,2026-04-23,fine lines,paid social,no
+C02287,2026-04-23,sensitivity,paid social,no
+C02288,2026-04-23,fine lines,paid social,no
+C02289,2026-04-23,sensitivity,paid social,no
+C02290,2026-04-23,fine lines,quiz organic,yes
+C02291,2026-04-24,fine lines,quiz organic,yes
+C02292,2026-04-24,dark spots,quiz organic,yes
+C02293,2026-04-24,sensitivity,organic,no
+C02294,2026-04-24,fine lines,organic,no
+C02295,2026-04-24,breakouts,organic,no
+C02296,2026-04-24,fine lines,quiz organic,yes
+C02297,2026-04-24,dark spots,paid search,no
+C02298,2026-04-24,dark spots,quiz organic,yes
+C02299,2026-04-24,breakouts,organic,no
+C02300,2026-04-24,fine lines,paid social,no
+C02301,2026-04-24,dark spots,paid social,no
+C02302,2026-04-24,sensitivity,organic,no
+C02303,2026-04-24,fine lines,organic,no
+C02304,2026-04-24,sensitivity,quiz organic,yes
+C02305,2026-04-24,breakouts,organic,no
+C02306,2026-04-24,dark spots,quiz organic,yes
+C02307,2026-04-25,sensitivity,paid social,yes
+C02308,2026-04-25,dark spots,paid social,yes
+C02309,2026-04-25,fine lines,organic,no
+C02310,2026-04-25,breakouts,quiz organic,yes
+C02311,2026-04-25,dark spots,paid social,no
+C02312,2026-04-25,sensitivity,paid social,no
+C02313,2026-04-25,breakouts,paid search,no
+C02314,2026-04-25,sensitivity,organic,no
+C02315,2026-04-25,breakouts,paid social,no
+C02316,2026-04-25,fine lines,quiz organic,yes
+C02317,2026-04-25,sensitivity,quiz organic,yes
+C02318,2026-04-25,sensitivity,paid search,yes
+C02319,2026-04-25,fine lines,quiz organic,yes
+C02320,2026-04-25,fine lines,paid search,yes
+C02321,2026-04-25,fine lines,paid social,no
+C02322,2026-04-25,sensitivity,paid search,yes
+C02323,2026-04-25,fine lines,organic,no
+C02324,2026-04-26,sensitivity,quiz organic,yes
+C02325,2026-04-26,breakouts,paid social,no
+C02326,2026-04-26,fine lines,paid social,yes
+C02327,2026-04-26,breakouts,paid social,yes
+C02328,2026-04-26,fine lines,paid search,yes
+C02329,2026-04-26,dark spots,organic,yes
+C02330,2026-04-26,fine lines,paid social,yes
+C02331,2026-04-26,dark spots,quiz organic,yes
+C02332,2026-04-26,breakouts,quiz organic,yes
+C02333,2026-04-26,fine lines,organic,no
+C02334,2026-04-26,breakouts,paid search,no
+C02335,2026-04-26,fine lines,paid social,no
+C02336,2026-04-26,sensitivity,quiz organic,yes
+C02337,2026-04-26,breakouts,paid search,no
+C02338,2026-04-26,fine lines,quiz organic,yes
+C02339,2026-04-26,breakouts,quiz organic,yes
+C02340,2026-04-27,breakouts,paid search,yes
+C02341,2026-04-27,fine lines,paid social,no
+C02342,2026-04-27,sensitivity,quiz organic,yes
+C02343,2026-04-27,breakouts,paid search,yes
+C02344,2026-04-27,breakouts,paid social,no
+C02345,2026-04-27,dark spots,paid social,yes
+C02346,2026-04-27,breakouts,paid social,yes
+C02347,2026-04-27,fine lines,organic,no
+C02348,2026-04-27,fine lines,organic,no
+C02349,2026-04-27,dark spots,organic,no
+C02350,2026-04-27,dark spots,paid social,yes
+C02351,2026-04-27,sensitivity,quiz organic,yes
+C02352,2026-04-27,breakouts,paid search,no
+C02353,2026-04-27,fine lines,quiz organic,yes
+C02354,2026-04-27,breakouts,paid social,no
+C02355,2026-04-27,fine lines,quiz organic,yes
+C02356,2026-04-27,dark spots,paid social,yes
+C02357,2026-04-27,sensitivity,quiz organic,yes
+C02358,2026-04-27,sensitivity,quiz organic,yes
+C02359,2026-04-27,dark spots,paid social,no
+C02360,2026-04-28,fine lines,quiz organic,yes
+C02361,2026-04-28,dark spots,paid search,no
+C02362,2026-04-28,breakouts,quiz organic,yes
+C02363,2026-04-28,dark spots,paid search,no
+C02364,2026-04-28,sensitivity,paid social,no
+C02365,2026-04-28,breakouts,organic,yes
+C02366,2026-04-28,dark spots,organic,yes
+C02367,2026-04-28,breakouts,paid search,no
+C02368,2026-04-28,sensitivity,quiz organic,yes
+C02369,2026-04-28,breakouts,organic,yes
+C02370,2026-04-28,sensitivity,paid social,yes
+C02371,2026-04-28,sensitivity,quiz organic,yes
+C02372,2026-04-28,dark spots,paid social,yes
+C02373,2026-04-28,fine lines,organic,no
+C02374,2026-04-28,sensitivity,quiz organic,yes
+C02375,2026-04-29,sensitivity,organic,yes
+C02376,2026-04-29,fine lines,quiz organic,yes
+C02377,2026-04-29,dark spots,paid search,no
+C02378,2026-04-29,breakouts,paid social,no
+C02379,2026-04-29,fine lines,paid search,no
+C02380,2026-04-29,breakouts,paid social,yes
+C02381,2026-04-29,fine lines,quiz organic,yes
+C02382,2026-04-29,dark spots,paid social,no
+C02383,2026-04-29,sensitivity,organic,no
+C02384,2026-04-29,sensitivity,organic,no
+C02385,2026-04-29,sensitivity,paid social,yes
+C02386,2026-04-29,dark spots,organic,no
+C02387,2026-04-29,breakouts,paid social,no
+C02388,2026-04-29,sensitivity,organic,no
+C02389,2026-04-29,sensitivity,paid search,no
+C02390,2026-04-29,breakouts,paid social,no
+C02391,2026-04-29,dark spots,organic,yes
+C02392,2026-04-29,breakouts,paid search,yes
+C02393,2026-04-29,sensitivity,paid search,no
+C02394,2026-04-29,breakouts,organic,no
+C02395,2026-04-29,fine lines,paid social,yes
+C02396,2026-04-30,fine lines,paid social,no
+C02397,2026-04-30,breakouts,paid search,no
+C02398,2026-04-30,dark spots,paid search,yes
+C02399,2026-04-30,sensitivity,paid social,no
+C02400,2026-04-30,sensitivity,organic,yes
+C02401,2026-04-30,dark spots,paid search,no
+C02402,2026-04-30,sensitivity,paid search,no
+C02403,2026-04-30,fine lines,paid social,yes
+C02404,2026-04-30,sensitivity,organic,no
+C02405,2026-04-30,sensitivity,organic,no
+C02406,2026-04-30,fine lines,organic,no
+C02407,2026-04-30,dark spots,paid social,no
+C02408,2026-04-30,breakouts,paid search,no
+C02409,2026-04-30,dark spots,paid search,no
+C02410,2026-04-30,dark spots,paid search,yes
+C02411,2026-04-30,breakouts,paid search,no
+C02412,2026-04-30,sensitivity,organic,no
+C02413,2026-04-30,dark spots,paid social,yes
+C02414,2026-04-30,sensitivity,paid social,yes
+C02415,2026-04-30,sensitivity,paid social,yes
+C02416,2026-05-01,breakouts,paid social,no
+C02417,2026-05-01,fine lines,paid search,no
+C02418,2026-05-01,sensitivity,paid social,no
+C02419,2026-05-01,sensitivity,quiz organic,yes
+C02420,2026-05-01,breakouts,paid search,yes
+C02421,2026-05-01,breakouts,organic,yes
+C02422,2026-05-01,dark spots,organic,yes
+C02423,2026-05-01,fine lines,paid search,no
+C02424,2026-05-01,fine lines,quiz organic,yes
+C02425,2026-05-01,sensitivity,paid social,yes
+C02426,2026-05-01,dark spots,paid search,no
+C02427,2026-05-01,breakouts,paid social,no
+C02428,2026-05-01,dark spots,paid social,no
+C02429,2026-05-01,fine lines,organic,no
+C02430,2026-05-01,breakouts,paid social,no
+C02431,2026-05-01,breakouts,paid search,yes
+C02432,2026-05-01,sensitivity,organic,no
+C02433,2026-05-01,fine lines,paid search,yes
+C02434,2026-05-01,sensitivity,paid social,yes
+C02435,2026-05-01,sensitivity,paid social,yes
+C02436,2026-05-01,sensitivity,paid search,yes
+C02437,2026-05-01,breakouts,paid social,yes
+C02438,2026-05-01,sensitivity,quiz organic,yes
+C02439,2026-05-01,sensitivity,paid search,yes
+C02440,2026-05-01,sensitivity,paid social,yes
+C02441,2026-05-01,sensitivity,paid social,no
+C02442,2026-05-02,breakouts,paid search,no
+C02443,2026-05-02,fine lines,paid social,yes
+C02444,2026-05-02,dark spots,quiz organic,yes
+C02445,2026-05-02,sensitivity,paid search,no
+C02446,2026-05-02,fine lines,quiz organic,yes
+C02447,2026-05-02,dark spots,paid social,yes
+C02448,2026-05-02,breakouts,quiz organic,yes
+C02449,2026-05-02,fine lines,paid social,no
+C02450,2026-05-02,breakouts,paid social,yes
+C02451,2026-05-02,sensitivity,paid social,no
+C02452,2026-05-02,fine lines,paid social,yes
+C02453,2026-05-02,breakouts,paid social,yes
+C02454,2026-05-02,sensitivity,organic,no
+C02455,2026-05-02,sensitivity,quiz organic,yes
+C02456,2026-05-02,dark spots,quiz organic,yes
+C02457,2026-05-02,breakouts,paid search,no
+C02458,2026-05-03,dark spots,paid social,yes
+C02459,2026-05-03,fine lines,paid search,no
+C02460,2026-05-03,sensitivity,organic,yes
+C02461,2026-05-03,breakouts,quiz organic,yes
+C02462,2026-05-03,breakouts,organic,yes
+C02463,2026-05-03,sensitivity,quiz organic,yes
+C02464,2026-05-03,fine lines,quiz organic,yes
+C02465,2026-05-03,fine lines,paid search,no
+C02466,2026-05-03,fine lines,quiz organic,yes
+C02467,2026-05-03,dark spots,quiz organic,yes
+C02468,2026-05-03,dark spots,paid social,no
+C02469,2026-05-03,sensitivity,paid search,yes
+C02470,2026-05-03,breakouts,paid social,yes
+C02471,2026-05-03,dark spots,paid social,no
+C02472,2026-05-03,fine lines,organic,no
+C02473,2026-05-03,breakouts,paid social,yes
+C02474,2026-05-03,fine lines,paid search,yes
+C02475,2026-05-03,fine lines,paid social,no
+C02476,2026-05-03,dark spots,paid search,yes
+C02477,2026-05-03,sensitivity,paid social,yes
+C02478,2026-05-03,breakouts,organic,no
+C02479,2026-05-03,breakouts,paid social,yes
+C02480,2026-05-03,breakouts,organic,no
+C02481,2026-05-03,sensitivity,quiz organic,yes
+C02482,2026-05-03,breakouts,paid social,no
+C02483,2026-05-04,dark spots,paid social,no
+C02484,2026-05-04,breakouts,paid search,yes
+C02485,2026-05-04,sensitivity,paid social,no
+C02486,2026-05-04,fine lines,paid search,no
+C02487,2026-05-04,dark spots,paid search,no
+C02488,2026-05-04,dark spots,paid social,yes
+C02489,2026-05-04,fine lines,paid social,no
+C02490,2026-05-04,dark spots,paid social,no
+C02491,2026-05-04,fine lines,organic,yes
+C02492,2026-05-04,breakouts,paid social,yes
+C02493,2026-05-04,dark spots,paid social,yes
+C02494,2026-05-04,dark spots,paid search,yes
+C02495,2026-05-04,sensitivity,organic,yes
+C02496,2026-05-04,dark spots,paid social,yes
+C02497,2026-05-04,fine lines,quiz organic,yes
+C02498,2026-05-04,fine lines,organic,yes
+C02499,2026-05-04,fine lines,paid search,yes
+C02500,2026-05-04,sensitivity,paid social,no
+C02501,2026-05-04,dark spots,paid social,no
+C02502,2026-05-04,fine lines,quiz organic,yes
+C02503,2026-05-04,fine lines,paid social,yes
+C02504,2026-05-04,dark spots,paid social,yes
+C02505,2026-05-05,breakouts,paid search,no
+C02506,2026-05-05,sensitivity,quiz organic,yes
+C02507,2026-05-05,sensitivity,organic,yes
+C02508,2026-05-05,breakouts,paid search,no
+C02509,2026-05-05,breakouts,organic,no
+C02510,2026-05-05,fine lines,paid social,no
+C02511,2026-05-05,dark spots,paid search,no
+C02512,2026-05-05,dark spots,paid search,yes
+C02513,2026-05-05,sensitivity,paid social,no
+C02514,2026-05-05,breakouts,paid search,yes
+C02515,2026-05-05,fine lines,paid search,yes
+C02516,2026-05-05,dark spots,paid social,yes
+C02517,2026-05-05,fine lines,paid social,no
+C02518,2026-05-05,sensitivity,quiz organic,yes
+C02519,2026-05-05,breakouts,paid social,no
+C02520,2026-05-06,sensitivity,paid social,no
+C02521,2026-05-06,fine lines,organic,no
+C02522,2026-05-06,sensitivity,organic,yes
+C02523,2026-05-06,fine lines,quiz organic,yes
+C02524,2026-05-06,sensitivity,quiz organic,yes
+C02525,2026-05-06,sensitivity,paid social,yes
+C02526,2026-05-06,sensitivity,quiz organic,yes
+C02527,2026-05-06,sensitivity,paid search,yes
+C02528,2026-05-06,breakouts,paid search,no
+C02529,2026-05-06,dark spots,paid social,yes
+C02530,2026-05-06,fine lines,organic,no
+C02531,2026-05-06,dark spots,paid social,no
+C02532,2026-05-06,sensitivity,quiz organic,yes
+C02533,2026-05-06,sensitivity,organic,yes
+C02534,2026-05-06,fine lines,paid social,no
+C02535,2026-05-06,fine lines,quiz organic,yes
+C02536,2026-05-07,fine lines,quiz organic,yes
+C02537,2026-05-07,sensitivity,paid search,no
+C02538,2026-05-07,fine lines,paid social,yes
+C02539,2026-05-07,breakouts,quiz organic,yes
+C02540,2026-05-07,breakouts,paid search,no
+C02541,2026-05-07,breakouts,organic,yes
+C02542,2026-05-07,breakouts,paid social,yes
+C02543,2026-05-07,sensitivity,paid social,yes
+C02544,2026-05-07,breakouts,quiz organic,yes
+C02545,2026-05-07,dark spots,paid search,no
+C02546,2026-05-07,breakouts,organic,no
+C02547,2026-05-07,fine lines,paid social,no
+C02548,2026-05-07,fine lines,quiz organic,yes
+C02549,2026-05-07,fine lines,quiz organic,yes
+C02550,2026-05-07,fine lines,paid social,no
+C02551,2026-05-07,sensitivity,paid search,yes
+C02552,2026-05-08,fine lines,paid search,yes
+C02553,2026-05-08,fine lines,paid social,no
+C02554,2026-05-08,fine lines,organic,yes
+C02555,2026-05-08,breakouts,paid search,yes
+C02556,2026-05-08,fine lines,paid social,yes
+C02557,2026-05-08,dark spots,paid search,no
+C02558,2026-05-08,fine lines,paid social,no
+C02559,2026-05-08,breakouts,paid social,yes
+C02560,2026-05-08,dark spots,paid social,yes
+C02561,2026-05-08,breakouts,organic,yes
+C02562,2026-05-08,sensitivity,organic,no
+C02563,2026-05-08,breakouts,paid social,no
+C02564,2026-05-08,dark spots,paid search,yes
+C02565,2026-05-08,breakouts,paid search,yes
+C02566,2026-05-08,dark spots,paid social,no
+C02567,2026-05-08,fine lines,organic,yes
+C02568,2026-05-08,fine lines,quiz organic,yes
+C02569,2026-05-08,breakouts,paid search,yes
+C02570,2026-05-09,fine lines,quiz organic,yes
+C02571,2026-05-09,breakouts,quiz organic,yes
+C02572,2026-05-09,breakouts,paid social,no
+C02573,2026-05-09,fine lines,paid social,yes
+C02574,2026-05-09,dark spots,paid social,yes
+C02575,2026-05-09,breakouts,paid social,yes
+C02576,2026-05-09,dark spots,quiz organic,yes
+C02577,2026-05-09,dark spots,organic,no
+C02578,2026-05-09,fine lines,quiz organic,yes
+C02579,2026-05-09,breakouts,organic,no
+C02580,2026-05-09,fine lines,paid social,yes
+C02581,2026-05-09,fine lines,paid social,no
+C02582,2026-05-09,fine lines,paid search,no
+C02583,2026-05-09,dark spots,paid social,no
+C02584,2026-05-09,fine lines,quiz organic,yes
+C02585,2026-05-09,sensitivity,organic,no
+C02586,2026-05-09,sensitivity,paid search,no
+C02587,2026-05-10,sensitivity,paid search,no
+C02588,2026-05-10,sensitivity,quiz organic,yes
+C02589,2026-05-10,sensitivity,paid social,no
+C02590,2026-05-10,breakouts,paid social,no
+C02591,2026-05-10,fine lines,quiz organic,yes
+C02592,2026-05-10,dark spots,organic,no
+C02593,2026-05-10,dark spots,paid social,no
+C02594,2026-05-10,sensitivity,quiz organic,yes
+C02595,2026-05-10,breakouts,paid social,no
+C02596,2026-05-10,dark spots,paid social,no
+C02597,2026-05-10,breakouts,paid search,yes
+C02598,2026-05-10,sensitivity,paid social,yes
+C02599,2026-05-10,dark spots,paid social,yes
+C02600,2026-05-10,fine lines,quiz organic,yes
+C02601,2026-05-10,fine lines,paid social,no
+C02602,2026-05-10,sensitivity,organic,yes
+C02603,2026-05-10,dark spots,paid social,no
+C02604,2026-05-10,fine lines,organic,no
+C02605,2026-05-10,sensitivity,paid search,no
+C02606,2026-05-10,sensitivity,paid social,no
+C02607,2026-05-10,breakouts,organic,no
+C02608,2026-05-10,fine lines,organic,no
+C02609,2026-05-10,sensitivity,organic,no
+C02610,2026-05-10,sensitivity,organic,yes
+C02611,2026-05-11,dark spots,paid social,no
+C02612,2026-05-11,fine lines,paid social,yes
+C02613,2026-05-11,fine lines,organic,yes
+C02614,2026-05-11,sensitivity,quiz organic,yes
+C02615,2026-05-11,dark spots,paid search,yes
+C02616,2026-05-11,breakouts,paid search,no
+C02617,2026-05-11,breakouts,paid social,yes
+C02618,2026-05-11,sensitivity,quiz organic,yes
+C02619,2026-05-11,fine lines,paid social,no
+C02620,2026-05-11,sensitivity,paid social,no
+C02621,2026-05-11,sensitivity,quiz organic,yes
+C02622,2026-05-11,sensitivity,quiz organic,yes
+C02623,2026-05-11,fine lines,paid social,yes
+C02624,2026-05-11,sensitivity,paid search,no
+C02625,2026-05-12,fine lines,paid search,no
+C02626,2026-05-12,sensitivity,paid search,no
+C02627,2026-05-12,breakouts,paid search,no
+C02628,2026-05-12,breakouts,quiz organic,yes
+C02629,2026-05-12,fine lines,quiz organic,yes
+C02630,2026-05-12,dark spots,quiz organic,yes
+C02631,2026-05-12,breakouts,paid social,no
+C02632,2026-05-12,breakouts,paid social,yes
+C02633,2026-05-12,sensitivity,paid search,no
+C02634,2026-05-12,dark spots,paid search,no
+C02635,2026-05-12,dark spots,quiz organic,yes
+C02636,2026-05-12,fine lines,paid social,yes
+C02637,2026-05-12,breakouts,paid social,yes
+C02638,2026-05-12,sensitivity,paid search,no
+C02639,2026-05-12,dark spots,organic,yes
+C02640,2026-05-12,dark spots,paid social,yes
+C02641,2026-05-12,fine lines,paid social,no
+C02642,2026-05-12,breakouts,paid social,no
+C02643,2026-05-12,dark spots,paid search,no
+C02644,2026-05-12,breakouts,quiz organic,yes
+C02645,2026-05-12,dark spots,quiz organic,yes
+C02646,2026-05-12,fine lines,paid search,no
+C02647,2026-05-12,breakouts,paid social,no
+C02648,2026-05-13,dark spots,quiz organic,yes
+C02649,2026-05-13,breakouts,paid search,no
+C02650,2026-05-13,dark spots,paid social,yes
+C02651,2026-05-13,sensitivity,paid search,no
+C02652,2026-05-13,dark spots,paid social,yes
+C02653,2026-05-13,fine lines,paid search,no
+C02654,2026-05-13,dark spots,organic,yes
+C02655,2026-05-13,breakouts,paid social,no
+C02656,2026-05-13,fine lines,organic,no
+C02657,2026-05-13,sensitivity,paid social,yes
+C02658,2026-05-13,sensitivity,paid social,no
+C02659,2026-05-13,dark spots,paid search,yes
+C02660,2026-05-13,dark spots,paid social,yes
+C02661,2026-05-13,dark spots,quiz organic,yes
+C02662,2026-05-13,sensitivity,quiz organic,yes
+C02663,2026-05-13,dark spots,paid social,no
+C02664,2026-05-13,dark spots,paid social,yes
+C02665,2026-05-13,sensitivity,paid search,yes
+C02666,2026-05-13,fine lines,paid social,yes
+C02667,2026-05-13,dark spots,organic,yes
+C02668,2026-05-13,fine lines,organic,no
+C02669,2026-05-14,sensitivity,paid search,no
+C02670,2026-05-14,fine lines,paid social,yes
+C02671,2026-05-14,fine lines,paid search,no
+C02672,2026-05-14,dark spots,organic,yes
+C02673,2026-05-14,fine lines,organic,no
+C02674,2026-05-14,dark spots,quiz organic,yes
+C02675,2026-05-14,fine lines,quiz organic,yes
+C02676,2026-05-14,breakouts,paid social,yes
+C02677,2026-05-14,fine lines,organic,no
+C02678,2026-05-14,fine lines,paid search,yes
+C02679,2026-05-14,breakouts,paid search,no
+C02680,2026-05-14,fine lines,paid social,yes
+C02681,2026-05-14,fine lines,paid search,no
+C02682,2026-05-14,dark spots,organic,no
+C02683,2026-05-14,fine lines,paid search,no
+C02684,2026-05-14,breakouts,organic,no
+C02685,2026-05-14,fine lines,paid search,no
+C02686,2026-05-14,breakouts,paid social,no
+C02687,2026-05-14,breakouts,paid social,no
+C02688,2026-05-14,dark spots,paid social,yes
+C02689,2026-05-14,sensitivity,organic,yes
+C02690,2026-05-14,fine lines,quiz organic,yes
+C02691,2026-05-15,fine lines,organic,no
+C02692,2026-05-15,sensitivity,organic,no
+C02693,2026-05-15,dark spots,organic,no
+C02694,2026-05-15,sensitivity,paid search,no
+C02695,2026-05-15,sensitivity,paid social,no
+C02696,2026-05-15,dark spots,quiz organic,yes
+C02697,2026-05-15,sensitivity,paid search,yes
+C02698,2026-05-15,dark spots,paid search,yes
+C02699,2026-05-15,dark spots,paid social,no
+C02700,2026-05-15,fine lines,organic,yes
+C02701,2026-05-15,breakouts,paid social,yes
+C02702,2026-05-15,fine lines,paid social,no
+C02703,2026-05-15,fine lines,paid social,no
+C02704,2026-05-15,dark spots,quiz organic,yes
+C02705,2026-05-15,breakouts,quiz organic,yes
+C02706,2026-05-15,fine lines,quiz organic,yes
+C02707,2026-05-15,sensitivity,quiz organic,yes
+C02708,2026-05-15,fine lines,paid social,yes
+C02709,2026-05-15,fine lines,paid social,yes
+C02710,2026-05-15,fine lines,paid social,no
+C02711,2026-05-15,fine lines,paid search,no
+C02712,2026-05-15,breakouts,paid social,yes
+C02713,2026-05-15,dark spots,paid social,yes
+C02714,2026-05-15,breakouts,paid social,no
+C02715,2026-05-16,breakouts,paid social,no
+C02716,2026-05-16,sensitivity,quiz organic,yes
+C02717,2026-05-16,fine lines,quiz organic,yes
+C02718,2026-05-16,breakouts,paid social,yes
+C02719,2026-05-16,dark spots,paid social,yes
+C02720,2026-05-16,dark spots,quiz organic,yes
+C02721,2026-05-16,dark spots,paid social,no
+C02722,2026-05-16,fine lines,paid social,yes
+C02723,2026-05-16,fine lines,quiz organic,yes
+C02724,2026-05-16,dark spots,paid social,no
+C02725,2026-05-16,sensitivity,paid social,no
+C02726,2026-05-16,fine lines,paid social,no
+C02727,2026-05-16,dark spots,paid search,no
+C02728,2026-05-16,breakouts,paid social,yes
+C02729,2026-05-16,dark spots,quiz organic,yes
+C02730,2026-05-17,dark spots,paid social,yes
+C02731,2026-05-17,dark spots,organic,no
+C02732,2026-05-17,sensitivity,paid social,no
+C02733,2026-05-17,sensitivity,organic,yes
+C02734,2026-05-17,breakouts,paid social,no
+C02735,2026-05-17,dark spots,paid social,no
+C02736,2026-05-17,dark spots,paid search,yes
+C02737,2026-05-17,sensitivity,organic,yes
+C02738,2026-05-17,dark spots,paid social,yes
+C02739,2026-05-17,sensitivity,paid search,yes
+C02740,2026-05-17,breakouts,organic,no
+C02741,2026-05-17,breakouts,paid social,yes
+C02742,2026-05-17,sensitivity,organic,yes
+C02743,2026-05-17,fine lines,paid social,yes
+C02744,2026-05-17,breakouts,paid social,no
+C02745,2026-05-17,dark spots,paid social,no
+C02746,2026-05-17,breakouts,paid search,no
+C02747,2026-05-17,dark spots,paid search,yes
+C02748,2026-05-17,sensitivity,organic,no
+C02749,2026-05-17,sensitivity,paid search,yes
+C02750,2026-05-17,fine lines,paid search,no
+C02751,2026-05-17,sensitivity,paid social,no
+C02752,2026-05-17,sensitivity,quiz organic,yes
+C02753,2026-05-17,fine lines,organic,yes
+C02754,2026-05-17,dark spots,organic,no
+C02755,2026-05-17,sensitivity,paid search,no
+C02756,2026-05-18,fine lines,organic,yes
+C02757,2026-05-18,fine lines,quiz organic,yes
+C02758,2026-05-18,fine lines,paid search,no
+C02759,2026-05-18,dark spots,paid social,no
+C02760,2026-05-18,fine lines,quiz organic,yes
+C02761,2026-05-18,sensitivity,quiz organic,yes
+C02762,2026-05-18,fine lines,quiz organic,yes
+C02763,2026-05-18,breakouts,paid search,no
+C02764,2026-05-18,fine lines,paid social,yes
+C02765,2026-05-18,fine lines,paid search,yes
+C02766,2026-05-18,dark spots,organic,no
+C02767,2026-05-18,breakouts,organic,yes
+C02768,2026-05-18,breakouts,organic,no
+C02769,2026-05-18,dark spots,quiz organic,yes
+C02770,2026-05-19,breakouts,paid social,yes
+C02771,2026-05-19,fine lines,organic,yes
+C02772,2026-05-19,sensitivity,quiz organic,yes
+C02773,2026-05-19,breakouts,quiz organic,yes
+C02774,2026-05-19,breakouts,paid search,no
+C02775,2026-05-19,sensitivity,organic,no
+C02776,2026-05-19,sensitivity,paid social,yes
+C02777,2026-05-19,sensitivity,quiz organic,yes
+C02778,2026-05-19,breakouts,paid social,no
+C02779,2026-05-19,fine lines,paid social,no
+C02780,2026-05-19,dark spots,paid social,yes
+C02781,2026-05-19,fine lines,paid search,yes
+C02782,2026-05-19,dark spots,organic,yes
+C02783,2026-05-19,dark spots,paid search,yes
+C02784,2026-05-19,dark spots,quiz organic,yes
+C02785,2026-05-19,dark spots,paid search,yes
+C02786,2026-05-19,dark spots,quiz organic,yes
+C02787,2026-05-19,sensitivity,quiz organic,yes
+C02788,2026-05-19,fine lines,paid social,yes
+C02789,2026-05-19,fine lines,paid search,yes
+C02790,2026-05-19,fine lines,organic,no
+C02791,2026-05-19,sensitivity,quiz organic,yes
+C02792,2026-05-19,breakouts,organic,yes
+C02793,2026-05-19,fine lines,paid search,yes
+C02794,2026-05-19,dark spots,paid social,no
+C02795,2026-05-19,dark spots,paid search,no
+C02796,2026-05-20,dark spots,organic,no
+C02797,2026-05-20,breakouts,organic,no
+C02798,2026-05-20,breakouts,quiz organic,yes
+C02799,2026-05-20,breakouts,paid social,no
+C02800,2026-05-20,breakouts,organic,no
+C02801,2026-05-20,sensitivity,paid social,no
+C02802,2026-05-20,fine lines,quiz organic,yes
+C02803,2026-05-20,fine lines,organic,yes
+C02804,2026-05-20,dark spots,paid search,no
+C02805,2026-05-20,breakouts,organic,no
+C02806,2026-05-20,breakouts,paid social,yes
+C02807,2026-05-20,fine lines,paid search,yes
+C02808,2026-05-20,sensitivity,organic,no
+C02809,2026-05-20,dark spots,quiz organic,yes
+C02810,2026-05-20,sensitivity,quiz organic,yes
+C02811,2026-05-20,breakouts,paid social,no
+C02812,2026-05-21,fine lines,paid search,yes
+C02813,2026-05-21,dark spots,quiz organic,yes
+C02814,2026-05-21,breakouts,paid social,no
+C02815,2026-05-21,sensitivity,paid search,no
+C02816,2026-05-21,breakouts,paid search,yes
+C02817,2026-05-21,dark spots,quiz organic,yes
+C02818,2026-05-21,breakouts,organic,no
+C02819,2026-05-21,dark spots,quiz organic,yes
+C02820,2026-05-21,dark spots,paid social,yes
+C02821,2026-05-21,dark spots,paid social,yes
+C02822,2026-05-21,sensitivity,paid social,no
+C02823,2026-05-21,dark spots,paid search,no
+C02824,2026-05-21,breakouts,organic,no
+C02825,2026-05-21,sensitivity,paid social,no
+C02826,2026-05-21,breakouts,paid social,no
+C02827,2026-05-21,breakouts,organic,no
+C02828,2026-05-21,dark spots,organic,no
+C02829,2026-05-21,breakouts,quiz organic,yes
+C02830,2026-05-21,dark spots,organic,yes
+C02831,2026-05-21,sensitivity,paid social,yes
+C02832,2026-05-21,fine lines,quiz organic,yes
+C02833,2026-05-21,fine lines,paid social,no
+C02834,2026-05-22,breakouts,paid social,no
+C02835,2026-05-22,fine lines,paid social,yes
+C02836,2026-05-22,sensitivity,paid social,no
+C02837,2026-05-22,breakouts,paid social,no
+C02838,2026-05-22,dark spots,organic,yes
+C02839,2026-05-22,dark spots,quiz organic,yes
+C02840,2026-05-22,dark spots,paid social,yes
+C02841,2026-05-22,breakouts,paid search,no
+C02842,2026-05-22,breakouts,organic,yes
+C02843,2026-05-22,fine lines,organic,no
+C02844,2026-05-22,fine lines,paid social,yes
+C02845,2026-05-22,fine lines,paid search,yes
+C02846,2026-05-22,breakouts,paid social,yes
+C02847,2026-05-22,fine lines,quiz organic,yes
+C02848,2026-05-22,breakouts,paid social,yes
+C02849,2026-05-23,breakouts,organic,no
+C02850,2026-05-23,dark spots,paid search,no
+C02851,2026-05-23,fine lines,quiz organic,yes
+C02852,2026-05-23,dark spots,paid search,yes
+C02853,2026-05-23,sensitivity,paid social,yes
+C02854,2026-05-23,sensitivity,paid social,yes
+C02855,2026-05-23,sensitivity,paid search,yes
+C02856,2026-05-23,fine lines,paid social,no
+C02857,2026-05-23,breakouts,organic,no
+C02858,2026-05-23,sensitivity,paid social,no
+C02859,2026-05-23,dark spots,quiz organic,yes
+C02860,2026-05-23,sensitivity,organic,no
+C02861,2026-05-23,sensitivity,paid search,yes
+C02862,2026-05-23,sensitivity,quiz organic,yes
+C02863,2026-05-24,dark spots,paid social,no
+C02864,2026-05-24,dark spots,organic,yes
+C02865,2026-05-24,breakouts,paid search,no
+C02866,2026-05-24,breakouts,organic,no
+C02867,2026-05-24,breakouts,paid search,no
+C02868,2026-05-24,breakouts,paid search,no
+C02869,2026-05-24,sensitivity,paid search,yes
+C02870,2026-05-24,dark spots,paid search,yes
+C02871,2026-05-24,dark spots,organic,no
+C02872,2026-05-24,breakouts,paid search,yes
+C02873,2026-05-24,fine lines,organic,yes
+C02874,2026-05-24,breakouts,paid social,yes
+C02875,2026-05-24,fine lines,organic,no
+C02876,2026-05-24,fine lines,quiz organic,yes
+C02877,2026-05-24,dark spots,paid social,yes
+C02878,2026-05-25,fine lines,paid search,yes
+C02879,2026-05-25,sensitivity,paid search,no
+C02880,2026-05-25,fine lines,quiz organic,yes
+C02881,2026-05-25,sensitivity,paid social,no
+C02882,2026-05-25,sensitivity,paid social,no
+C02883,2026-05-25,sensitivity,paid social,yes
+C02884,2026-05-25,sensitivity,paid social,yes
+C02885,2026-05-25,dark spots,quiz organic,yes
+C02886,2026-05-25,breakouts,paid social,yes
+C02887,2026-05-25,dark spots,paid social,yes
+C02888,2026-05-25,sensitivity,quiz organic,yes
+C02889,2026-05-25,fine lines,paid search,no
+C02890,2026-05-25,dark spots,paid social,yes
+C02891,2026-05-25,fine lines,organic,no
+C02892,2026-05-25,dark spots,paid social,yes
+C02893,2026-05-25,dark spots,organic,no
+C02894,2026-05-25,fine lines,organic,yes
+C02895,2026-05-25,sensitivity,paid search,no
+C02896,2026-05-25,breakouts,paid search,no
+C02897,2026-05-26,breakouts,paid search,yes
+C02898,2026-05-26,sensitivity,quiz organic,yes
+C02899,2026-05-26,breakouts,quiz organic,yes
+C02900,2026-05-26,sensitivity,paid social,yes
+C02901,2026-05-26,dark spots,quiz organic,yes
+C02902,2026-05-26,dark spots,quiz organic,yes
+C02903,2026-05-26,sensitivity,organic,no
+C02904,2026-05-26,dark spots,organic,no
+C02905,2026-05-26,sensitivity,paid search,no
+C02906,2026-05-26,fine lines,organic,yes
+C02907,2026-05-26,breakouts,paid search,no
+C02908,2026-05-26,fine lines,paid search,no
+C02909,2026-05-26,sensitivity,organic,yes
+C02910,2026-05-26,fine lines,quiz organic,yes
+C02911,2026-05-26,dark spots,paid search,no
+C02912,2026-05-26,dark spots,organic,yes
+C02913,2026-05-26,fine lines,quiz organic,yes
+C02914,2026-05-26,dark spots,paid social,no
+C02915,2026-05-26,breakouts,paid social,yes
+C02916,2026-05-26,dark spots,paid search,no
+C02917,2026-05-27,breakouts,paid social,yes
+C02918,2026-05-27,sensitivity,organic,yes
+C02919,2026-05-27,breakouts,paid social,no
+C02920,2026-05-27,dark spots,paid search,no
+C02921,2026-05-27,fine lines,organic,yes
+C02922,2026-05-27,breakouts,paid social,no
+C02923,2026-05-27,fine lines,quiz organic,yes
+C02924,2026-05-27,dark spots,paid social,yes
+C02925,2026-05-27,fine lines,organic,no
+C02926,2026-05-27,sensitivity,organic,no
+C02927,2026-05-27,fine lines,paid social,yes
+C02928,2026-05-27,fine lines,paid social,no
+C02929,2026-05-27,breakouts,organic,no
+C02930,2026-05-27,sensitivity,paid social,yes
+C02931,2026-05-27,breakouts,organic,no
+C02932,2026-05-27,breakouts,paid social,no
+C02933,2026-05-27,breakouts,organic,no
+C02934,2026-05-27,sensitivity,paid social,no
+C02935,2026-05-27,fine lines,paid social,no
+C02936,2026-05-27,dark spots,paid search,yes
+C02937,2026-05-27,breakouts,paid search,no
+C02938,2026-05-27,sensitivity,organic,yes
+C02939,2026-05-27,dark spots,organic,no
+C02940,2026-05-27,dark spots,paid social,yes
+C02941,2026-05-28,dark spots,quiz organic,yes
+C02942,2026-05-28,dark spots,paid search,yes
+C02943,2026-05-28,dark spots,paid social,yes
+C02944,2026-05-28,sensitivity,organic,yes
+C02945,2026-05-28,fine lines,paid social,no
+C02946,2026-05-28,breakouts,paid social,no
+C02947,2026-05-28,dark spots,paid social,yes
+C02948,2026-05-28,fine lines,paid social,no
+C02949,2026-05-28,breakouts,paid search,no
+C02950,2026-05-28,dark spots,paid social,yes
+C02951,2026-05-28,dark spots,paid social,no
+C02952,2026-05-28,breakouts,quiz organic,yes
+C02953,2026-05-28,fine lines,paid social,no
+C02954,2026-05-28,fine lines,paid search,no
+C02955,2026-05-28,dark spots,paid social,no
+C02956,2026-05-28,dark spots,organic,no
+C02957,2026-05-28,sensitivity,quiz organic,yes
+C02958,2026-05-28,fine lines,paid social,no
+C02959,2026-05-28,sensitivity,organic,no
+C02960,2026-05-28,dark spots,quiz organic,yes
+C02961,2026-05-28,sensitivity,paid social,no
+C02962,2026-05-28,breakouts,paid social,yes
+C02963,2026-05-28,breakouts,paid social,no
+C02964,2026-05-28,dark spots,quiz organic,yes
+C02965,2026-05-29,dark spots,paid search,yes
+C02966,2026-05-29,dark spots,paid social,no
+C02967,2026-05-29,dark spots,paid search,no
+C02968,2026-05-29,fine lines,quiz organic,yes
+C02969,2026-05-29,dark spots,paid social,yes
+C02970,2026-05-29,dark spots,paid social,no
+C02971,2026-05-29,dark spots,paid social,yes
+C02972,2026-05-29,breakouts,paid search,no
+C02973,2026-05-29,breakouts,paid search,no
+C02974,2026-05-29,sensitivity,paid search,yes
+C02975,2026-05-29,dark spots,paid search,no
+C02976,2026-05-29,dark spots,paid social,no
+C02977,2026-05-29,breakouts,paid social,no
+C02978,2026-05-29,dark spots,paid search,no
+C02979,2026-05-29,breakouts,paid social,no
+C02980,2026-05-29,breakouts,paid social,no
+C02981,2026-05-29,fine lines,paid social,no
+C02982,2026-05-29,breakouts,paid social,no
+C02983,2026-05-29,dark spots,paid social,yes
+C02984,2026-05-29,sensitivity,paid search,no
+C02985,2026-05-30,dark spots,paid search,yes
+C02986,2026-05-30,fine lines,organic,yes
+C02987,2026-05-30,sensitivity,quiz organic,yes
+C02988,2026-05-30,fine lines,paid social,no
+C02989,2026-05-30,breakouts,paid social,yes
+C02990,2026-05-30,dark spots,paid social,yes
+C02991,2026-05-30,dark spots,paid social,no
+C02992,2026-05-30,sensitivity,paid search,no
+C02993,2026-05-30,sensitivity,paid search,yes
+C02994,2026-05-30,sensitivity,organic,yes
+C02995,2026-05-30,sensitivity,organic,no
+C02996,2026-05-30,breakouts,organic,no
+C02997,2026-05-30,dark spots,quiz organic,yes
+C02998,2026-05-30,sensitivity,paid social,no
+C02999,2026-05-30,dark spots,paid search,no
+C03000,2026-05-30,sensitivity,paid search,yes
+C03001,2026-05-30,sensitivity,paid search,no
+C03002,2026-05-31,dark spots,organic,no
+C03003,2026-05-31,fine lines,paid social,no
+C03004,2026-05-31,fine lines,paid social,yes
+C03005,2026-05-31,dark spots,organic,no
+C03006,2026-05-31,dark spots,paid social,no
+C03007,2026-05-31,breakouts,quiz organic,yes
+C03008,2026-05-31,sensitivity,quiz organic,yes
+C03009,2026-05-31,dark spots,quiz organic,yes
+C03010,2026-05-31,sensitivity,paid search,yes
+C03011,2026-05-31,sensitivity,paid search,no
+C03012,2026-05-31,sensitivity,paid search,yes
+C03013,2026-05-31,sensitivity,paid search,yes
+C03014,2026-05-31,fine lines,quiz organic,yes
+C03015,2026-05-31,dark spots,quiz organic,yes
+C03016,2026-06-01,sensitivity,organic,no
+C03017,2026-06-01,fine lines,paid search,no
+C03018,2026-06-01,breakouts,organic,yes
+C03019,2026-06-01,dark spots,paid social,no
+C03020,2026-06-01,sensitivity,paid search,no
+C03021,2026-06-01,fine lines,paid social,yes
+C03022,2026-06-01,breakouts,paid social,no
+C03023,2026-06-01,sensitivity,quiz organic,yes
+C03024,2026-06-01,sensitivity,quiz organic,yes
+C03025,2026-06-01,dark spots,paid search,yes
+C03026,2026-06-01,fine lines,quiz organic,yes
+C03027,2026-06-01,breakouts,paid social,no
+C03028,2026-06-01,fine lines,paid social,yes
+C03029,2026-06-01,fine lines,quiz organic,yes
+C03030,2026-06-01,dark spots,paid search,no
+C03031,2026-06-01,fine lines,quiz organic,yes
+C03032,2026-06-01,fine lines,paid search,no
+C03033,2026-06-01,fine lines,organic,yes
+C03034,2026-06-01,dark spots,paid social,no
+C03035,2026-06-01,dark spots,paid search,no
+C03036,2026-06-01,sensitivity,quiz organic,yes
+C03037,2026-06-01,fine lines,paid social,no
+C03038,2026-06-01,fine lines,organic,yes
+C03039,2026-06-02,breakouts,quiz organic,yes
+C03040,2026-06-02,sensitivity,paid search,no
+C03041,2026-06-02,dark spots,quiz organic,yes
+C03042,2026-06-02,dark spots,paid social,yes
+C03043,2026-06-02,dark spots,organic,no
+C03044,2026-06-02,breakouts,quiz organic,yes
+C03045,2026-06-02,fine lines,organic,no
+C03046,2026-06-02,sensitivity,quiz organic,yes
+C03047,2026-06-02,sensitivity,quiz organic,yes
+C03048,2026-06-02,fine lines,paid social,no
+C03049,2026-06-02,dark spots,paid search,yes
+C03050,2026-06-02,dark spots,paid social,no
+C03051,2026-06-02,breakouts,paid social,yes
+C03052,2026-06-02,fine lines,paid social,no
+C03053,2026-06-02,breakouts,paid search,yes
+C03054,2026-06-02,sensitivity,quiz organic,yes
+C03055,2026-06-02,sensitivity,paid social,yes
+C03056,2026-06-02,breakouts,paid search,yes
+C03057,2026-06-02,fine lines,paid social,no
+C03058,2026-06-02,sensitivity,paid search,yes
+C03059,2026-06-02,sensitivity,organic,no
+C03060,2026-06-02,dark spots,paid search,yes
+C03061,2026-06-02,fine lines,quiz organic,yes
+C03062,2026-06-02,sensitivity,paid social,yes
+C03063,2026-06-02,fine lines,quiz organic,yes
+C03064,2026-06-03,fine lines,quiz organic,yes
+C03065,2026-06-03,fine lines,quiz organic,yes
+C03066,2026-06-03,breakouts,organic,no
+C03067,2026-06-03,dark spots,paid search,yes
+C03068,2026-06-03,dark spots,paid social,no
+C03069,2026-06-03,sensitivity,paid search,no
+C03070,2026-06-03,breakouts,paid search,no
+C03071,2026-06-03,fine lines,paid social,yes
+C03072,2026-06-03,sensitivity,paid search,no
+C03073,2026-06-03,breakouts,paid social,no
+C03074,2026-06-03,breakouts,paid social,no
+C03075,2026-06-03,breakouts,paid social,yes
+C03076,2026-06-03,dark spots,paid search,yes
+C03077,2026-06-03,fine lines,paid social,yes
+C03078,2026-06-03,sensitivity,quiz organic,yes
+C03079,2026-06-03,sensitivity,paid social,no
+C03080,2026-06-03,breakouts,paid social,yes
+C03081,2026-06-03,dark spots,paid social,yes
+C03082,2026-06-03,sensitivity,organic,no
+C03083,2026-06-03,dark spots,paid search,no
+C03084,2026-06-04,fine lines,paid search,yes
+C03085,2026-06-04,breakouts,organic,no
+C03086,2026-06-04,dark spots,quiz organic,yes
+C03087,2026-06-04,fine lines,quiz organic,yes
+C03088,2026-06-04,fine lines,paid social,no
+C03089,2026-06-04,fine lines,paid social,no
+C03090,2026-06-04,sensitivity,paid social,no
+C03091,2026-06-04,dark spots,paid search,no
+C03092,2026-06-04,sensitivity,paid search,yes
+C03093,2026-06-04,sensitivity,paid social,no
+C03094,2026-06-04,fine lines,quiz organic,yes
+C03095,2026-06-04,breakouts,organic,yes
+C03096,2026-06-04,dark spots,organic,no
+C03097,2026-06-04,sensitivity,paid social,no
+C03098,2026-06-04,sensitivity,quiz organic,yes
+C03099,2026-06-04,breakouts,quiz organic,yes
+C03100,2026-06-04,dark spots,paid social,no
+C03101,2026-06-04,breakouts,paid social,no
+C03102,2026-06-04,dark spots,quiz organic,yes
+C03103,2026-06-04,breakouts,organic,yes
+C03104,2026-06-04,fine lines,paid search,yes
+C03105,2026-06-04,dark spots,paid social,yes
+C03106,2026-06-04,dark spots,paid search,no
+C03107,2026-06-04,fine lines,paid search,no
+C03108,2026-06-05,fine lines,paid social,yes
+C03109,2026-06-05,fine lines,quiz organic,yes
+C03110,2026-06-05,breakouts,paid search,yes
+C03111,2026-06-05,breakouts,organic,yes
+C03112,2026-06-05,fine lines,paid search,no
+C03113,2026-06-05,fine lines,quiz organic,yes
+C03114,2026-06-05,fine lines,organic,yes
+C03115,2026-06-05,fine lines,paid social,yes
+C03116,2026-06-05,dark spots,paid social,yes
+C03117,2026-06-05,dark spots,paid search,no
+C03118,2026-06-05,breakouts,paid search,yes
+C03119,2026-06-05,breakouts,paid search,no
+C03120,2026-06-05,breakouts,quiz organic,yes
+C03121,2026-06-05,dark spots,organic,no
+C03122,2026-06-05,dark spots,quiz organic,yes
+C03123,2026-06-05,sensitivity,organic,no
+C03124,2026-06-05,breakouts,paid search,yes
+C03125,2026-06-06,fine lines,paid search,no
+C03126,2026-06-06,breakouts,paid search,no
+C03127,2026-06-06,breakouts,organic,yes
+C03128,2026-06-06,breakouts,paid social,no
+C03129,2026-06-06,breakouts,paid social,no
+C03130,2026-06-06,fine lines,paid search,no
+C03131,2026-06-06,fine lines,paid search,yes
+C03132,2026-06-06,sensitivity,quiz organic,yes
+C03133,2026-06-06,sensitivity,paid social,yes
+C03134,2026-06-06,breakouts,paid social,yes
+C03135,2026-06-06,breakouts,organic,no
+C03136,2026-06-06,fine lines,paid social,no
+C03137,2026-06-06,breakouts,paid social,yes
+C03138,2026-06-06,dark spots,paid search,no
+C03139,2026-06-06,sensitivity,organic,yes
+C03140,2026-06-06,sensitivity,paid search,no
+C03141,2026-06-06,fine lines,paid social,no
+C03142,2026-06-06,breakouts,quiz organic,yes
+C03143,2026-06-06,breakouts,paid social,no
+C03144,2026-06-06,fine lines,quiz organic,yes
+C03145,2026-06-07,fine lines,quiz organic,yes
+C03146,2026-06-07,sensitivity,paid social,yes
+C03147,2026-06-07,fine lines,paid social,yes
+C03148,2026-06-07,sensitivity,paid social,yes
+C03149,2026-06-07,dark spots,paid social,no
+C03150,2026-06-07,breakouts,quiz organic,yes
+C03151,2026-06-07,dark spots,paid social,yes
+C03152,2026-06-07,breakouts,paid social,no
+C03153,2026-06-07,dark spots,quiz organic,yes
+C03154,2026-06-07,dark spots,quiz organic,yes
+C03155,2026-06-07,dark spots,quiz organic,yes
+C03156,2026-06-07,sensitivity,paid social,no
+C03157,2026-06-07,breakouts,paid search,no
+C03158,2026-06-07,sensitivity,quiz organic,yes
+C03159,2026-06-07,fine lines,quiz organic,yes
+C03160,2026-06-07,dark spots,paid social,no
+C03161,2026-06-08,breakouts,paid social,yes
+C03162,2026-06-08,fine lines,paid social,no
+C03163,2026-06-08,breakouts,paid social,yes
+C03164,2026-06-08,sensitivity,quiz organic,yes
+C03165,2026-06-08,sensitivity,quiz organic,yes
+C03166,2026-06-08,sensitivity,paid search,yes
+C03167,2026-06-08,breakouts,quiz organic,yes
+C03168,2026-06-08,breakouts,paid search,no
+C03169,2026-06-08,fine lines,organic,yes
+C03170,2026-06-08,sensitivity,paid social,no
+C03171,2026-06-08,dark spots,quiz organic,yes
+C03172,2026-06-08,dark spots,paid search,no
+C03173,2026-06-08,dark spots,paid social,no
+C03174,2026-06-08,breakouts,paid social,no
+C03175,2026-06-08,sensitivity,quiz organic,yes
+C03176,2026-06-08,sensitivity,organic,yes
+C03177,2026-06-08,dark spots,organic,yes
+C03178,2026-06-08,sensitivity,quiz organic,yes
+C03179,2026-06-08,breakouts,organic,no
+C03180,2026-06-09,fine lines,quiz organic,yes
+C03181,2026-06-09,sensitivity,quiz organic,yes
+C03182,2026-06-09,sensitivity,paid search,no
+C03183,2026-06-09,dark spots,quiz organic,yes
+C03184,2026-06-09,fine lines,quiz organic,yes
+C03185,2026-06-09,sensitivity,organic,no
+C03186,2026-06-09,dark spots,paid social,no
+C03187,2026-06-09,fine lines,quiz organic,yes
+C03188,2026-06-09,dark spots,paid social,yes
+C03189,2026-06-09,breakouts,paid social,no
+C03190,2026-06-09,dark spots,quiz organic,yes
+C03191,2026-06-09,fine lines,quiz organic,yes
+C03192,2026-06-09,fine lines,quiz organic,yes
+C03193,2026-06-09,dark spots,paid social,yes
+C03194,2026-06-09,dark spots,organic,yes
+C03195,2026-06-09,dark spots,paid social,yes
+C03196,2026-06-09,breakouts,paid search,no
+C03197,2026-06-09,fine lines,organic,no
+C03198,2026-06-09,sensitivity,quiz organic,yes
+C03199,2026-06-10,breakouts,organic,no
+C03200,2026-06-10,fine lines,organic,no
+C03201,2026-06-10,breakouts,paid social,yes
+C03202,2026-06-10,fine lines,paid search,no
+C03203,2026-06-10,fine lines,paid social,yes
+C03204,2026-06-10,dark spots,organic,yes
+C03205,2026-06-10,breakouts,quiz organic,yes
+C03206,2026-06-10,breakouts,paid search,yes
+C03207,2026-06-10,dark spots,paid search,yes
+C03208,2026-06-10,dark spots,paid social,no
+C03209,2026-06-10,breakouts,paid social,no
+C03210,2026-06-10,breakouts,paid social,no
+C03211,2026-06-10,breakouts,paid social,yes
+C03212,2026-06-10,breakouts,organic,no
+C03213,2026-06-10,fine lines,paid search,yes
+C03214,2026-06-10,breakouts,quiz organic,yes
+C03215,2026-06-10,sensitivity,quiz organic,yes
+C03216,2026-06-10,dark spots,paid social,yes
+C03217,2026-06-10,fine lines,paid social,no
+C03218,2026-06-10,dark spots,organic,no
+C03219,2026-06-10,breakouts,paid social,yes
+C03220,2026-06-11,breakouts,organic,no
+C03221,2026-06-11,dark spots,organic,no
+C03222,2026-06-11,fine lines,paid social,no
+C03223,2026-06-11,fine lines,quiz organic,yes
+C03224,2026-06-11,sensitivity,quiz organic,yes
+C03225,2026-06-11,fine lines,paid social,no
+C03226,2026-06-11,fine lines,organic,no
+C03227,2026-06-11,fine lines,paid social,no
+C03228,2026-06-11,sensitivity,paid search,yes
+C03229,2026-06-11,dark spots,paid social,no
+C03230,2026-06-11,fine lines,organic,no
+C03231,2026-06-11,fine lines,paid social,yes
+C03232,2026-06-11,fine lines,paid social,yes
+C03233,2026-06-11,fine lines,organic,yes
+C03234,2026-06-11,breakouts,paid social,yes
+C03235,2026-06-11,dark spots,paid social,no
+C03236,2026-06-11,breakouts,paid search,yes
+C03237,2026-06-11,fine lines,paid social,yes
+C03238,2026-06-11,dark spots,paid search,no
+C03239,2026-06-11,breakouts,paid social,no
+C03240,2026-06-11,fine lines,paid social,no
+C03241,2026-06-11,sensitivity,paid social,yes
+C03242,2026-06-11,fine lines,quiz organic,yes
+C03243,2026-06-12,sensitivity,quiz organic,yes
+C03244,2026-06-12,breakouts,paid search,no
+C03245,2026-06-12,fine lines,paid social,no
+C03246,2026-06-12,sensitivity,paid social,yes
+C03247,2026-06-12,fine lines,organic,no
+C03248,2026-06-12,breakouts,paid social,no
+C03249,2026-06-12,dark spots,paid social,no
+C03250,2026-06-12,fine lines,quiz organic,yes
+C03251,2026-06-12,sensitivity,paid social,yes
+C03252,2026-06-12,dark spots,paid search,no
+C03253,2026-06-12,dark spots,organic,no
+C03254,2026-06-12,sensitivity,quiz organic,yes
+C03255,2026-06-12,breakouts,paid social,yes
+C03256,2026-06-12,fine lines,organic,no
+C03257,2026-06-12,fine lines,quiz organic,yes
+C03258,2026-06-12,sensitivity,quiz organic,yes
+C03259,2026-06-12,dark spots,organic,yes
+C03260,2026-06-12,dark spots,paid search,no
+C03261,2026-06-12,breakouts,quiz organic,yes
+C03262,2026-06-12,breakouts,paid search,no
+C03263,2026-06-12,fine lines,paid search,yes
+C03264,2026-06-12,sensitivity,paid search,no
+C03265,2026-06-13,dark spots,paid search,no
+C03266,2026-06-13,sensitivity,paid search,no
+C03267,2026-06-13,sensitivity,paid search,no
+C03268,2026-06-13,fine lines,paid social,no
+C03269,2026-06-13,fine lines,paid social,no
+C03270,2026-06-13,dark spots,paid social,yes
+C03271,2026-06-13,fine lines,paid social,no
+C03272,2026-06-13,sensitivity,organic,no
+C03273,2026-06-13,breakouts,paid search,yes
+C03274,2026-06-13,dark spots,paid search,no
+C03275,2026-06-13,sensitivity,quiz organic,yes
+C03276,2026-06-13,sensitivity,organic,yes
+C03277,2026-06-13,sensitivity,paid social,yes
+C03278,2026-06-13,breakouts,paid social,no
+C03279,2026-06-13,dark spots,paid social,yes
+C03280,2026-06-13,dark spots,organic,yes
+C03281,2026-06-13,fine lines,paid social,yes
+C03282,2026-06-13,breakouts,organic,yes
+C03283,2026-06-13,sensitivity,quiz organic,yes
+C03284,2026-06-13,fine lines,quiz organic,yes
+C03285,2026-06-13,dark spots,paid social,no
+C03286,2026-06-13,fine lines,paid social,yes
+C03287,2026-06-13,fine lines,paid social,yes
+C03288,2026-06-13,dark spots,organic,yes
+C03289,2026-06-13,dark spots,paid search,yes
+C03290,2026-06-13,breakouts,organic,yes
+C03291,2026-06-14,dark spots,organic,yes
+C03292,2026-06-14,fine lines,paid social,no
+C03293,2026-06-14,fine lines,paid social,yes
+C03294,2026-06-14,fine lines,organic,yes
+C03295,2026-06-14,dark spots,paid social,no
+C03296,2026-06-14,fine lines,organic,yes
+C03297,2026-06-14,sensitivity,quiz organic,yes
+C03298,2026-06-14,breakouts,paid social,yes
+C03299,2026-06-14,dark spots,organic,no
+C03300,2026-06-14,breakouts,paid social,yes
+C03301,2026-06-14,fine lines,quiz organic,yes
+C03302,2026-06-14,fine lines,organic,no
+C03303,2026-06-14,breakouts,quiz organic,yes
+C03304,2026-06-14,sensitivity,organic,no
+C03305,2026-06-14,fine lines,paid social,no
+C03306,2026-06-14,fine lines,paid social,yes
+C03307,2026-06-15,sensitivity,quiz organic,yes
+C03308,2026-06-15,fine lines,organic,no
+C03309,2026-06-15,fine lines,organic,yes
+C03310,2026-06-15,sensitivity,paid social,no
+C03311,2026-06-15,breakouts,quiz organic,yes
+C03312,2026-06-15,dark spots,paid search,yes
+C03313,2026-06-15,dark spots,quiz organic,yes
+C03314,2026-06-15,fine lines,quiz organic,yes
+C03315,2026-06-15,sensitivity,paid social,no
+C03316,2026-06-15,fine lines,paid search,yes
+C03317,2026-06-15,fine lines,paid search,no
+C03318,2026-06-15,breakouts,paid social,yes
+C03319,2026-06-15,dark spots,paid search,yes
+C03320,2026-06-15,sensitivity,paid social,yes
+C03321,2026-06-15,breakouts,paid search,yes
+C03322,2026-06-15,sensitivity,quiz organic,yes
+C03323,2026-06-15,fine lines,paid social,yes
+C03324,2026-06-15,dark spots,organic,no
+C03325,2026-06-16,fine lines,paid social,no
+C03326,2026-06-16,breakouts,quiz organic,yes
+C03327,2026-06-16,breakouts,paid search,no
+C03328,2026-06-16,breakouts,paid social,no
+C03329,2026-06-16,dark spots,paid search,yes
+C03330,2026-06-16,breakouts,organic,yes
+C03331,2026-06-16,fine lines,quiz organic,yes
+C03332,2026-06-16,sensitivity,paid social,no
+C03333,2026-06-16,sensitivity,paid social,yes
+C03334,2026-06-16,dark spots,paid search,yes
+C03335,2026-06-16,sensitivity,quiz organic,yes
+C03336,2026-06-16,sensitivity,paid search,no
+C03337,2026-06-16,breakouts,paid search,yes
+C03338,2026-06-16,breakouts,paid social,yes
+C03339,2026-06-16,fine lines,paid search,yes
+C03340,2026-06-17,fine lines,paid search,no
+C03341,2026-06-17,breakouts,organic,no
+C03342,2026-06-17,sensitivity,paid social,no
+C03343,2026-06-17,sensitivity,paid search,no
+C03344,2026-06-17,fine lines,paid search,no
+C03345,2026-06-17,fine lines,quiz organic,yes
+C03346,2026-06-17,sensitivity,organic,yes
+C03347,2026-06-17,fine lines,paid social,yes
+C03348,2026-06-17,sensitivity,organic,yes
+C03349,2026-06-17,sensitivity,organic,yes
+C03350,2026-06-17,fine lines,quiz organic,yes
+C03351,2026-06-17,fine lines,paid search,yes
+C03352,2026-06-17,fine lines,paid social,yes
+C03353,2026-06-17,breakouts,organic,yes
+C03354,2026-06-17,sensitivity,paid social,yes
+C03355,2026-06-17,breakouts,paid social,no
+C03356,2026-06-17,dark spots,paid search,yes
+C03357,2026-06-17,breakouts,paid search,no
+C03358,2026-06-17,fine lines,paid social,yes
+C03359,2026-06-17,sensitivity,paid search,yes
+C03360,2026-06-18,sensitivity,paid social,no
+C03361,2026-06-18,sensitivity,quiz organic,yes
+C03362,2026-06-18,breakouts,paid social,no
+C03363,2026-06-18,dark spots,paid search,yes
+C03364,2026-06-18,fine lines,quiz organic,yes
+C03365,2026-06-18,sensitivity,paid social,no
+C03366,2026-06-18,sensitivity,paid social,yes
+C03367,2026-06-18,fine lines,paid social,yes
+C03368,2026-06-18,sensitivity,paid search,no
+C03369,2026-06-18,breakouts,organic,yes
+C03370,2026-06-18,breakouts,organic,no
+C03371,2026-06-18,sensitivity,organic,no
+C03372,2026-06-18,fine lines,quiz organic,yes
+C03373,2026-06-18,breakouts,paid search,yes
+C03374,2026-06-18,sensitivity,paid social,yes
+C03375,2026-06-18,dark spots,paid social,no
+C03376,2026-06-19,sensitivity,organic,no
+C03377,2026-06-19,fine lines,organic,yes
+C03378,2026-06-19,breakouts,paid search,yes
+C03379,2026-06-19,dark spots,paid social,yes
+C03380,2026-06-19,breakouts,organic,yes
+C03381,2026-06-19,breakouts,paid social,no
+C03382,2026-06-19,sensitivity,paid social,no
+C03383,2026-06-19,fine lines,paid social,no
+C03384,2026-06-19,sensitivity,quiz organic,yes
+C03385,2026-06-19,sensitivity,organic,no
+C03386,2026-06-19,sensitivity,paid search,no
+C03387,2026-06-19,dark spots,paid social,no
+C03388,2026-06-19,fine lines,paid social,no
+C03389,2026-06-19,breakouts,quiz organic,yes
+C03390,2026-06-19,breakouts,organic,no
+C03391,2026-06-19,breakouts,paid social,yes
+C03392,2026-06-19,fine lines,quiz organic,yes
+C03393,2026-06-19,fine lines,paid search,no
+C03394,2026-06-19,fine lines,paid social,no
+C03395,2026-06-19,dark spots,quiz organic,yes
+C03396,2026-06-19,breakouts,paid search,no
+C03397,2026-06-20,fine lines,quiz organic,yes
+C03398,2026-06-20,breakouts,paid search,no
+C03399,2026-06-20,dark spots,paid social,no
+C03400,2026-06-20,breakouts,quiz organic,yes
+C03401,2026-06-20,dark spots,quiz organic,yes
+C03402,2026-06-20,fine lines,paid search,yes
+C03403,2026-06-20,sensitivity,organic,yes
+C03404,2026-06-20,dark spots,paid search,yes
+C03405,2026-06-20,breakouts,organic,yes
+C03406,2026-06-20,sensitivity,paid social,yes
+C03407,2026-06-20,sensitivity,paid search,no
+C03408,2026-06-20,dark spots,organic,no
+C03409,2026-06-20,sensitivity,paid search,no
+C03410,2026-06-20,breakouts,paid search,no
+C03411,2026-06-20,dark spots,quiz organic,yes
+C03412,2026-06-20,breakouts,organic,no
+C03413,2026-06-20,sensitivity,paid social,no
+C03414,2026-06-20,fine lines,paid search,no
+C03415,2026-06-20,sensitivity,paid search,yes
+C03416,2026-06-20,sensitivity,organic,yes
+C03417,2026-06-20,breakouts,paid social,yes
+C03418,2026-06-20,fine lines,paid social,yes
+C03419,2026-06-20,breakouts,paid social,yes
+C03420,2026-06-20,breakouts,paid social,yes
+C03421,2026-06-20,breakouts,paid social,no
+C03422,2026-06-21,dark spots,paid search,yes
+C03423,2026-06-21,dark spots,organic,no
+C03424,2026-06-21,dark spots,paid social,no
+C03425,2026-06-21,fine lines,organic,yes
+C03426,2026-06-21,fine lines,organic,yes
+C03427,2026-06-21,dark spots,organic,no
+C03428,2026-06-21,breakouts,quiz organic,yes
+C03429,2026-06-21,dark spots,paid search,yes
+C03430,2026-06-21,dark spots,paid social,yes
+C03431,2026-06-21,breakouts,paid search,no
+C03432,2026-06-21,sensitivity,organic,no
+C03433,2026-06-21,dark spots,paid search,no
+C03434,2026-06-21,dark spots,organic,no
+C03435,2026-06-21,dark spots,paid social,yes
+C03436,2026-06-21,fine lines,organic,yes
+C03437,2026-06-21,dark spots,paid social,no
+C03438,2026-06-22,sensitivity,paid search,no
+C03439,2026-06-22,fine lines,paid social,no
+C03440,2026-06-22,breakouts,paid search,no
+C03441,2026-06-22,dark spots,paid social,no
+C03442,2026-06-22,fine lines,paid search,yes
+C03443,2026-06-22,dark spots,paid social,yes
+C03444,2026-06-22,fine lines,paid search,yes
+C03445,2026-06-22,breakouts,quiz organic,yes
+C03446,2026-06-22,dark spots,paid social,yes
+C03447,2026-06-22,fine lines,quiz organic,yes
+C03448,2026-06-22,fine lines,quiz organic,yes
+C03449,2026-06-22,fine lines,paid social,no
+C03450,2026-06-22,breakouts,paid social,no
+C03451,2026-06-22,dark spots,paid social,yes
+C03452,2026-06-22,fine lines,paid social,yes
+C03453,2026-06-22,fine lines,paid social,yes
+C03454,2026-06-22,dark spots,paid search,yes
+C03455,2026-06-22,dark spots,paid search,no
+C03456,2026-06-22,sensitivity,quiz organic,yes
+C03457,2026-06-22,dark spots,quiz organic,yes
+C03458,2026-06-23,breakouts,quiz organic,yes
+C03459,2026-06-23,dark spots,paid search,no
+C03460,2026-06-23,fine lines,paid search,yes
+C03461,2026-06-23,fine lines,organic,yes
+C03462,2026-06-23,breakouts,organic,no
+C03463,2026-06-23,fine lines,paid social,yes
+C03464,2026-06-23,fine lines,paid social,yes
+C03465,2026-06-23,dark spots,organic,no
+C03466,2026-06-23,dark spots,paid search,no
+C03467,2026-06-23,breakouts,paid search,no
+C03468,2026-06-23,breakouts,paid search,no
+C03469,2026-06-23,sensitivity,organic,no
+C03470,2026-06-23,sensitivity,paid search,yes
+C03471,2026-06-23,sensitivity,paid social,no
+C03472,2026-06-23,sensitivity,paid social,no
+C03473,2026-06-23,breakouts,paid social,no
+C03474,2026-06-23,dark spots,organic,yes
+C03475,2026-06-23,dark spots,paid social,yes
+C03476,2026-06-23,fine lines,paid search,no
+C03477,2026-06-23,dark spots,paid social,no
+C03478,2026-06-23,sensitivity,paid search,no
+C03479,2026-06-24,fine lines,quiz organic,yes
+C03480,2026-06-24,fine lines,organic,no
+C03481,2026-06-24,dark spots,paid search,yes
+C03482,2026-06-24,dark spots,paid social,yes
+C03483,2026-06-24,breakouts,paid social,no
+C03484,2026-06-24,sensitivity,paid search,yes
+C03485,2026-06-24,breakouts,quiz organic,yes
+C03486,2026-06-24,sensitivity,paid search,no
+C03487,2026-06-24,dark spots,organic,no
+C03488,2026-06-24,dark spots,paid social,no
+C03489,2026-06-24,dark spots,paid social,yes
+C03490,2026-06-24,sensitivity,paid social,no
+C03491,2026-06-24,sensitivity,quiz organic,yes
+C03492,2026-06-24,sensitivity,paid social,no
+C03493,2026-06-24,fine lines,paid social,no
+C03494,2026-06-24,breakouts,paid social,no
+C03495,2026-06-24,dark spots,paid social,yes
+C03496,2026-06-24,breakouts,organic,yes
+C03497,2026-06-24,sensitivity,paid search,no
+C03498,2026-06-24,breakouts,paid social,yes
+C03499,2026-06-24,breakouts,quiz organic,yes
+C03500,2026-06-24,fine lines,organic,no
+C03501,2026-06-24,fine lines,quiz organic,yes
+C03502,2026-06-25,fine lines,organic,no
+C03503,2026-06-25,fine lines,organic,no
+C03504,2026-06-25,sensitivity,paid social,no
+C03505,2026-06-25,dark spots,paid search,no
+C03506,2026-06-25,dark spots,paid search,yes
+C03507,2026-06-25,dark spots,paid search,no
+C03508,2026-06-25,sensitivity,paid search,no
+C03509,2026-06-25,sensitivity,paid social,no
+C03510,2026-06-25,breakouts,paid social,yes
+C03511,2026-06-25,dark spots,paid social,yes
+C03512,2026-06-25,dark spots,organic,yes
+C03513,2026-06-25,fine lines,paid search,yes
+C03514,2026-06-25,fine lines,quiz organic,yes
+C03515,2026-06-25,breakouts,paid social,yes
+C03516,2026-06-25,fine lines,paid social,no
+C03517,2026-06-25,fine lines,quiz organic,yes
+C03518,2026-06-25,dark spots,paid social,no
+C03519,2026-06-26,fine lines,paid social,no
+C03520,2026-06-26,breakouts,organic,no
+C03521,2026-06-26,fine lines,paid social,yes
+C03522,2026-06-26,breakouts,organic,yes
+C03523,2026-06-26,dark spots,organic,yes
+C03524,2026-06-26,breakouts,paid social,yes
+C03525,2026-06-26,sensitivity,paid social,no
+C03526,2026-06-26,sensitivity,paid social,yes
+C03527,2026-06-26,sensitivity,organic,no
+C03528,2026-06-26,breakouts,paid search,yes
+C03529,2026-06-26,breakouts,paid social,no
+C03530,2026-06-26,dark spots,quiz organic,yes
+C03531,2026-06-26,breakouts,organic,no
+C03532,2026-06-26,dark spots,quiz organic,yes
+C03533,2026-06-26,breakouts,quiz organic,yes
+C03534,2026-06-26,sensitivity,quiz organic,yes
+C03535,2026-06-26,dark spots,organic,no
+C03536,2026-06-26,fine lines,paid search,yes
+C03537,2026-06-26,fine lines,paid search,yes
+C03538,2026-06-26,dark spots,paid search,no
+C03539,2026-06-26,dark spots,paid social,no
+C03540,2026-06-27,fine lines,quiz organic,yes
+C03541,2026-06-27,sensitivity,paid social,no
+C03542,2026-06-27,fine lines,paid social,no
+C03543,2026-06-27,sensitivity,organic,no
+C03544,2026-06-27,dark spots,organic,no
+C03545,2026-06-27,dark spots,organic,yes
+C03546,2026-06-27,dark spots,paid social,no
+C03547,2026-06-27,breakouts,paid social,no
+C03548,2026-06-27,breakouts,paid social,yes
+C03549,2026-06-27,dark spots,quiz organic,yes
+C03550,2026-06-27,fine lines,paid social,no
+C03551,2026-06-27,sensitivity,quiz organic,yes
+C03552,2026-06-27,fine lines,paid search,yes
+C03553,2026-06-27,breakouts,paid search,yes
+C03554,2026-06-28,dark spots,organic,no
+C03555,2026-06-28,breakouts,paid social,no
+C03556,2026-06-28,dark spots,organic,no
+C03557,2026-06-28,sensitivity,paid social,no
+C03558,2026-06-28,breakouts,quiz organic,yes
+C03559,2026-06-28,fine lines,paid search,yes
+C03560,2026-06-28,breakouts,quiz organic,yes
+C03561,2026-06-28,sensitivity,paid social,yes
+C03562,2026-06-28,dark spots,paid social,yes
+C03563,2026-06-28,sensitivity,organic,yes
+C03564,2026-06-28,sensitivity,paid search,yes
+C03565,2026-06-28,dark spots,paid social,no
+C03566,2026-06-28,fine lines,paid social,yes
+C03567,2026-06-28,dark spots,paid social,yes
+C03568,2026-06-28,fine lines,paid search,no
+C03569,2026-06-28,dark spots,paid search,yes
+C03570,2026-06-28,dark spots,paid search,yes
+C03571,2026-06-28,breakouts,organic,no
+C03572,2026-06-28,sensitivity,paid search,no
+C03573,2026-06-28,breakouts,paid social,yes
+C03574,2026-06-28,dark spots,organic,no
+C03575,2026-06-28,dark spots,paid social,no
+C03576,2026-06-28,dark spots,paid search,yes
+C03577,2026-06-28,sensitivity,quiz organic,yes
+C03578,2026-06-28,breakouts,paid social,no
+C03579,2026-06-29,dark spots,organic,no
+C03580,2026-06-29,fine lines,paid search,no
+C03581,2026-06-29,fine lines,paid social,no
+C03582,2026-06-29,dark spots,organic,yes
+C03583,2026-06-29,dark spots,organic,yes
+C03584,2026-06-29,dark spots,organic,no
+C03585,2026-06-29,dark spots,paid search,yes
+C03586,2026-06-29,dark spots,paid social,no
+C03587,2026-06-29,fine lines,organic,no
+C03588,2026-06-29,breakouts,paid social,yes
+C03589,2026-06-29,breakouts,paid social,yes
+C03590,2026-06-29,sensitivity,organic,yes
+C03591,2026-06-29,fine lines,paid social,yes
+C03592,2026-06-29,dark spots,paid social,yes
+C03593,2026-06-29,fine lines,paid social,yes
+C03594,2026-06-29,fine lines,paid social,no
+C03595,2026-06-29,fine lines,paid search,no

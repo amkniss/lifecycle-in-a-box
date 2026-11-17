@@ -1,0 +1,8 @@
+customers=3595
+orders=6607
+total_revenue=395420.00
+repeat_rate_pct=61.4
+subscription_share_of_orders_pct=47.7
+avg_revenue_per_customer=109.99
+quiz_repeat_pct=60.1
+nonquiz_repeat_pct=63.0

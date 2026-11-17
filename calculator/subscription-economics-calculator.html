@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Subscription Economics Calculator, Lifecycle in a Box</title>
+<style>
+body{font-family:Georgia,serif;max-width:680px;margin:40px auto;padding:0 20px;color:#1c2b26;background:#faf8f4}
+h1{font-size:26px} label{display:block;margin:14px 0 4px;font-size:15px}
+input{width:100%;padding:8px;font-size:16px;border:1px solid #b9c4bd;border-radius:6px}
+.out{background:#fff;border:1px solid #d8ded9;border-radius:10px;padding:18px;margin-top:24px}
+.big{font-size:22px;font-weight:bold}
+small{color:#5a6a61}
+</style></head><body>
+<h1>Subscription Economics Calculator</h1>
+<p>A planning model from <i>Lifecycle in a Box</i> (Amy Kniss). Invented defaults from a fictional brand. Change the interval and watch what a too-short interval does to a year of subscription revenue: it does not create more orders, it creates earlier cancellations.</p>
+<label>Subscribers starting today <input id="subs" type="number" value="1000"></label>
+<label>Subscription price per order ($) <input id="price" type="number" value="54.40" step="0.01"></label>
+<label>Gross margin (%) <input id="margin" type="number" value="66"></label>
+<label>Delivery interval (days) <input id="interval" type="number" value="45"></label>
+<label>Monthly cancellation rate at the right interval (%) <input id="churn" type="number" value="8" step="0.1"></label>
+<label>Extra monthly cancellation when the interval is too short (%) <input id="penalty" type="number" value="4" step="0.1"></label>
+<label>The interval the product actually runs out at (days) <input id="trueuse" type="number" value="45"></label>
+<div class="out" id="out"></div>
+<p><small>Model: if the delivery interval is shorter than the true usage interval, the extra cancellation rate applies every month (inventory pile-up). Revenue is summed over 12 months of a decaying subscriber base. This is a teaching model, not a forecast.</small></p>
+<script>
+function calc(){
+  const subs=+document.getElementById('subs').value, price=+document.getElementById('price').value,
+  margin=+document.getElementById('margin').value/100, interval=+document.getElementById('interval').value,
+  churn=+document.getElementById('churn').value/100, penalty=+document.getElementById('penalty').value/100,
+  trueuse=+document.getElementById('trueuse').value;
+  const effChurn = interval < trueuse ? churn + penalty : churn;
+  let active=subs, rev=0;
+  const ordersPerMonth = 30.44/interval;
+  for(let m=0;m<12;m++){ rev += active*ordersPerMonth*price; active *= (1-effChurn); }
+  document.getElementById('out').innerHTML =
+   '<div class="big">12-month subscription revenue: $'+Math.round(rev).toLocaleString()+'</div>'+
+   '<p>Gross profit at your margin: <b>$'+Math.round(rev*margin).toLocaleString()+'</b><br>'+
+   'Subscribers left after 12 months: <b>'+Math.round(active).toLocaleString()+'</b> of '+subs.toLocaleString()+'<br>'+
+   'Effective monthly cancellation in this scenario: <b>'+(effChurn*100).toFixed(1)+'%</b>'+
+   (interval<trueuse ? '<br><span style="color:#a33">Your interval ('+interval+'d) is shorter than real usage ('+trueuse+'d). The pile-up penalty is applied. Try setting the interval to '+trueuse+' and compare.</span>' : '<br>Your interval matches real usage, so no pile-up penalty applies.')+'</p>';
+}
+document.querySelectorAll('input').forEach(i=>i.addEventListener('input',calc)); calc();
+</script></body></html>
